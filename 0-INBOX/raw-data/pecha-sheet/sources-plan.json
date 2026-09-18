@@ -1,0 +1,1482 @@
+[
+ {
+  "text_key": "toh0020",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0020-kp0001",
+     "slug": "toh0020-kp0001-bo",
+     "variant": "",
+     "segment_count": 47,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0020-kp0001",
+     "slug": "toh0020-kp0001-zh",
+     "variant": "",
+     "segment_count": 47,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0021",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0021",
+     "slug": "toh0021-bo",
+     "variant": "",
+     "segment_count": 32,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0021",
+     "slug": "toh0021-zh-hant",
+     "variant": "traditional",
+     "segment_count": 32,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "modern": [
+    {
+     "chapter": 1,
+     "work_id": "toh0021",
+     "slug": "toh0021-zh-modern",
+     "variant": "modern",
+     "segment_count": 32,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0026",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0026",
+     "slug": "toh0026-bo",
+     "variant": "",
+     "segment_count": 58,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0026",
+     "slug": "toh0026-zh-without-footnote",
+     "variant": "without-footnote",
+     "segment_count": 58,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0027",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0027",
+     "slug": "toh0027-bo",
+     "variant": "",
+     "segment_count": 85,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0027",
+     "slug": "toh0027-zh",
+     "variant": "",
+     "segment_count": 85,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0028",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0028",
+     "slug": "toh0028-bo",
+     "variant": "",
+     "segment_count": 21,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0028",
+     "slug": "toh0028-zh",
+     "variant": "",
+     "segment_count": 21,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0029",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0029",
+     "slug": "toh0029-bo",
+     "variant": "",
+     "segment_count": 37,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0029",
+     "slug": "toh0029-zh",
+     "variant": "",
+     "segment_count": 37,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0030",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0030",
+     "slug": "toh0030-bo",
+     "variant": "",
+     "segment_count": 39,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0030",
+     "slug": "toh0030-zh",
+     "variant": "",
+     "segment_count": 39,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0037",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0037",
+     "slug": "toh0037-bo",
+     "variant": "",
+     "segment_count": 425,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0037",
+     "slug": "toh0037-zh",
+     "variant": "",
+     "segment_count": 425,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0040",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0040",
+     "slug": "toh0040-bo",
+     "variant": "",
+     "segment_count": 45,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0040",
+     "slug": "toh0040-zh",
+     "variant": "",
+     "segment_count": 45,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0115",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0115",
+     "slug": "toh0115-bo",
+     "variant": "",
+     "segment_count": 86,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0137",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0137",
+     "slug": "toh0137-bo",
+     "variant": "",
+     "segment_count": 700,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0137",
+     "slug": "toh0137-zh",
+     "variant": "",
+     "segment_count": 700,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0150",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0150",
+     "slug": "toh0150-bo",
+     "variant": "",
+     "segment_count": 43,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0150",
+     "slug": "toh0150-zh",
+     "variant": "",
+     "segment_count": 43,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0158",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0158-kp0013",
+     "slug": "toh0158-kp0013-bo",
+     "variant": "",
+     "segment_count": 301,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0158-kp0013",
+     "slug": "toh0158-kp0013-zh-with-footnote",
+     "variant": "with-footnote",
+     "segment_count": 301,
+     "ingest_status": "with-body",
+     "superseded": [
+      "toh0158-kp0013-zh-without-footnote"
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0198",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0198-kp0016",
+     "slug": "toh0198-kp0016-bo",
+     "variant": "",
+     "segment_count": 1030,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0198-kp0016",
+     "slug": "toh0198-kp0016-zh-with-footnote",
+     "variant": "with-footnote",
+     "segment_count": 1131,
+     "ingest_status": "with-body",
+     "superseded": [
+      "toh0198-kp0016-zh-without-footnote"
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0212",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0212",
+     "slug": "toh0212-bo",
+     "variant": "",
+     "segment_count": 52,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0212",
+     "slug": "toh0212-zh",
+     "variant": "",
+     "segment_count": 52,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0215",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0215-kp0019",
+     "slug": "toh0215-kp0019-bo",
+     "variant": "",
+     "segment_count": 92,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0215-kp0019",
+     "slug": "toh0215-kp0019-zh-with-footnote",
+     "variant": "with-footnote",
+     "segment_count": 92,
+     "ingest_status": "with-body",
+     "superseded": [
+      "toh0215-kp0019-zh"
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0224",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0224",
+     "slug": "toh0224-bo",
+     "variant": "",
+     "segment_count": 572,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0224",
+     "slug": "toh0224-zh",
+     "variant": "",
+     "segment_count": 572,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0225",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0225-kp0021",
+     "slug": "toh0225-kp0021-bo",
+     "variant": "",
+     "segment_count": 55,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0225-kp0021",
+     "slug": "toh0225-kp0021-zh-with-footnote",
+     "variant": "with-footnote",
+     "segment_count": 55,
+     "ingest_status": "with-body",
+     "superseded": [
+      "toh0225-kp0021-zh-without-footnote"
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0247",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0247-kp0022",
+     "slug": "toh0247-kp0022-bo",
+     "variant": "",
+     "segment_count": 132,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0247-kp0022",
+     "slug": "toh0247-kp0022-zh-with-footnote",
+     "variant": "with-footnote",
+     "segment_count": 133,
+     "ingest_status": "with-body",
+     "superseded": [
+      "toh0247-kp0022-zh-without-footnote"
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0249",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0249",
+     "slug": "toh0249-bo",
+     "variant": "",
+     "segment_count": 47,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0249",
+     "slug": "toh0249-zh",
+     "variant": "",
+     "segment_count": 47,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0282",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0282",
+     "slug": "toh0282-bo",
+     "variant": "",
+     "segment_count": 25,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0282",
+     "slug": "toh0282-zh",
+     "variant": "",
+     "segment_count": 25,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0283",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0283-kp0025",
+     "slug": "toh0283-kp0025-bo",
+     "variant": "",
+     "segment_count": 42,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0283-kp0025",
+     "slug": "toh0283-kp0025-zh-with-footnote",
+     "variant": "with-footnote",
+     "segment_count": 42,
+     "ingest_status": "with-body",
+     "superseded": [
+      "toh0283-kp0025-zh"
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0312",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0312",
+     "slug": "toh0312-bo",
+     "variant": "",
+     "segment_count": 270,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0312",
+     "slug": "toh0312-zh",
+     "variant": "",
+     "segment_count": 270,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0328",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0328",
+     "slug": "toh0328-bo",
+     "variant": "",
+     "segment_count": 188,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0328",
+     "slug": "toh0328-zh",
+     "variant": "",
+     "segment_count": 188,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh0346",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh0346",
+     "slug": "toh0346-bo",
+     "variant": "",
+     "segment_count": 484,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh0346",
+     "slug": "toh0346-zh",
+     "variant": "",
+     "segment_count": 484,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh1123",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh1123",
+     "slug": "toh1123-bo",
+     "variant": "",
+     "segment_count": 42,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh1123",
+     "slug": "toh1123-zh-without-footnote",
+     "variant": "without-footnote",
+     "segment_count": 40,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh1124",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh1124",
+     "slug": "toh1124-bo",
+     "variant": "",
+     "segment_count": 257,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh1124",
+     "slug": "toh1124-zh-with-footnote",
+     "variant": "with-footnote",
+     "segment_count": 257,
+     "ingest_status": "with-body",
+     "superseded": [
+      "toh1124-zh-without-footnote"
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh1164",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh1164-kp0031",
+     "slug": "toh1164-kp0031-bo",
+     "variant": "",
+     "segment_count": 28,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh1164-kp0031",
+     "slug": "toh1164-kp0031-zh-with-footnote",
+     "variant": "with-footnote",
+     "segment_count": 28,
+     "ingest_status": "with-body",
+     "superseded": [
+      "toh1164-kp0031-zh-without-footnote"
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh16",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh16",
+     "slug": "toh16-bo",
+     "variant": "",
+     "segment_count": 430,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh16",
+     "slug": "toh16-zh-hant",
+     "variant": "traditional",
+     "segment_count": 430,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh341",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh341-tai202",
+     "slug": "toh341-tai202-bo",
+     "variant": "",
+     "segment_count": 0,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh341-tai202",
+     "slug": "toh341-tai202-zh",
+     "variant": "",
+     "segment_count": 11761,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh3822",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh3822-kp0032",
+     "slug": "toh3822-kp0032-bo",
+     "variant": "",
+     "segment_count": 382,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh3822-kp0032",
+     "slug": "toh3822-kp0032-zh-with-footnote",
+     "variant": "with-footnote",
+     "segment_count": 417,
+     "ingest_status": "with-body",
+     "superseded": [
+      "toh3822-kp0032-zh-without-footnote"
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh3877",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh3877-kp0034",
+     "slug": "toh3877-kp0034-bo",
+     "variant": "",
+     "segment_count": 520,
+     "ingest_status": "with-body",
+     "superseded": [
+      "toh3877-kp0034-bo-2"
+     ]
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh3877-kp0034",
+     "slug": "toh3877-kp0034-zh-with-footnote",
+     "variant": "with-footnote",
+     "segment_count": 520,
+     "ingest_status": "with-body",
+     "superseded": [
+      "toh3877-kp0034-zh-without-footnote",
+      "toh3877-kp0034-zh"
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh4045",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh4045-kp0040",
+     "slug": "toh4045-kp0040-bo",
+     "variant": "",
+     "segment_count": 334,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh4045-kp0040",
+     "slug": "toh4045-kp0040-zh-with-footnote",
+     "variant": "with-footnote",
+     "segment_count": 334,
+     "ingest_status": "with-body",
+     "superseded": [
+      "toh4045-kp0040-zh-without-footnote"
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh4049",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh4049-tai1605-1",
+     "slug": "toh4049-tai1605-1-bo",
+     "variant": "",
+     "segment_count": 1089,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 2,
+     "work_id": "toh4049-tai1605-2",
+     "slug": "toh4049-tai1605-2-bo",
+     "variant": "",
+     "segment_count": 1049,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 3,
+     "work_id": "toh4049-tai1605-3",
+     "slug": "toh4049-tai1605-3-bo",
+     "variant": "",
+     "segment_count": 885,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 4,
+     "work_id": "toh4049-tai1605-4",
+     "slug": "toh4049-tai1605-4-bo",
+     "variant": "",
+     "segment_count": 1170,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 5,
+     "work_id": "toh4049-tai1605-5",
+     "slug": "toh4049-tai1605-5-bo",
+     "variant": "",
+     "segment_count": 745,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh4049-tai1605-1",
+     "slug": "toh4049-tai1605-1-zh",
+     "variant": "",
+     "segment_count": 0,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 2,
+     "work_id": "toh4049-tai1605-2",
+     "slug": "toh4049-tai1605-2-zh",
+     "variant": "",
+     "segment_count": 1049,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 3,
+     "work_id": "toh4049-tai1605-3",
+     "slug": "toh4049-tai1605-3-zh",
+     "variant": "",
+     "segment_count": 885,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 4,
+     "work_id": "toh4049-tai1605-4",
+     "slug": "toh4049-tai1605-4-zh",
+     "variant": "",
+     "segment_count": 1170,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 5,
+     "work_id": "toh4049-tai1605-5",
+     "slug": "toh4049-tai1605-5-zh",
+     "variant": "",
+     "segment_count": 745,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh4054",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh4054-tai1606-1",
+     "slug": "toh4054-tai1606-1-bo",
+     "variant": "",
+     "segment_count": 0,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 2,
+     "work_id": "toh4054-tai1606-2",
+     "slug": "toh4054-tai1606-2-bo",
+     "variant": "",
+     "segment_count": 2880,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 3,
+     "work_id": "toh4054-tai1606-3",
+     "slug": "toh4054-tai1606-3-bo",
+     "variant": "",
+     "segment_count": 1005,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 4,
+     "work_id": "toh4054-tai1606-4",
+     "slug": "toh4054-tai1606-4-bo",
+     "variant": "",
+     "segment_count": 1652,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 5,
+     "work_id": "toh4054-tai1606-5",
+     "slug": "toh4054-tai1606-5-bo",
+     "variant": "",
+     "segment_count": 1364,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh4054-tai1606-1",
+     "slug": "toh4054-tai1606-1-zh",
+     "variant": "",
+     "segment_count": 0,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 2,
+     "work_id": "toh4054-tai1606-2",
+     "slug": "toh4054-tai1606-2-zh",
+     "variant": "",
+     "segment_count": 2880,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 3,
+     "work_id": "toh4054-tai1606-3",
+     "slug": "toh4054-tai1606-3-zh",
+     "variant": "",
+     "segment_count": 1005,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 4,
+     "work_id": "toh4054-tai1606-4",
+     "slug": "toh4054-tai1606-4-zh",
+     "variant": "",
+     "segment_count": 1652,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 5,
+     "work_id": "toh4054-tai1606-5",
+     "slug": "toh4054-tai1606-5-zh",
+     "variant": "",
+     "segment_count": 1364,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh44",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh44a-tai278",
+     "slug": "toh44a-tai278-bo",
+     "variant": "",
+     "segment_count": 232,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 2,
+     "work_id": "toh44a-tai279",
+     "slug": "toh44a-tai279-bo",
+     "variant": "",
+     "segment_count": 233,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh44a-tai278",
+     "slug": "toh44a-tai278-zh",
+     "variant": "",
+     "segment_count": 232,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 2,
+     "work_id": "toh44a-tai279",
+     "slug": "toh44a-tai279-zh",
+     "variant": "",
+     "segment_count": 235,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh46",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh46-tai310-02",
+     "slug": "toh46-tai310-02-bo",
+     "variant": "",
+     "segment_count": 557,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh46-tai310-02",
+     "slug": "toh46-tai310-02-zh",
+     "variant": "",
+     "segment_count": 557,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh555",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh555-tai665",
+     "slug": "toh555-tai665-bo",
+     "variant": "",
+     "segment_count": 8539,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh555-tai665",
+     "slug": "toh555-tai665-zh",
+     "variant": "",
+     "segment_count": 8539,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ },
+ {
+  "text_key": "toh56to57",
+  "editions": {
+   "root": [
+    {
+     "chapter": 1,
+     "work_id": "toh56to57-tai310-002",
+     "slug": "toh56to57-tai310-002-bo",
+     "variant": "",
+     "segment_count": 215,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 2,
+     "work_id": "toh56to57-tai310-003",
+     "slug": "toh56to57-tai310-003-bo",
+     "variant": "",
+     "segment_count": 328,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 3,
+     "work_id": "toh56to57-tai310-005",
+     "slug": "toh56to57-tai310-005-bo",
+     "variant": "",
+     "segment_count": 433,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 4,
+     "work_id": "toh56to57-tai310-006",
+     "slug": "toh56to57-tai310-006-bo",
+     "variant": "",
+     "segment_count": 355,
+     "ingest_status": "with-body",
+     "superseded": [
+      "toh56to57-tai310-006-bo-2"
+     ]
+    },
+    {
+     "chapter": 5,
+     "work_id": "toh56to57-tai310(002,003,005,006,008)",
+     "slug": "toh56to57-tai310002003005006008-bo",
+     "variant": "",
+     "segment_count": 0,
+     "ingest_status": "no-link",
+     "superseded": [
+      "toh56to57-tai310002003005006008-bo-2",
+      "toh56to57-tai310002003005006008-bo-3",
+      "toh56to57-tai310002003005006008-bo-4",
+      "toh56to57-tai310002003005006008-bo-5",
+      "toh56to57-tai310002003005006008-bo-6",
+      "toh56to57-tai310002003005006008-bo-7",
+      "toh56to57-tai310002003005006008-bo-8",
+      "toh56to57-tai310002003005006008-bo-9",
+      "toh56to57-tai310002003005006008-bo-10",
+      "toh56to57-tai310002003005006008-bo-11",
+      "toh56to57-tai310002003005006008-bo-12",
+      "toh56to57-tai310002003005006008-bo-13",
+      "toh56to57-tai310002003005006008-bo-14",
+      "toh56to57-tai310002003005006008-bo-15",
+      "toh56to57-tai310002003005006008-bo-16",
+      "toh56to57-tai310002003005006008-bo-17",
+      "toh56to57-tai310002003005006008-bo-18",
+      "toh56to57-tai310002003005006008-bo-19",
+      "toh56to57-tai310002003005006008-bo-20",
+      "toh56to57-tai310002003005006008-bo-21",
+      "toh56to57-tai310002003005006008-bo-22",
+      "toh56to57-tai310002003005006008-bo-23",
+      "toh56to57-tai310002003005006008-bo-24",
+      "toh56to57-tai310002003005006008-bo-25",
+      "toh56to57-tai310002003005006008-bo-26",
+      "toh56to57-tai310002003005006008-bo-27",
+      "toh56to57-tai310002003005006008-bo-28"
+     ]
+    },
+    {
+     "chapter": 6,
+     "work_id": "toh56to57-tai310-008",
+     "slug": "toh56to57-tai310-008-bo",
+     "variant": "",
+     "segment_count": 254,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 7,
+     "work_id": "toh56to57-tai316 (missing 004,009)",
+     "slug": "toh56to57-tai316-missing-004009-bo",
+     "variant": "",
+     "segment_count": 0,
+     "ingest_status": "no-link",
+     "superseded": []
+    },
+    {
+     "chapter": 8,
+     "work_id": "toh56to57-tai310-00101",
+     "slug": "toh56to57-tai310-00101-bo",
+     "variant": "",
+     "segment_count": 222,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 9,
+     "work_id": "toh56to57-tai310-00102",
+     "slug": "toh56to57-tai310-00102-bo",
+     "variant": "",
+     "segment_count": 266,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 10,
+     "work_id": "toh56to57-tai310-00103",
+     "slug": "toh56to57-tai310-00103-bo",
+     "variant": "",
+     "segment_count": 244,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 11,
+     "work_id": "toh56to57-tai310-00401",
+     "slug": "toh56to57-tai310-00401-bo",
+     "variant": "",
+     "segment_count": 398,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ],
+   "classical": [
+    {
+     "chapter": 1,
+     "work_id": "toh56to57-tai310-002",
+     "slug": "toh56to57-tai310-002-zh",
+     "variant": "",
+     "segment_count": 215,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 2,
+     "work_id": "toh56to57-tai310-003",
+     "slug": "toh56to57-tai310-003-zh",
+     "variant": "",
+     "segment_count": 328,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 3,
+     "work_id": "toh56to57-tai310-005",
+     "slug": "toh56to57-tai310-005-zh",
+     "variant": "",
+     "segment_count": 433,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 4,
+     "work_id": "toh56to57-tai310-006",
+     "slug": "toh56to57-tai310-006-zh",
+     "variant": "",
+     "segment_count": 355,
+     "ingest_status": "with-body",
+     "superseded": [
+      "toh56to57-tai310-006-zh-2"
+     ]
+    },
+    {
+     "chapter": 5,
+     "work_id": "toh56to57-tai310(002,003,005,006,008)",
+     "slug": "toh56to57-tai310002003005006008-zh",
+     "variant": "",
+     "segment_count": 0,
+     "ingest_status": "no-link",
+     "superseded": [
+      "toh56to57-tai310002003005006008-zh-2",
+      "toh56to57-tai310002003005006008-zh-3",
+      "toh56to57-tai310002003005006008-zh-4",
+      "toh56to57-tai310002003005006008-zh-5",
+      "toh56to57-tai310002003005006008-zh-6",
+      "toh56to57-tai310002003005006008-zh-7",
+      "toh56to57-tai310002003005006008-zh-8",
+      "toh56to57-tai310002003005006008-zh-9",
+      "toh56to57-tai310002003005006008-zh-10",
+      "toh56to57-tai310002003005006008-zh-11",
+      "toh56to57-tai310002003005006008-zh-12",
+      "toh56to57-tai310002003005006008-zh-13",
+      "toh56to57-tai310002003005006008-zh-14",
+      "toh56to57-tai310002003005006008-zh-15",
+      "toh56to57-tai310002003005006008-zh-16",
+      "toh56to57-tai310002003005006008-zh-17",
+      "toh56to57-tai310002003005006008-zh-18",
+      "toh56to57-tai310002003005006008-zh-19",
+      "toh56to57-tai310002003005006008-zh-20",
+      "toh56to57-tai310002003005006008-zh-21",
+      "toh56to57-tai310002003005006008-zh-22",
+      "toh56to57-tai310002003005006008-zh-23",
+      "toh56to57-tai310002003005006008-zh-24",
+      "toh56to57-tai310002003005006008-zh-25",
+      "toh56to57-tai310002003005006008-zh-26",
+      "toh56to57-tai310002003005006008-zh-27",
+      "toh56to57-tai310002003005006008-zh-28"
+     ]
+    },
+    {
+     "chapter": 6,
+     "work_id": "toh56to57-tai310-008",
+     "slug": "toh56to57-tai310-008-zh",
+     "variant": "",
+     "segment_count": 254,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 7,
+     "work_id": "toh56to57-tai316 (missing 004,009)",
+     "slug": "toh56to57-tai316-missing-004009-zh",
+     "variant": "",
+     "segment_count": 0,
+     "ingest_status": "no-link",
+     "superseded": []
+    },
+    {
+     "chapter": 8,
+     "work_id": "toh56to57-tai310-00101",
+     "slug": "toh56to57-tai310-00101-zh",
+     "variant": "",
+     "segment_count": 222,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 9,
+     "work_id": "toh56to57-tai310-00102",
+     "slug": "toh56to57-tai310-00102-zh",
+     "variant": "",
+     "segment_count": 266,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 10,
+     "work_id": "toh56to57-tai310-00103",
+     "slug": "toh56to57-tai310-00103-zh",
+     "variant": "",
+     "segment_count": 244,
+     "ingest_status": "with-body",
+     "superseded": []
+    },
+    {
+     "chapter": 11,
+     "work_id": "toh56to57-tai310-00401",
+     "slug": "toh56to57-tai310-00401-zh",
+     "variant": "",
+     "segment_count": 398,
+     "ingest_status": "with-body",
+     "superseded": []
+    }
+   ]
+  }
+ }
+]

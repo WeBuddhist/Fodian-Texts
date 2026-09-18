@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/tibetan/toh0020-kp0001-bo.md",
+                "file": "0-INBOX/texts/unsorted/toh0215_kp0019_-_zh_without-footnot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh0020-kp0001-bo"
+              "title": "toh0215_kp0019_-_zh_without-footnot"
             }
           }
         ]
@@ -199,6 +199,13 @@
   },
   "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/inbox-to-sources/__pycache__/inbox_to_sources.cpython-314.pyc",
+    "4-SYSTEM/Skills/inbox-to-sources/__pycache__",
+    "0-INBOX/raw-data/pecha-sheet/sources-plan.json",
+    "4-SYSTEM/Skills/inbox-to-sources/inbox_to_sources.py",
+    "4-SYSTEM/Skills/inbox-to-sources",
+    "0-INBOX/raw-data/pecha-sheet/pecha-upload.csv",
+    "0-INBOX/texts/tibetan/toh0020-kp0001-bo.md",
     "0-INBOX/texts/chinese/toh16-zh-hant.md",
     "0-INBOX/texts/aligned/toh16.md",
     "README.md",
@@ -223,17 +230,10 @@
     "0-INBOX/texts/aligned/toh4049-tai1605-5.md",
     "0-INBOX/texts/aligned/toh4049-tai1605-4.md",
     "0-INBOX/texts/aligned/toh4049-tai1605-3.md",
-    "0-INBOX/texts/aligned/toh4049-tai1605-2.md",
-    "0-INBOX/texts/aligned/toh4045-kp0040.md",
     "0-INBOX/texts/aligned",
     "0-INBOX/texts/_manifest.json",
     "0-INBOX/texts/unsorted",
     "0-INBOX/texts/chinese",
-    "0-INBOX/texts/tibetan",
-    "0-INBOX/raw-data/pecha-sheet/documents/original/《金光明最勝王經 》toh555-tai665_zh.docx",
-    "0-INBOX/raw-data/pecha-sheet/documents/original/《金光明最勝王經 》toh555-tai665_bo.docx",
-    "0-INBOX/raw-data/pecha-sheet/documents/original/《賢愚經》toh341-tai202_zh.docx",
-    "0-INBOX/raw-data/pecha-sheet/documents/original/《大方廣佛華嚴經》〈淨行品〉（實叉難陀譯）toh44a-tai279_zh.docx",
-    "0-INBOX/raw-data/pecha-sheet/documents/original/《大方廣佛華嚴經》〈淨行品〉（佛馱跋陀羅譯）toh44a-tai278_zh.docx"
+    "0-INBOX/texts/tibetan"
   ]
 }
