@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0-INBOX/texts/tibetan/toh0020-kp0001-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "toh0020-kp0001-bo"
             }
           }
         ]
@@ -197,8 +197,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
+    "0-INBOX/texts/chinese/toh16-zh-hant.md",
+    "0-INBOX/texts/aligned/toh16.md",
+    "README.md",
+    "0-INBOX/texts/toh16-bo.md",
     "0-INBOX/texts/aligned/toh56to57-tai310-008.md",
     "0-INBOX/texts/aligned/toh56to57-tai310-006.md",
     "0-INBOX/texts/aligned/toh56to57-tai310-005.md",
@@ -221,10 +225,6 @@
     "0-INBOX/texts/aligned/toh4049-tai1605-3.md",
     "0-INBOX/texts/aligned/toh4049-tai1605-2.md",
     "0-INBOX/texts/aligned/toh4045-kp0040.md",
-    "0-INBOX/texts/aligned/toh3877-kp0034.md",
-    "0-INBOX/texts/aligned/toh3822-kp0032.md",
-    "0-INBOX/texts/aligned/toh16.md",
-    "0-INBOX/texts/aligned/toh1164-kp0031.md",
     "0-INBOX/texts/aligned",
     "0-INBOX/texts/_manifest.json",
     "0-INBOX/texts/unsorted",
