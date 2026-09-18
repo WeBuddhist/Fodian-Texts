@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/unsorted/toh0215_kp0019_-_zh_without-footnot.md",
+                "file": "1-SOURCES/Text/bo-toh16-the-sutra-of-the-great-vehicle-called-the-diamond-cutter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh0215_kp0019_-_zh_without-footnot"
+              "title": "bo-toh16-the-sutra-of-the-great-vehicle-called-the-diamond-cutter"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
+    "0-INBOX/texts/unsorted/toh0215_kp0019_-_zh_without-footnot.md",
     "4-SYSTEM/Skills/inbox-to-sources/SKILL.md",
     "0-INBOX/raw-data/pecha-sheet/sources-write-report.json",
     "1-SOURCES/Translations/zh-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md",
@@ -225,7 +226,6 @@
     "1-SOURCES/Text/bo-toh1164-praise-to-the-five-tathgatas.md",
     "1-SOURCES/Translations/zh-toh1124-commentary-on-the-praise-of-the-three-bodies.md",
     "1-SOURCES/Text/bo-toh1124-commentary-on-the-praise-of-the-three-bodies.md",
-    "1-SOURCES/Translations/zh-toh1123-homage-to-the-three-kayas.md",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__/inbox_to_sources.cpython-314.pyc",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__",
     "0-INBOX/raw-data/pecha-sheet/sources-plan.json",
