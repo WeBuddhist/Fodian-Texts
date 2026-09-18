@@ -1,0 +1,562 @@
+{
+ "assigned": {
+  "toh4049-tai1605-1-bo": {
+   "file": "T1605-1_大乘阿毘達磨集論_bo",
+   "how": "tai-part",
+   "chars": 50798
+  },
+  "toh4049-tai1605-1-zh": {
+   "file": "T1605-1_大乘阿毘達磨集論_zh",
+   "how": "tai-part",
+   "chars": 10592
+  },
+  "toh4049-tai1605-2-bo": {
+   "file": "T1605-2_大乘阿毘達磨集論_bo",
+   "how": "tai-part",
+   "chars": 48446
+  },
+  "toh4049-tai1605-2-zh": {
+   "file": "T1605-2_大乘阿毘達磨集論_zh",
+   "how": "tai-part",
+   "chars": 15262
+  },
+  "toh4049-tai1605-3-bo": {
+   "file": "T1605-3_大乘阿毘達磨集論_bo",
+   "how": "tai-part",
+   "chars": 58596
+  },
+  "toh4049-tai1605-3-zh": {
+   "file": "T1605-3_大乘阿毘達磨集論_zh",
+   "how": "tai-part",
+   "chars": 17480
+  },
+  "toh4049-tai1605-4-bo": {
+   "file": "T1605-4_大乘阿毘達磨集論_bo",
+   "how": "tai-part",
+   "chars": 52076
+  },
+  "toh4049-tai1605-4-zh": {
+   "file": "T1605-4_大乘阿毘達磨集論_zh",
+   "how": "tai-part",
+   "chars": 18092
+  },
+  "toh4049-tai1605-5-bo": {
+   "file": "T1605-5_大乘阿毘達磨集論_bo",
+   "how": "tai-part",
+   "chars": 45779
+  },
+  "toh4049-tai1605-5-zh": {
+   "file": "T1605-5_大乘阿毘達磨集論_zh",
+   "how": "tai-part",
+   "chars": 13880
+  },
+  "toh0020-kp0001-bo": {
+   "file": "Toh0020_kp0001_聖般若波羅蜜多二十五門大乘經_bo",
+   "how": "title",
+   "chars": 3526
+  },
+  "toh0020-kp0001-zh": {
+   "file": "Toh0020_kp0001_聖般若波羅蜜多二十五門大乘經_zh",
+   "how": "title",
+   "chars": 1415
+  },
+  "toh0026-bo": {
+   "file": "Toh0026《聖般若波羅蜜多日藏大乘經》v.1_bo",
+   "how": "title",
+   "chars": 1111
+  },
+  "toh0026-zh-without-footnote": {
+   "file": "Toh0026《聖般若波羅蜜多日藏大乘經》v.1_zh_without footnote",
+   "how": "title",
+   "chars": 750
+  },
+  "toh0027-bo": {
+   "file": "Toh0027《聖般若波羅蜜多月藏大乘經》v.1_bo",
+   "how": "title",
+   "chars": 4083
+  },
+  "toh0027-zh": {
+   "file": "Toh0027《聖般若波羅蜜多月藏大乘經》v.1_zh",
+   "how": "title",
+   "chars": 1655
+  },
+  "toh0028-bo": {
+   "file": "Toh0028《聖般若波羅蜜多普賢大乘經》v.1_bo",
+   "how": "title",
+   "chars": 1632
+  },
+  "toh0028-zh": {
+   "file": "Toh0028《聖般若波羅蜜多普賢大乘經》v.1_zh",
+   "how": "title",
+   "chars": 517
+  },
+  "toh0029-bo": {
+   "file": "Toh0029《聖般若波羅蜜多金剛手大乘經》v.1_bo",
+   "how": "title",
+   "chars": 1873
+  },
+  "toh0029-zh": {
+   "file": "Toh0029《聖般若波羅蜜多金剛手大乘經》v.1_zh",
+   "how": "title",
+   "chars": 694
+  },
+  "toh0030-bo": {
+   "file": "Toh0030《聖般若波羅蜜多金剛幢大乘經》v.1_bo",
+   "how": "title",
+   "chars": 2111
+  },
+  "toh0030-zh": {
+   "file": "Toh0030《聖般若波羅蜜多金剛幢大乘經》v.1_zh",
+   "how": "title",
+   "chars": 777
+  },
+  "toh0037-bo": {
+   "file": "Toh0037《五戒功德經》v.1_bo",
+   "how": "title",
+   "chars": 21813
+  },
+  "toh0037-zh": {
+   "file": "Toh0037《五戒功德經》v.1_zh",
+   "how": "title",
+   "chars": 8740
+  },
+  "toh0040-bo": {
+   "file": "Toh0040《大迦葉經》v.1_bo",
+   "how": "title",
+   "chars": 3029
+  },
+  "toh0040-zh": {
+   "file": "Toh0040《大迦葉經》v.1_zh",
+   "how": "title",
+   "chars": 1009
+  },
+  "toh0137-bo": {
+   "file": "Toh0137《聖三昧最上妙經》v.1_bo",
+   "how": "title",
+   "chars": 34008
+  },
+  "toh0137-zh": {
+   "file": "Toh0137《聖三昧最上妙經》v.1_zh",
+   "how": "title",
+   "chars": 14315
+  },
+  "toh0150-bo": {
+   "file": "Toh0150《聖觀自在菩薩所問七法大乘經》v.1_bo",
+   "how": "title",
+   "chars": 2244
+  },
+  "toh0150-zh": {
+   "file": "Toh0150《聖觀自在菩薩所問七法大乘經》v.1_zh",
+   "how": "title",
+   "chars": 807
+  },
+  "toh0158-kp0013-bo": {
+   "file": "Toh0158_kp0013_聖梵天所問大乘經_bo",
+   "how": "title",
+   "chars": 29465
+  },
+  "toh0158-kp0013-zh-with-footnote": {
+   "file": "Toh0158_kp0013_聖梵天所問大乘經_zh_with footnote",
+   "how": "title",
+   "chars": 22425
+  },
+  "toh0158-kp0013-zh-without-footnote": {
+   "file": "Toh0158_kp0013_聖梵天所問大乘經_zh_without footnote",
+   "how": "title",
+   "chars": 7869
+  },
+  "toh0198-kp0016-bo": {
+   "file": "Toh0198_kp0016_聖彌勒發趣大乘經_bo",
+   "how": "title",
+   "chars": 77773
+  },
+  "toh0198-kp0016-zh-with-footnote": {
+   "file": "Toh0198_kp0016_聖彌勒發趣大乘經_zh with footnote",
+   "how": "title",
+   "chars": 35362
+  },
+  "toh0198-kp0016-zh-without-footnote": {
+   "file": "Toh0198_kp0016_聖彌勒發趣大乘經_zh_ without footnote",
+   "how": "title",
+   "chars": 26222
+  },
+  "toh0212-bo": {
+   "file": "Toh0212《聖緣起大乘經》v.1_bo",
+   "how": "title",
+   "chars": 2999
+  },
+  "toh0212-zh": {
+   "file": "Toh0212《聖緣起大乘經》v.1_zh",
+   "how": "title",
+   "chars": 1055
+  },
+  "toh0215-kp0019-bo": {
+   "file": "Toh0215_kp0019_教誡拔嗟國優填王大乘經_bo",
+   "how": "title",
+   "chars": 5044
+  },
+  "toh0215-kp0019-zh-with-footnote": {
+   "file": "Toh0215_kp0019_教誡拔嗟國優填王大乘經_zh_with footnote",
+   "how": "title",
+   "chars": 2416
+  },
+  "toh0224-bo": {
+   "file": "Toh0224《聖堅勝意樂品大乘經》v.1＿bo",
+   "how": "title",
+   "chars": 36555
+  },
+  "toh0224-zh": {
+   "file": "Toh0224《聖堅勝意樂品大乘經》v.1＿zh",
+   "how": "title",
+   "chars": 13559
+  },
+  "toh0225-kp0021-bo": {
+   "file": "Toh0225_kp0021_聖三歸依大乘經_bo",
+   "how": "title",
+   "chars": 4622
+  },
+  "toh0225-kp0021-zh-with-footnote": {
+   "file": "Toh0225_kp0021_聖三歸依大乘經_zh_with footnote",
+   "how": "title",
+   "chars": 3981
+  },
+  "toh0225-kp0021-zh-without-footnote": {
+   "file": "Toh0225_kp0021_聖三歸依大乘經_zh_without footnote",
+   "how": "title",
+   "chars": 1204
+  },
+  "toh0247-kp0022-bo": {
+   "file": "Toh0247_kp0022_聖辯法義大乘經_bo",
+   "how": "title",
+   "chars": 12389
+  },
+  "toh0247-kp0022-zh-without-footnote": {
+   "file": "Toh0247_kp0022_聖辯法義大乘經_zh_without footnote",
+   "how": "title",
+   "chars": 3201
+  },
+  "toh0249-bo": {
+   "file": "Toh0249《聖說四法大乘經》v.1_bo",
+   "how": "title",
+   "chars": 2228
+  },
+  "toh0249-zh": {
+   "file": "Toh0249《聖說四法大乘經》v.1_zh",
+   "how": "title",
+   "chars": 849
+  },
+  "toh0282-zh": {
+   "file": "Toh0282《三學經》v.1_zh",
+   "how": "title",
+   "chars": 419
+  },
+  "toh0282-bo": {
+   "file": "Toh0282《三學經》v.1＿bo",
+   "how": "title",
+   "chars": 1252
+  },
+  "toh0283-kp0025-bo": {
+   "file": "Toh0283_kp0025_聖三身大乘經_bo",
+   "how": "title",
+   "chars": 3055
+  },
+  "toh0283-kp0025-zh-with-footnote": {
+   "file": "Toh0283_kp0025_聖三身大乘經_zh_with footnote",
+   "how": "title",
+   "chars": 1773
+  },
+  "toh1123-bo": {
+   "file": "Toh1123_三身讚_bo",
+   "how": "title",
+   "chars": 1881
+  },
+  "toh1123-zh-without-footnote": {
+   "file": "Toh1123_三身讚_zh_without footnote",
+   "how": "title",
+   "chars": 797
+  },
+  "toh1124-bo": {
+   "file": "Toh1124_三身讚註釋_bo",
+   "how": "title",
+   "chars": 14285
+  },
+  "toh1124-zh-with-footnote": {
+   "file": "Toh1124_三身讚註釋_zh_with footnote",
+   "how": "title",
+   "chars": 5453
+  },
+  "toh1124-zh-without-footnote": {
+   "file": "Toh1124_三身讚註釋_zh_without footnote",
+   "how": "title",
+   "chars": 5243
+  },
+  "toh1164-kp0031-bo": {
+   "file": "Toh1164_kp0031_五如來讚_bo",
+   "how": "title",
+   "chars": 1707
+  },
+  "toh1164-kp0031-zh-with-footnote": {
+   "file": "Toh1164_kp0031_五如來讚_zh_ with Footnote ",
+   "how": "title",
+   "chars": 824
+  },
+  "toh1164-kp0031-zh-without-footnote": {
+   "file": "Toh1164_kp0031_五如來讚_zh_ without Footnote ",
+   "how": "title",
+   "chars": 568
+  },
+  "toh3822-kp0032-bo": {
+   "file": "Toh3822_kp0032_遍知般若波羅蜜多心經之義_bo",
+   "how": "title",
+   "chars": 35550
+  },
+  "toh3822-kp0032-zh-with-footnote": {
+   "file": "Toh3822_kp0032_遍知般若波羅蜜多心經之義_zh_with footnote",
+   "how": "title",
+   "chars": 24321
+  },
+  "toh3822-kp0032-zh-without-footnote": {
+   "file": "Toh3822_kp0032_遍知般若波羅蜜多心經之義_zh_without footnote",
+   "how": "title",
+   "chars": 16596
+  },
+  "toh3877-kp0034-bo": {
+   "file": "Toh3877_kp0034_入菩薩行智慧品和迴向品難語釋_bo",
+   "how": "title",
+   "chars": 37971
+  },
+  "toh3877-kp0034-zh-with-footnote": {
+   "file": "Toh3877_kp0034_入菩薩行智慧品和迴向品難語釋_zh_with footnote",
+   "how": "title",
+   "chars": 15219
+  },
+  "toh3877-kp0034-zh-without-footnote": {
+   "file": "Toh3877_kp0034_入菩薩行智慧品和迴向品難語釋_zh_without footnote",
+   "how": "title",
+   "chars": 14637
+  },
+  "toh4045-kp0040-bo": {
+   "file": "Toh4045_kp0040_菩薩戒品釋_bo",
+   "how": "title",
+   "chars": 32018
+  },
+  "toh4045-kp0040-zh-with-footnote": {
+   "file": "Toh4045_kp0040_菩薩戒品釋_zh_with footnote",
+   "how": "title",
+   "chars": 12654
+  },
+  "toh4045-kp0040-zh-without-footnote": {
+   "file": "Toh4045_kp0040_菩薩戒品釋_zh_without footnote",
+   "how": "title",
+   "chars": 9179
+  },
+  "toh4054-tai1606-1-bo": {
+   "file": "Toh4054-Tai1606《阿毘達磨雜集論》01_bo",
+   "how": "toh-tai-part",
+   "chars": 195250
+  },
+  "toh4054-tai1606-1-zh": {
+   "file": "Toh4054-Tai1606《阿毘達磨雜集論》01_zh",
+   "how": "toh-tai-part",
+   "chars": 45722
+  },
+  "toh4054-tai1606-2-bo": {
+   "file": "Toh4054-Tai1606《阿毘達磨雜集論》02_bo",
+   "how": "toh-tai-part",
+   "chars": 199346
+  },
+  "toh4054-tai1606-2-zh": {
+   "file": "Toh4054-Tai1606《阿毘達磨雜集論》02_zh",
+   "how": "toh-tai-part",
+   "chars": 58211
+  },
+  "toh4054-tai1606-3-bo": {
+   "file": "Toh4054-Tai1606《阿毘達磨雜集論》03_bo",
+   "how": "toh-tai-part",
+   "chars": 74062
+  },
+  "toh4054-tai1606-3-zh": {
+   "file": "Toh4054-Tai1606《阿毘達磨雜集論》03_zh",
+   "how": "toh-tai-part",
+   "chars": 22825
+  },
+  "toh4054-tai1606-4-bo": {
+   "file": "Toh4054-Tai1606《阿毘達磨雜集論》04_bo",
+   "how": "toh-tai-part",
+   "chars": 99210
+  },
+  "toh4054-tai1606-4-zh": {
+   "file": "Toh4054-Tai1606《阿毘達磨雜集論》04_zh",
+   "how": "toh-tai-part",
+   "chars": 29394
+  },
+  "toh4054-tai1606-5-bo": {
+   "file": "Toh4054-Tai1606《阿毘達磨雜集論》05_bo",
+   "how": "toh-tai-part",
+   "chars": 56513
+  },
+  "toh4054-tai1606-5-zh": {
+   "file": "Toh4054-Tai1606《阿毘達磨雜集論》05_zh",
+   "how": "toh-tai-part",
+   "chars": 22512
+  },
+  "toh46-tai310-02-bo": {
+   "file": "《大寶積經》〈無邊莊嚴會〉bompo 3_MRK-T46-T310-02-C-XL-20221121_bo",
+   "how": "title",
+   "chars": 50425
+  },
+  "toh46-tai310-02-zh": {
+   "file": "《大寶積經》〈無邊莊嚴會〉bompo 3_MRK-T46-T310-02-C-XL-20221121_zh",
+   "how": "title",
+   "chars": 17414
+  },
+  "toh56to57-tai310-00101-bo": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-00101_bo",
+   "how": "title",
+   "chars": 26417
+  },
+  "toh56to57-tai310-00101-zh": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-00101_zh",
+   "how": "title",
+   "chars": 6343
+  },
+  "toh56to57-tai310-00102-bo": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-00102_bo",
+   "how": "title",
+   "chars": 21402
+  },
+  "toh56to57-tai310-00102-zh": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-00102_zh",
+   "how": "title",
+   "chars": 5498
+  },
+  "toh56to57-tai310-00103-bo": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-00103_bo",
+   "how": "title",
+   "chars": 19685
+  },
+  "toh56to57-tai310-00103-zh": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-00103_zh",
+   "how": "title",
+   "chars": 4790
+  },
+  "toh56to57-tai310-002-bo": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-002_bo",
+   "how": "title",
+   "chars": 18201
+  },
+  "toh56to57-tai310-002-zh": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-002_zh",
+   "how": "title",
+   "chars": 4665
+  },
+  "toh56to57-tai310-003-bo": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-003_bo",
+   "how": "title",
+   "chars": 21442
+  },
+  "toh56to57-tai310-003-zh": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-003_zh",
+   "how": "title",
+   "chars": 5969
+  },
+  "toh56to57-tai310-00401-bo": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-00401_bo",
+   "how": "title",
+   "chars": 23323
+  },
+  "toh56to57-tai310-00401-zh": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-00401_zh",
+   "how": "title",
+   "chars": 7232
+  },
+  "toh56to57-tai310-005-bo": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-005_bo",
+   "how": "title",
+   "chars": 24154
+  },
+  "toh56to57-tai310-005-zh": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-005_zh",
+   "how": "title",
+   "chars": 8786
+  },
+  "toh56to57-tai310-006-bo": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-006_bo",
+   "how": "title",
+   "chars": 18396
+  },
+  "toh56to57-tai310-006-bo-2": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-006_bo",
+   "how": "title",
+   "chars": 18396
+  },
+  "toh56to57-tai310-006-zh": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-006_zh",
+   "how": "title",
+   "chars": 6999
+  },
+  "toh56to57-tai310-006-zh-2": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-006_zh",
+   "how": "title",
+   "chars": 6999
+  },
+  "toh56to57-tai310-008-bo": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-008_bo",
+   "how": "title",
+   "chars": 19455
+  },
+  "toh56to57-tai310-008-zh": {
+   "file": "《大寶積經》菩薩藏會-玄奘 toh56to57-tai310-008_zh",
+   "how": "title",
+   "chars": 6053
+  },
+  "toh44a-tai278-bo": {
+   "file": "《大方廣佛華嚴經》〈淨行品〉  toh44a-tai278_bo",
+   "how": "title",
+   "chars": 30217
+  },
+  "toh44a-tai279-bo": {
+   "file": "《大方廣佛華嚴經》〈淨行品〉  toh44a-tai279_bo",
+   "how": "title",
+   "chars": 30228
+  },
+  "toh44a-tai278-zh": {
+   "file": "《大方廣佛華嚴經》〈淨行品〉（佛馱跋陀羅譯）toh44a-tai278_zh",
+   "how": "title",
+   "chars": 7053
+  },
+  "toh44a-tai279-zh": {
+   "file": "《大方廣佛華嚴經》〈淨行品〉（實叉難陀譯）toh44a-tai279_zh",
+   "how": "title",
+   "chars": 7299
+  },
+  "toh341-tai202-zh": {
+   "file": "《賢愚經》toh341-tai202_zh",
+   "how": "title",
+   "chars": 207177
+  },
+  "toh555-tai665-bo": {
+   "file": "《金光明最勝王經 》toh555-tai665_bo",
+   "how": "title",
+   "chars": 455028
+  },
+  "toh555-tai665-zh": {
+   "file": "《金光明最勝王經 》toh555-tai665_zh",
+   "how": "title",
+   "chars": 136518
+  }
+ },
+ "orphans": [
+  {
+   "file": "Toh0215_kp0019_教誡拔嗟國優填王大乘經_zh_without footnot",
+   "slug": "toh0215_kp0019_-_zh_without-footnot"
+  },
+  {
+   "file": "Toh0283_kp0025_聖三身大乘經_zh_without footnote",
+   "slug": "toh0283_kp0025_-_zh_without-footnote"
+  }
+ ],
+ "ambiguous": [],
+ "text_conflicts": [],
+ "unreadable": []
+}

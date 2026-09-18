@@ -52,6 +52,12 @@ Generates complete YAML frontmatter for a translation file in `1-SOURCES/Transla
 Generates complete YAML frontmatter for a secondary-literature or reference file in `1-SOURCES/References/`.
 → [`reference-frontmatter/SKILL.md`](reference-frontmatter/SKILL.md)
 
+### `sheet-to-inbox` **[exists]**
+**Purpose:** Ingest the "Pecha Upload List" Google Sheet into `0-INBOX/texts/` — one markdown file per text row, with the document body downloaded from its Google Doc link and every sheet column, catalogue ID, and cross-language relation recorded in YAML frontmatter.
+**Inputs:** The Google Sheet ID (defaults to the Pecha Upload List), `openpyxl`, and optionally a Google Drive read token for documents that are not link-readable.
+**Outputs:** `0-INBOX/texts/<work-id>-<lang-tag>.md` per row plus `_manifest.json`, with the sheet export, parsed records, and document cache under `0-INBOX/raw-data/pecha-sheet/`.
+→ [`sheet-to-inbox/SKILL.md`](sheet-to-inbox/SKILL.md)
+
 ---
 
 ## Rails-building skills (context preparation for translation)

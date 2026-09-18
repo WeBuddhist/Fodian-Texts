@@ -1,0 +1,67 @@
+---
+# --- identity ---
+title: Toh0283_kp0025_聖三身大乘經_zh_without footnote
+work_id: ""
+file_type: ""
+lang_tag: ""
+
+# --- provenance ---
+source_description: "imported from a local .docx"
+local_file: Toh0283_kp0025_聖三身大乘經_zh_without footnote.docx
+sheet_row: null
+sheet_row_missing: true
+
+# --- workflow status ---
+ingest_status: with-body
+retrieved: 2026-09-18
+status: draft
+---
+
+# Toh0283_kp0025_聖三身大乘經_zh_without footnote
+
+> [Ed: this document was downloaded locally but has no matching row in the Pecha Upload List. Its identity, language, and relations are therefore unverified. Confirm against the sheet before promoting it out of the inbox.]
+
+## Text
+
+1. ^s1
+2. ^s2
+3. 聖三身大乘經 ^s3
+4. 頂禮一切佛、菩薩。 ^s4
+5. 如是我聞：一時， ^s5
+6. 世尊住王舍城耆闍崛山， ^s6
+7. 與無量無數菩薩及天、龍等一切眷屬俱。 ^s7
+8. 〔彼等皆〕於世尊恭敬供養。 ^s8
+9. 爾時，地藏菩薩於彼會中從座而起， ^s9
+10. 白世尊言： ^s10
+11. 「世尊之身，為有幾何？」 ^s11
+12. 世尊告曰： ^s12
+13. 「地藏！世尊如來有三身，謂：法身、受用身、變化身。 ^s13
+14. 善男子！如來三身者： ^s14
+15. 自性清淨乃法身； ^s15
+16. 三昧清淨乃受用身； ^s16
+17. 所行清淨乃諸佛變化身。 ^s17
+18. 善男子！如來法身者，猶如虛空，是無自性義； ^s18
+19. 受用身者，如雲，是現起義； ^s19
+20. 變化身者，為諸佛事業，如雨，是普潤義。」 ^s20
+21. 地藏菩薩白世尊言： ^s21
+22. 「於世尊三身之說，應云何觀？」 ^s22
+23. 世尊告地藏菩薩曰： ^s23
+24. 「善男子！於如來三身，應作如是觀： ^s24
+25. 於如來前為法身， ^s25
+26. 於菩薩前為受用身， ^s26
+27. 於信解行〔地〕凡夫前為變化身。 ^s27
+28. 「善男子！法身者，即諸佛自性等同； ^s28
+29. 受用身者，即諸佛三昧等同； ^s29
+30. 變化身者，即諸佛事業等同。 ^s30
+31. 「善男子！阿賴耶〔識〕轉依，得大圓鏡智，即是法身。 ^s31
+32. 末那識轉依，得平等性智； ^s32
+33. 意識轉依，得妙觀察智，〔此二智〕即受用身。 ^s33
+34. 五根識轉依，得成所作智，即變化身。」 ^s34
+35. 爾時，地藏菩薩白世尊言： ^s35
+36. 「世尊！我於世尊處，聞微妙法，甚善！ ^s36
+37. 善逝！甚善！」 ^s37
+38. 世尊告曰： ^s38
+39. 「善男子！若人受持汝於世尊處所聞法門，當獲功德無量無數，不可稱計。」 ^s39
+40. 世尊說是語已，地藏菩薩及世間天、龍、藥叉、乾闥婆等皆大歡喜， ^s40
+41. 於世尊所說，稱揚讚歎。 ^s41
+42. 聖三身大乘經 ^s42

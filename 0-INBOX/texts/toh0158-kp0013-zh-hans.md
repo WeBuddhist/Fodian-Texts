@@ -1,0 +1,82 @@
+---
+# --- identity ---
+title: toh0158-kp0013
+title_short: ""
+title_long: ""
+title_en: ""
+work_id: toh0158-kp0013
+file_type: root-text
+language: Chinese
+lang_tag: zh-hans
+edition_variant: simplified
+
+# --- catalogue ids ---
+toh: toh0158
+taisho: ""
+bdrc_work_id: ""
+root_bdrc_work_id: ""
+pecha_id: ""
+pecha_no: ""
+
+# --- authorship ---
+author: ""
+author_en: ""
+
+# --- classification ---
+category: ""
+category_code: ""
+category_en: ""
+category_bo: ""
+category_lzh: ""
+
+# --- segmentation ---
+segment_count: 0
+segment_scheme: ""
+peer_segment_counts:
+  toh0158-kp0013-bo: 301
+  toh0158-kp0013-zh-with-footnote: 301
+  toh0158-kp0013-zh-without-footnote: 301
+segments_aligned: false
+
+# --- relations ---
+aligned_with: [toh0158-kp0013-bo, toh0158-kp0013-zh-without-footnote, toh0158-kp0013-zh-with-footnote]
+work_group: kumarajiva
+cluster_id: Toh0158_kp0013
+toh_column_raw: ""
+
+# --- provenance ---
+source_description: ""
+source_url: ""
+document_link: "https://docs.google.com/document/d/1l62rylpahJkYQoY-Dqz8R94-jMNBHQvX/edit?usp=drive_link&ouid=108285038687146313935&rtpof=true&sd=true"
+document_title: Toh0158_kp0013_聖梵天所問大乘經_simplified_zh.docx
+google_doc_id: 1l62rylpahJkYQoY-Dqz8R94-jMNBHQvX
+sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
+sheet_row: 155
+work_id_source: doc-title
+
+# --- workflow status ---
+pecha_status: Blocked
+alignment_status: Alignment Checking
+alignment_file: ""
+alignment_file_url: ""
+data_prep: ""
+ingest_status: link-restricted
+retrieved: 2026-09-18
+
+# --- sheet remarks ---
+remarks:
+  todo_kv: metadata incomplete
+status: draft
+---
+
+# toh0158-kp0013-zh-hans
+
+## Relations
+
+- Aligned language versions: [[toh0158-kp0013-bo]], [[toh0158-kp0013-zh-without-footnote]], [[toh0158-kp0013-zh-with-footnote]]
+- Toh: `toh0158`
+- Source document: [Toh0158_kp0013_聖梵天所問大乘經_simplified_zh.docx](https://docs.google.com/document/d/1l62rylpahJkYQoY-Dqz8R94-jMNBHQvX/edit?usp=drive_link&ouid=108285038687146313935&rtpof=true&sd=true)
+
+## Text
+
+> [Ed: body not retrieved — `ingest_status: link-restricted`. Re-run the `fetch-docs` stage once the document is readable.]

@@ -1,0 +1,127 @@
+---
+# --- identity ---
+title: 聖緣起大乘經
+title_short: 聖緣起大乘經
+title_long: 聖緣起大乘經
+title_en: ""
+work_id: toh0212
+file_type: root-text
+language: Classical Chinese
+lang_tag: zh
+edition_variant: ""
+
+# --- catalogue ids ---
+toh: toh0212
+taisho: ""
+bdrc_work_id: ""
+root_bdrc_work_id: ""
+pecha_id: I1DCBAFCA
+pecha_no: I1DCBAFCA - 聖緣起大乘經
+
+# --- authorship ---
+author: 佛世尊
+author_en: ""
+
+# --- classification ---
+category: 1. 經部
+category_code: "1"
+category_en: 1 Discourses
+category_bo: 1 མདོ་སྡེ།
+category_lzh: 1. 經部
+
+# --- segmentation ---
+segment_count: 52
+segment_scheme: word-auto-numbering
+peer_segment_counts:
+  toh0212-bo: 52
+segments_aligned: true
+
+# --- relations ---
+aligned_with: [toh0212-bo]
+work_group: kangyur-translations
+cluster_id: Toh0212
+toh_column_raw: Toh0212
+
+# --- provenance ---
+source_description: "https://buddha.now/toh0212/"
+source_url: "https://buddha.now/toh0212/"
+document_link: "https://docs.google.com/document/d/1Wi45wveRVdMHi6RrPNC6N9EeXe0jFozHdzhQe7dKBQY/edit?tab=t.0"
+document_title: Toh0212《聖緣起大乘經》v.1_zh
+google_doc_id: 1Wi45wveRVdMHi6RrPNC6N9EeXe0jFozHdzhQe7dKBQY
+sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
+sheet_row: 221
+work_id_source: column-a
+
+# --- workflow status ---
+pecha_status: fodian.org
+alignment_status: Alignment Checking
+alignment_file: ""
+alignment_file_url: ""
+data_prep: ""
+ingest_status: with-body
+retrieved: 2026-09-18
+status: draft
+---
+
+# 聖緣起大乘經
+
+## Relations
+
+- Aligned language versions: [[toh0212-bo]]
+- Toh: `toh0212`
+- Source document: [Toh0212《聖緣起大乘經》v.1_zh](https://docs.google.com/document/d/1Wi45wveRVdMHi6RrPNC6N9EeXe0jFozHdzhQe7dKBQY/edit?tab=t.0)
+
+## Text
+
+1. 敬禮一切佛菩薩。 ^s1
+2. 如是我聞：一時， ^s2
+3. 世尊在三十三天般荼劍婆羅石， ^s3
+4. 與馬勝比丘等諸大聲聞、 ^s4
+5. 聖彌勒、 ^s5
+6. 聖觀自在、 ^s6
+7. 金剛手等菩薩摩訶薩俱。此諸菩薩，皆以無量功德寶而為莊嚴。 ^s7
+8. 復與娑婆世界主大梵天王、 ^s8
+9. 那羅延天、 ^s9
+10. 大自在天等諸天、 ^s10
+11. 天主帝釋天、 ^s11
+12. 乾闥婆王波遮旬俱。 ^s12
+13. 爾時，觀自在菩薩摩訶薩從座而起， ^s13
+14. 偏袒右肩， ^s14
+15. 右膝著於須彌山頂， ^s15
+16. 向世尊處， ^s16
+17. 合掌作禮， ^s17
+18. 白世尊言： ^s18
+19. 「世尊！此等諸天欲請造塔[之法]， ^s19
+20. 故來此會， ^s20
+21. 彼等云何能生梵福？ ^s21
+22. 若比丘、比丘尼、優婆塞、優婆夷，比於沙門、梵志及餘眾生、諸天、魔、梵及餘世間，云何增長多福？ ^s22
+23. 唯願世尊，為彼等說。」 ^s23
+24. 爾時，世尊即說緣起偈： ^s24
+25. "曳 達磨 醯睹般薄婆 醯噸 低商 多陀伽都 希阿婆達 低商 遮 瑜 尼盧達 醫凡婆地 摩訶室羅摩拏" ^s25
+26. "諸法從緣起，緣盡法亦滅，如來大沙門，常作如是說。" ^s26
+27. 「觀自在！ ^s27
+28. 此緣起者， ^s28
+29. 即諸如來法身。 ^s29
+30. 何人見緣起， ^s30
+31. 彼即見如來。 ^s31
+32. 觀自在！ ^s32
+33. 若善男子、善女人，信心具足， ^s33
+34. 於未有[塔]處， ^s34
+35. 而能造塔，小至如菴摩羅果許， ^s35
+36. 塔剎則如針許、 ^s36
+37. 露盤如末俱羅華許， ^s37
+38. 內置法界緣起偈， ^s38
+39. 是人將生梵福。 ^s39
+40. 命終之後， ^s40
+41. 當生梵世； ^s41
+42. 於彼命終， ^s42
+43. 當生淨居天，福分與彼諸天等無有異。」 ^s43
+44. 世尊說是語已， ^s44
+45. 諸聲聞、 ^s45
+46. 菩薩、 ^s46
+47. 一切眷屬， ^s47
+48. 及諸世間天、人、阿修羅、乾闥婆等，皆大歡喜， ^s48
+49. 於世尊所說，稱揚讚嘆。 ^s49
+50. 聖緣起大乘經 ^s50
+51. 印度和尚天主覺、 ^s51
+52. 主校譯師佛僧耶謝德翻譯、抉擇。 ^s52

@@ -1,0 +1,160 @@
+---
+# --- identity ---
+title: 聖般若波羅蜜多月藏大乘經
+title_short: 月藏經
+title_long: 聖般若波羅蜜多月藏大乘經
+title_en: ""
+work_id: toh0027
+file_type: root-text
+language: Classical Chinese
+lang_tag: zh
+edition_variant: ""
+
+# --- catalogue ids ---
+toh: toh0027
+taisho: ""
+bdrc_work_id: ""
+root_bdrc_work_id: ""
+pecha_id: I2582A0D9
+pecha_no: I2582A0D9 - 月藏經
+
+# --- authorship ---
+author: 佛世尊
+author_en: ""
+
+# --- classification ---
+category: 2.1 般若經與相關釋論
+category_code: "2.1"
+category_en: 2.1 Discourses on the Perfection of Wisdom
+category_bo: 2.1 ཤེར་ཕྱིན་གྱི་མདོ།
+category_lzh: 2.1 般若經與相關釋論
+
+# --- segmentation ---
+segment_count: 85
+segment_scheme: word-auto-numbering
+peer_segment_counts:
+  toh0027-bo: 85
+segments_aligned: true
+
+# --- relations ---
+aligned_with: [toh0027-bo]
+work_group: kangyur-translations
+cluster_id: Toh0027
+toh_column_raw: Toh0027
+
+# --- provenance ---
+source_description: "https://buddha.now/toh0027-2/"
+source_url: "https://buddha.now/toh0027-2/"
+document_link: "https://docs.google.com/document/d/12qblWNDoqXAkANdomPbVkuoGty8mb4FWFs9rAduo6-Y/edit?tab=t.0"
+document_title: Toh0027《聖般若波羅蜜多月藏大乘經》v.1_zh
+google_doc_id: 12qblWNDoqXAkANdomPbVkuoGty8mb4FWFs9rAduo6-Y
+sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
+sheet_row: 197
+work_id_source: column-a
+
+# --- workflow status ---
+pecha_status: Staging
+alignment_status: Alignment Checking
+alignment_file: ""
+alignment_file_url: ""
+data_prep: ""
+ingest_status: with-body
+retrieved: 2026-09-18
+status: draft
+---
+
+# 聖般若波羅蜜多月藏大乘經
+
+## Relations
+
+- Aligned language versions: [[toh0027-bo]]
+- Toh: `toh0027`
+- Source document: [Toh0027《聖般若波羅蜜多月藏大乘經》v.1_zh](https://docs.google.com/document/d/12qblWNDoqXAkANdomPbVkuoGty8mb4FWFs9rAduo6-Y/edit?tab=t.0)
+
+## Text
+
+1. 頂禮一切佛菩薩。 ^s1
+2. 如是我聞：一時， ^s2
+3. 世尊在王舍城靈鷲山，與無量無數比丘僧及菩薩眾俱。 ^s3
+4. 爾時， ^s4
+5. 月藏菩薩摩訶薩於會中， ^s5
+6. 從座而起， ^s6
+7. 白世尊言： ^s7
+8. 「世尊！ ^s8
+9. 諸菩薩應云何學般若波羅蜜多？」 ^s9
+10. 世尊曰： ^s10
+11. 「月藏！ ^s11
+12. 一切法離實有， ^s12
+13. 即般若波羅蜜多。 ^s13
+14. 譬如月輪， ^s14
+15. 無有分別， ^s15
+16. 遶行四洲， ^s16
+17. 盡除黑暗， ^s17
+18. 如是菩薩摩訶薩行般若波羅蜜多， ^s18
+19. 雖無分別， ^s19
+20. 然以悲心周覆四倒眾生， ^s20
+21. 自然能除一切煩惱， ^s21
+22. 此亦以無分別故。」 ^s22
+23. 月藏白曰： ^s23
+24. 「世尊！ ^s24
+25. 菩薩之般若波羅蜜多有幾何？」 ^s25
+26. 世尊告曰： ^s26
+27. 「善男子！ ^s27
+28. 菩薩之般若波羅蜜多有二，謂：有漏、無漏。 ^s28
+29. 善男子！ ^s29
+30. 此中有漏般若者， ^s30
+31. 謂於信解行地位， ^s31
+32. 有能、所二取分別  ，能斷彼者， ^s32
+33. 是為有漏般若波羅蜜多。 ^s33
+34. 善男子！ ^s34
+35. 此中無漏般若波羅蜜多者， ^s35
+36. 謂見道之無分別智， ^s36
+37. 以此智離諸分別而無分別故。 ^s37
+38. 善男子！ ^s38
+39. 此亦般若波羅蜜多， ^s39
+40. 於彼邊際，或此邊際，俱無所住故。 ^s40
+41. 當知般若者， ^s41
+42. 從色乃至一切種智無自性故， ^s42
+43. 般若波羅蜜多無自性； ^s43
+44. 當知色等諸法 ， ^s44
+45. 於三時不可得， ^s45
+46. 無縛無解。 ^s46
+47. 善男子！ ^s47
+48. 一切法平等故， ^s48
+49. 般若波羅蜜多亦平等； ^s49
+50. 一切法不滅故， ^s50
+51. 般若波羅蜜多亦不滅； ^s51
+52. 一切法無相故， ^s52
+53. 般若波羅蜜多亦無相； ^s53
+54. 一切法不生故， ^s54
+55. 般若波羅蜜多亦不生； ^s55
+56. 一切法不斷故， ^s56
+57. 般若波羅蜜多亦不斷； ^s57
+58. 一切法不來故， ^s58
+59. 般若波羅蜜多亦不來； ^s59
+60. 一切法不去故， ^s60
+61. 般若波羅蜜多亦不去； ^s61
+62. 一切法不常故， ^s62
+63. 般若波羅蜜多亦不常； ^s63
+64. 一切法不異故， ^s64
+65. 般若波羅蜜多亦不異； ^s65
+66. 一切法一義故， ^s66
+67. 般若波羅蜜多亦一義； ^s67
+68. 一切法無實有性故， ^s68
+69. 般若波羅蜜多亦無實有性。 ^s69
+70. 以要言之， ^s70
+71. 一切皆超相狀、自性、體性故， ^s71
+72. 是為般若波羅蜜多。 ^s72
+73. 是故般若波羅蜜多咒，即： ^s73
+74. 怛絰陀．唵．般若爾．般若爾．摩訶般若爾．旃陀羅般若爾．薩嚩賒些袈唎．莎訶。（tadyathā oṃ prajñe prajñe mahāprajñe candraprajñe sarvaśāsakari svāhā.） ^s74
+75. 諸法從因生， ^s75
+76. 此即世俗諦。 ^s76
+77. 無性無戲論， ^s77
+78. 勝義所行境。 ^s78
+79. 世尊說是語已， ^s79
+80. 月藏菩薩及 ^s80
+81. 一切眷屬、 ^s81
+82. 天、人、阿修羅、乾闥婆等世間［大眾］ ^s82
+83. 皆大歡喜， ^s83
+84. 於世尊所說，稱揚讚歎。 ^s84
+85. 聖般若波羅蜜多月藏大乘經。 ^s85

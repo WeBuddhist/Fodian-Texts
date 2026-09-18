@@ -1,0 +1,606 @@
+{
+ "1eDxUS-fXPDHdHi_JwhVHwnu_QvaXkkYVbB07oUAjmzQ": {
+  "ok": true,
+  "method": "anonymous",
+  "chars": 200844
+ },
+ "1w2RuyGtDudJC6P2JHdPHuerrM-Gedl_sHP3hI0TbtmE": {
+  "ok": true,
+  "method": "anonymous",
+  "chars": 50779
+ },
+ "1pHs62uMiudUF6woA-F09zwsD0HKoeaf0DpLWIks-rMs": {
+  "ok": false,
+  "reason": "restricted: token lacks the Drive scope (re-run `gcloud auth application-default login --scopes=...drive.readonly`)"
+ },
+ "1_JrPPWzxhikSp53OjjJQ_Y8sixzNvi3OeT4W7jlDE7s": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "11jrioYD4xd01gvPczHnDHuxp4Jco2PcRQ-w3cNsXb4E": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1tfWp9402CR_7CAKV2-OT8vZILZUqpBYp76Wdc6td6Eg": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1RtNkE6tsS8JDdwkFypu1nqCbkZ2uc9dfvP91hHTxEVA": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1S3aZR-DRoqLaraQ4BP7zNYrkhXHfRhHkDO6IkfOx48k": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1KYbm3Os0xNvA-9LeMCdnBhqztx7-2-G2fVsXvey-HeM": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1YLu2MyBttJyylo5cn8lm8B-_Ux0eqmEP_tS3BYG0N8E": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1SaJHkXTv36iWJxc8-Ygn-yZ9guEuv5NhvyhbO4CX4OI": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1BYtN_7QbWO__nWs5NGNz7Vw4-XoUe7rkVrI9YYmNpCM": {
+  "ok": true,
+  "method": "anonymous",
+  "chars": 11708
+ },
+ "1xalAkrEVYOE6vdCyYyGIQniyys3QldJJZT37od9B-UE": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1f0vsM5iIpqftgqpDZp3zK7GqbCeIA0oBE58gjfmpazs": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1kq82AFyKpqbF_jT6SZselF4QpySnB-QILd6huYnQGgI": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1vkuz6PIrQtvqUnutN7t6LzDnJNjTwChRMSzQeZgoXkI": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1rnD_vDneK3diACnR6gZ6FYdNofRFaPqOVVAkFZ_20xU": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1RmKWyJ7anfUsAZidbpRHGqDdgRL6zr0KBJFdCFB5u9c": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1_Novumqo4AVrNxIt09VLOKbiS7pafwHmVokzsuWCWWI": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1ahUzs3sPCj02l1uM804CTkh7mtymTO0kHOBnPlyn_F0": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1vEEzzRq9kxNw2k10VqVCiXLd4r70KYaXTm4Yzo5PUkU": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1oPkKiyD0Gv3073AxQ6iKojJJrqW6de00tPwR73uEf0s": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1xn_kyMGMpEBL99KYeTO-rd5BB_UhVvZmo7AFPZtGstA": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1IQ5rGKdJlt6lAghwL8kioYtXaijR6rdjtrGtKOz1ch0": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "16U3A941UB0vHBerNb5heGy8Wwt8Wx486npaPJ2pvF5c": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1bWjl9zjYxpw_vqUI8OG3czRAUNgpwQp0Qxz4zr0pt1Q": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1FeFKI9Fn_cKmD7XqeqhDT1wo1AIE6V0RR7CCWPHnfKg": {
+  "ok": true,
+  "method": "anonymous",
+  "chars": 541041
+ },
+ "18ahGCrycIYbss4iKw5InSavYfi_qViVXX8LrAKBzAkw": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1W0RDxtU7EtqDRQVC7rm9wpekH6M0eByE3JSyHhB-OXI": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1fvuoDL8O7HiWVaMPNomipYv9ZSynBMGUzoarmZkiEfo": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1JMreX-pNFAy4rkik7HM7r4d5h7IjpweYaXfdAb1r2dI": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1O4JuYxbD-BazzQKDcQU5mTiww3Lz8tFukrG47YmWZmw": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1BT5thDto3TUXgxT9Bq4OIn0_LVM7VeSYjHsNOdrMTbo": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1gZgE9kOMi1BcThqqKh8Xa38wDfhm8gF6r0o3V5p_z-Q": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1gmmoj0_zh5pd35TKv-46JmHpv2ifbPzC7naVTagL9R4": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1x4Mv_dmyDmybnEKGbvl0ItqThs4kUMun63pR0pLosoA": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1fwNGmtjB91r3CNPRSGC3b3a4TNBiUwIxja3_BgD22-E": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1pMZCiGwKaQ1HL9SKd_04N4wxwzElkt4gJPn81LZwqBw": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1ZyoXoXXyyQElF9jIYcfWJ3YSFTCa8I57LAhcaMliUC8": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1Ke_fwCUxUjrspPwg8DgudcqTjUuwHCP6q-zL7wnl6UE": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1IgSXRtmUQ99fXeopLZM-Dqrc38F0foA457EpWinMXoc": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1CiqxZxJfeRha0bbf3CWdUuWnNUPaaA1xk4t1VMXa_j8": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1p3jsQDgT7QVjMmI21BcMAeFpVd6GMTkDnPwQD86889c": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1y_SjFwWhajDNsFtVZIDOGZCcjzkOaedZqj65YZW3kNk": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1hMhC7AqHol--wofe5kWi-2F1JNwIXdk6qBjHkb-SY6A": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "105P-uUzbA_AOd0o6nxr9iaYBU96qh_KIRdW1vUwJz7o": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1rmq0OIXqJDNHwJsYi-XgdWJh4f_GSaUEhnLNWrXlGRE": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1RBZPdqLBuxh9zdlBwHCyDgOUElJwy3DR-s3MA5hRJdI": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "116IGaN0ce8ry48cpzBzno4JsuE0POHZK": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1TcoVbWqQ6t9MI3FFcB0pPqXgqkzlN0l0": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1hTlH80LD_ywViYABqy91aaQTeiTkdoid": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 3526
+ },
+ "1j29KSbWyH0tp1SffPybzvPQyVKtT_Xdt": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 1415
+ },
+ "1lc9dIxopWUUfJi9QDqk_tONpmyuShA9K": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1hZ5Fq4jVJfAa6fPZEGcir5EDWrecFL2B": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1alsAJAc3hJKSq0HH0tkGIlEpd9lI5Y7O": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1W1ZlT9A_hlG-CSxzU15GbfVIY7zVtTfWxMb6wcuvPLg": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 12389
+ },
+ "1iTrhsGx-qn2cZemOA4XqfiuNJ8zuUHmrTyFgGn5SEGs": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 3201
+ },
+ "14hghvtI9Xh0ICVYxDH1cuVdo9_52Kz-L": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1HkVKPvNLz7ewDB5ESKMt5U-W8uaTzcQtJt5Esam3KlU": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 5044
+ },
+ "1-6dZP23flE03ChvM98BhePcQhLoaakbF--NeslbAHbk": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 1928
+ },
+ "1Q1x_KfzVQ_HdjBDzgMshSsYZ3AuDdbaOR1CBUbpzPEw": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 2416
+ },
+ "1a21_YvKT7W83up_iRnak40M45uemqYUp": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1Px0uTashOVqZnL8Zff2aFn4JBneJMkKFPaHP6rfa4J4": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 3055
+ },
+ "1o6Vc-BlKU6F7vwaFGYx5QN8ShEU7cCFmXnMaPnl8m24": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 944
+ },
+ "1NVGL4zwV7adonRLPSM-oOdPvasGA2jlkALtdNJ9xR6Q": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 1773
+ },
+ "1xrf_KeNXKMIwtOhX5VFLrnimJcpFYJTN": {
+  "ok": false,
+  "reason": "anonymous-docx-410"
+ },
+ "1hgvQrZMgZd0l8Q9AFKKIZB-48FWJeJZ97ncSM1Lv6ig": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 77773
+ },
+ "1LfM6rL3VWRvDc5hkis4zkaifBE86jHXSaDjYpmoDR_c": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 26222
+ },
+ "1HLaEZ4J4ideogQYM4NhdEBgG-Fs3O51Xo9hAtNQNYEQ": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 35362
+ },
+ "1XDgNRUlLVW876a6tELB2WjSGwq499YC_ENogyh_l3fw": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 29465
+ },
+ "1rYG46jjbxJRIWTtyJSHnfYd7fxFSwLcUwlf_95cAlSw": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 7869
+ },
+ "1UjEXq1pXiQJCr1D3yNrTtE6Qcu_IgcgyZzzIIczQWe0": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1l62rylpahJkYQoY-Dqz8R94-jMNBHQvX": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1zk9HxJpsXZz8a2DKcBOYvGfXJBwT9CM2epeGupvskvw": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1478ub66rICEGTmUqZzDqlZhq5dUoP1cnytmHjSOpq80": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 1204
+ },
+ "1cVkMOcVAYjI9Gz3KrtLePy4HHz-bASj98E_lTCPXZJU": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 3981
+ },
+ "1chSE7A8PtEpz_6r-jYfJAGaJ-JwfVtDK": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1Qn1yS9_-Ugnn5rxHc-dAamhpkDeKNTeDy1Q0QNuUrgo": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 1707
+ },
+ "1nkP9V1qWn7nsZYhF3WjlV421RtQxrUuWR0mzImsxU_Q": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 568
+ },
+ "1UChJM9f3wd5T8QpOGGAVjKQtIeL02L5mL7JuykFuT5w": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 824
+ },
+ "1wtKT1Q_ajgdGSxGcHcJq9EhyNA7iBUu6RNr6b7XLad0": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 1881
+ },
+ "1xJMJfERvCDP0UsS8D7L0tX8cEhkseBExGSJw1UWnGnM": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 797
+ },
+ "1bzk0UspOdvv2621A7aChQO73mPo8nyJbMSjGZp-z5PU": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 14285
+ },
+ "1qBhA8tE14js5qh9ADByHLpHeZn2BjtWTOx8sUAvm5Dg": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 5243
+ },
+ "1Zg-2xfGG1WzgNz1Sj_ddlc5Jf-19rwwM": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 5453
+ },
+ "1Xe90n6AdPiLukp9zHMuhlMM2Ftf9ycphsBMy8I2nJxg": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 32018
+ },
+ "1kVsa03mF60bRsQ3OcJIpdwVT0RzlldsNpWC0bBFIQSY": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 9179
+ },
+ "1K3flTZtT019b8517fMH4O58uTHMOoKrlYP6jHSugNjs": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 12654
+ },
+ "1nohuFVAiSdTnsN56XqzM2ZbkuoAe17cJWiFJdqfB9kI": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 37971
+ },
+ "1YcUBG4sGPSnnFx62JY-ul9X0cZ4iBw-R3rKnbPf7iIs": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 14637
+ },
+ "16yoUR-a4HKf1JwuJ9meAI7XphP1dw8nv8krCLB3H83I": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 15219
+ },
+ "1PU6OPCWtm8DGK0LnlkFTwKAA_OX2kiSuq1gkasqlKXg": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 35550
+ },
+ "1idCLhInrYTSTy1Kty6Rd7kjD5Hs5cPAVIzWiHfP2Gi0": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 16596
+ },
+ "1ikwiT6mfWV-25fmh8Xja1hpL6qfVJq_udL_BDv7_p3k": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 24321
+ },
+ "19Mm_YdOU37H9Z8sxBHgujMf9iv9zwE_q2fq1nCMFN3c": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1OzQNxmi_zvqB4BnEIyEL7H9qwWCUgKVpn-M0dShfEQE": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1180p3YMm21PgaQONn0bGNNCG5vVk67eusEfKo48_Oz0": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "12qblWNDoqXAkANdomPbVkuoGty8mb4FWFs9rAduo6-Y": {
+  "ok": false,
+  "reason": "anonymous-txt-401"
+ },
+ "1i4v5CaAj4oGFIVIAuH0BYO5BR8BQvt_Bl3am0wMN1RA": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 1632
+ },
+ "1FXfkGUcpszidJsEUaV8FV3bonDyHlxxQYq9o9LcyNyg": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 517
+ },
+ "1MT224NCfOazA5-7Jraics7_HAkXoIdIOCz04P43dLvc": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 1873
+ },
+ "1rjJBtGMQl9FiBQI-5yGXwhhzlWYpKdm6RKKLII8Omp8": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 694
+ },
+ "16RoRhNLwsk3uksuBkd7UcVokLUdqNIfSp4gOkhkG-Zk": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 2111
+ },
+ "1yJDaakFRUcoMUMCU8ppMMtFHiXsEXFvsc7lUcR6mTs0": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 777
+ },
+ "1R2jU4D01hUY83oMr2DP5RrKSMVhz5VZthW7zpSzWUEc": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 21813
+ },
+ "1E5D5-t9x-jNfGQZnV3X9wKRNYDynjWRLroMpZxRrHOY": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 8740
+ },
+ "1K_F6S4H62FICTkv8ZGpCVBh-PBD3KhKZubgk_cTKHvM": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 3029
+ },
+ "1A74aFXm3veeqplGIZT1I5IRvuygiML3x6t5A3Ch8iA0": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 1009
+ },
+ "1HFSNJQ8FiBCbfvOn9YG09MGKinayu3GehJhADV0DkLY": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 34008
+ },
+ "1Lcz6ECdblwZuFULTrmm9rAiE2O5yEmJ2o7b6_wftmoA": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 14315
+ },
+ "1RHfugGSVsnjNdiQF4UpAx48dzooXHuqdJHV4rqyyko4": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 2244
+ },
+ "1IOzmpgmeQuJYXSfADLhgpSwa5jtVQwog69MXZAxABM4": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 807
+ },
+ "1fmEXFD18KgZUyfr8yTbTWWD8pa70790KtuTOF_6LZaw": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 2999
+ },
+ "1Wi45wveRVdMHi6RrPNC6N9EeXe0jFozHdzhQe7dKBQY": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 1055
+ },
+ "1PceznXHMinzobQxjm53uSbLfO5wo6OAhP1-Osw1BBaw": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 36555
+ },
+ "1v3pCf9d-PvUEOVHUvoit8LiKC-8-qCP5p9iK7jTGRkU": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 13559
+ },
+ "12J-J0KOGVA67_9pNrz3JbgXYOtFNGA3Umhhbs-sQeco": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 2228
+ },
+ "1t5Ze3kgNgJ94jpEmUsCP_SIz1DfHT3_gOSXGp8mgaNo": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 849
+ },
+ "1-IyxHBHJeY34Py6QaXyYHXFYOD7vL755YcWmRtKIC0c": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 1252
+ },
+ "1hRgYpwMrpAEow69by2YHLsvrC-FBfxx3y-8Gso0-Jhw": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 419
+ },
+ "1kcOqpQ5W9Q6fBQzK2DBoMswcY0DXVFZRnrZO0qpGPuw": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 14154
+ },
+ "1GH32dEKTIXgpggnBHzIU72NSh06xspc5rHlCuRoMbHU": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 8613
+ },
+ "1qAFPxAN6iAbXrJMoMggM4Cz5w5ra9vfnIJY9j_IXXrs": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 10020
+ },
+ "19oMcrHWbfPi0PDUUoblDX1CGSFVk2taa-SitnjlozA8": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 3799
+ },
+ "1Is4Z1Oe65KrywuvvIfqf5jXQ2LaqzoC49SGTDJhXGiQ": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 28658
+ },
+ "1koQ8Z6ubWE3Xh8w5X93hPB3WAgj7sbMieQGtOP-ki9I": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 10918
+ },
+ "1lE4YXF3XyR_6pZoTuQ-pxS5Qa9F2jckANqm6GIUvHY8": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 3865
+ },
+ "1QvGM4Z_asK2w8K9QaSghebzxkVY1VbJv": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 3751
+ },
+ "1-XhmxJLi_eeMjulFyaP1zOMPHCyYfgs530sWZOlEE7s": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 1582
+ },
+ "1lEE25eBtuD6oALbnyOgfsXn5KLoekGMGLL1-jZMJ7QE": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 14073
+ },
+ "1E7JuExanvKQ79Pihd__EJZ93TbOg4-Us": {
+  "ok": false,
+  "reason": "anonymous-docx-410"
+ },
+ "1uISaW2HYeS3vCPeAhiDTn-RmwDkM1B7kvhMGTEPyfp0": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 45825
+ },
+ "1pQNcHjE9Kb4xO2bcRnKtzC9fVVF3yJSgo0ZW-nr1fAI": {
+  "ok": true,
+  "method": "anonymous-docx",
+  "chars": 11416
+ }
+}

@@ -358,5 +358,6 @@ Skills are reusable, step-by-step procedures stored in `4-SYSTEM/Skills/`. Each 
 | Ingest EPUB as markdown | `epub-to-markdown` |
 | Ingest JSON (root text) | `json-to-source-text` |
 | Ingest JSON (commentary) | `json-to-commentary` |
+| Ingest the Pecha Upload sheet into the inbox | `sheet-to-inbox` |
 | Create a new skill (with full registration) | `create-skill` |
 | Audit vault integrity (weekly maintenance) | `vault-audit` |
