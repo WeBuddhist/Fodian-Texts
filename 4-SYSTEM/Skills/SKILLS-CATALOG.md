@@ -58,6 +58,12 @@ Generates complete YAML frontmatter for a secondary-literature or reference file
 **Outputs:** `0-INBOX/texts/{tibetan,chinese}/<work-id>-<lang-tag>.md` per row, a bilingual `texts/aligned/<work-id>.md` per work, and `_manifest.json`; the sheet export, parsed records, archived source `.docx` and document cache sit under `0-INBOX/raw-data/pecha-sheet/`.
 → [`sheet-to-inbox/SKILL.md`](sheet-to-inbox/SKILL.md)
 
+### `inbox-to-sources` **[exists]**
+**Purpose:** Promote reviewed inbox texts into `1-SOURCES/` — one Tibetan root text per work in `Text/`, one file per distinct Chinese edition in `Translations/`, with multi-document works joined into chapters, `^chapter-verse` block IDs, and every Chinese segment transcluding its Tibetan counterpart.
+**Inputs:** `records.json` and `_manifest.json` from `sheet-to-inbox`, plus the reviewed `0-INBOX/texts/{tibetan,chinese}/*.md` bodies.
+**Outputs:** `1-SOURCES/Text/bo-<toh>-<slug>.md` and `1-SOURCES/Translations/<tag>-<toh>-<slug>.md`, plus a grouping plan and write report under `0-INBOX/raw-data/pecha-sheet/`.
+→ [`inbox-to-sources/SKILL.md`](inbox-to-sources/SKILL.md)
+
 ---
 
 ## Rails-building skills (context preparation for translation)
