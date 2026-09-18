@@ -1172,6 +1172,124 @@ def stage_build(records_path, cachedir, inboxdir, retrieved=None):
 
 
 # --------------------------------------------------------------------------
+# Stage: align
+# --------------------------------------------------------------------------
+
+SEG_LINE_RE = re.compile(r"^(?P<indent>[ \t]*)(?P<label>\d{1,5}\.)?[ \t]*(?P<text>.*?)[ \t]*\^s(?P<id>[0-9a-z-]+)[ \t]*$")
+
+
+def parse_segments(body):
+    """Map segment id -> text for one built file."""
+    out = {}
+    for line in body.split("\n"):
+        m = SEG_LINE_RE.match(line)
+        if m:
+            out[m.group("id")] = m.group("text").strip()
+    return out
+
+
+def _seg_sort_key(sid):
+    parts = sid.split("-")
+    try:
+        return (0, int(parts[0]), int(parts[1]) if len(parts) > 1 else 0)
+    except ValueError:
+        return (1, 0, 0)
+
+
+def _read_body(path):
+    text = open(path, encoding="utf-8").read()
+    m = re.match(r"^---\n.*?\n---\n", text, re.S)
+    return text[m.end():] if m else text
+
+
+def stage_align(records_path, inboxdir):
+    """Write one bilingual file per work, pairing segments by their `^sN` id.
+
+    Pairing is by segment ID, never by position: where one witness has an id
+    the other lacks, the cell is left empty and the row is marked. Forcing
+    two differently-segmented witnesses into the same row count would
+    manufacture an alignment the sources do not support.
+    """
+    records = json.load(open(records_path, encoding="utf-8"))
+    manifest_path = os.path.join(inboxdir, "_manifest.json")
+    manifest = {m["slug"]: m for m in json.load(open(manifest_path, encoding="utf-8"))}
+
+    by_work = {}
+    for rec in records:
+        if rec.get("cluster_uncertain") or not rec["work_id"]:
+            continue
+        m = manifest.get(rec["slug"])
+        if not m or not m.get("segment_count"):
+            continue
+        by_work.setdefault(rec["work_id"], []).append((rec, m))
+
+    outdir = os.path.join(inboxdir, "aligned")
+    written = skipped = mismatched = 0
+    for work_id, members in sorted(by_work.items()):
+        langs = {r["lang_tag"] for r, _ in members}
+        if not (any(l == "bo" for l in langs) and any(l.startswith("zh") for l in langs)):
+            skipped += 1
+            continue
+        os.makedirs(outdir, exist_ok=True)
+
+        # Tibetan first, then the Chinese witnesses in a stable order
+        members.sort(key=lambda rm: (0 if rm[0]["lang_tag"] == "bo" else 1, rm[0]["slug"]))
+        segs = {}
+        for rec, _ in members:
+            segs[rec["slug"]] = parse_segments(_read_body(manifest[rec["slug"]]["path"]))
+
+        all_ids = sorted({sid for d in segs.values() for sid in d}, key=_seg_sort_key)
+        counts = {rec["slug"]: len(segs[rec["slug"]]) for rec, _ in members}
+        aligned = len(set(counts.values())) == 1
+        if not aligned:
+            mismatched += 1
+
+        head = ["---",
+                "work_id: %s" % yaml_scalar(work_id),
+                "file_type: alignment",
+                "witnesses:"]
+        for rec, _ in members:
+            head.append("  - slug: %s" % yaml_scalar(rec["slug"]))
+            head.append("    lang_tag: %s" % yaml_scalar(rec["lang_tag"]))
+            head.append("    segment_count: %d" % counts[rec["slug"]])
+        head += ["segment_count: %d" % len(all_ids),
+                 "segments_aligned: %s" % ("true" if aligned else "false"),
+                 "alignment_basis: segment-id",
+                 "retrieved: %s" % _dt.date.today().isoformat(),
+                 "status: draft",
+                 "---", ""]
+
+        title = next((r["name_en"] or r["name_short"] for r, _ in members if r["name_en"] or r["name_short"]), work_id)
+        body = ["# %s — aligned" % title, ""]
+        if not aligned:
+            body += ["> [Ed: the witnesses disagree on segment count (%s). Rows where a "
+                     "witness has no segment with that id are left blank — they are NOT "
+                     "evidence of correspondence. Resolve before promoting.]"
+                     % ", ".join("%s %d" % (k, v) for k, v in counts.items()), ""]
+
+        cols = [rec["slug"] for rec, _ in members]
+        body.append("| # | " + " | ".join(c for c in cols) + " |")
+        body.append("|---|" + "---|" * len(cols))
+        for sid in all_ids:
+            cells = []
+            for c in cols:
+                t = segs[c].get(sid, "")
+                cells.append(t.replace("|", "\\|").replace("\n", " "))
+            body.append("| %s | %s |" % (sid, " | ".join(cells)))
+        body.append("")
+
+        path = os.path.join(outdir, work_id + ".md")
+        with open(path, "w", encoding="utf-8") as fh:
+            fh.write("\n".join(head + body))
+        written += 1
+
+    log("align: %d works written -> %s" % (written, outdir))
+    log("align: %d with mismatched segment counts, %d works skipped (no bo+zh pair with segments)"
+        % (mismatched, skipped))
+    return outdir
+
+
+# --------------------------------------------------------------------------
 # CLI
 # --------------------------------------------------------------------------
 
@@ -1179,7 +1297,7 @@ def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("stage", choices=["fetch-sheet", "parse", "fetch-docs",
-                                     "import-local", "build", "all"])
+                                     "import-local", "build", "align", "all"])
     p.add_argument("--sheet-id", default=DEFAULT_SHEET_ID)
     p.add_argument("--xlsx", default="", help="use this .xlsx instead of downloading")
     p.add_argument("--workdir", default="0-INBOX/raw-data/pecha-sheet")
@@ -1211,6 +1329,8 @@ def main(argv=None):
                            archive=not args.no_archive)
     if args.stage in ("build", "all"):
         stage_build(records, cachedir, args.inbox)
+    if args.stage in ("align", "all"):
+        stage_align(records, args.inbox)
     return 0
 
 

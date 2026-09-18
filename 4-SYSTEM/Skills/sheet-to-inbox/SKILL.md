@@ -27,7 +27,10 @@ If the sheet's column order has changed, stop and update `reference/sheet-schema
 
 | Path | Contents |
 |---|---|
-| `0-INBOX/texts/<slug>.md` | One file per text row. `<slug>` = `<work-id>-<lang-tag>[-variant]`. |
+| `0-INBOX/texts/tibetan/<slug>.md` | Tibetan witnesses. `<slug>` = `<work-id>-<lang-tag>[-variant]`. |
+| `0-INBOX/texts/chinese/<slug>.md` | Chinese witnesses, all scripts and variants. |
+| `0-INBOX/texts/unsorted/<slug>.md` | Files with no language of their own (e.g. imported documents with no sheet row). |
+| `0-INBOX/texts/aligned/<work-id>.md` | One bilingual table per work, pairing segments by `^sN` id. |
 | `0-INBOX/texts/_manifest.json` | Every slug with its sheet row, work ID, language, ingest status, and aligned peers. |
 | `0-INBOX/raw-data/pecha-sheet/pecha-upload.xlsx` | The downloaded sheet. |
 | `0-INBOX/raw-data/pecha-sheet/records.json` | Parsed records — the intermediate the build stage reads. |
@@ -35,6 +38,7 @@ If the sheet's column order has changed, stop and update `reference/sheet-schema
 | `0-INBOX/raw-data/pecha-sheet/documents/_fetch-status.json` | Per-document fetch outcome and failure reason. |
 | `0-INBOX/raw-data/pecha-sheet/documents/by-slug/<slug>.txt` | Text extracted from hand-downloaded `.docx` files, keyed by slug. |
 | `0-INBOX/raw-data/pecha-sheet/documents/orphans/<slug>.txt` | Imported documents with no matching sheet row. |
+| `0-INBOX/raw-data/pecha-sheet/documents/original/<name>.docx` | The hand-downloaded originals, archived unchanged. |
 | `0-INBOX/raw-data/pecha-sheet/documents/_import-status.json` | What each local file matched, and everything that did not match. |
 
 ---
@@ -200,7 +204,9 @@ witnesses disagree about segmentation — report it, do not reconcile it.
 10. **The document cache is keyed by Google Doc ID and is re-used.** `fetch-docs` skips documents already cached unless `--refetch` is passed, so re-running the pipeline after a metadata fix costs no downloads.
 11. **Collapse duplicate downloads by extracted text, never by bytes.** `.docx` zips embed modification timestamps, so two byte-different files routinely hold identical text. Compare the extraction; when copies genuinely differ, report both rather than silently picking one.
 12. **An imported file that matches no sheet row is never folded in.** It is written with `sheet_row: null`, `sheet_row_missing: true`, and an editorial note saying its identity and relations are unverified. Do not guess which row it belongs to.
-13. **Column G is headed "Commentary of (Toh number)" but is used as the Toh anchor** for the row's own work, not as a commentary relation. Emit it as `toh:` plus the verbatim `toh_column_raw:`; do not read a commentary relation out of it.
+13. **Never pair segments by position.** The alignment file joins witnesses on their `^sN` ids. A blank cell means that witness has no segment with that id — it is not evidence of correspondence, and must never be filled by sliding rows together.
+14. **Language folders are routing, not judgement.** A record goes to `tibetan/` or `chinese/` by its `lang_tag`, which comes from column M. A record with no language goes to `unsorted/`; do not guess one from the content.
+15. **Column G is headed "Commentary of (Toh number)" but is used as the Toh anchor** for the row's own work, not as a commentary relation. Emit it as `toh:` plus the verbatim `toh_column_raw:`; do not read a commentary relation out of it.
 
 ---
 
@@ -288,9 +294,25 @@ python3 4-SYSTEM/Skills/sheet-to-inbox/sheet_to_inbox.py build
 
 Writes one file per record to `0-INBOX/texts/` plus `_manifest.json`. Offline and idempotent — safe to re-run after any metadata correction.
 
+### Step 6 — Write the bilingual alignment
+
+```bash
+python3 4-SYSTEM/Skills/sheet-to-inbox/sheet_to_inbox.py align
+```
+
+Writes `0-INBOX/texts/aligned/<work-id>.md` for every work that has both a
+Tibetan and a Chinese witness carrying segments: one table, one row per
+segment id, one column per witness.
+
+**Pairing is by segment id, never by position.** Where one witness has an id
+the other lacks, the cell is left blank and the file carries an editorial note
+naming the disagreeing counts. Forcing two differently-segmented witnesses
+into the same row count would manufacture an alignment the sources do not
+support. Works flagged `cluster_uncertain` are excluded entirely.
+
 The whole chain is also available as `sheet_to_inbox.py all`.
 
-### Step 6 — Report
+### Step 7 — Report
 
 Report to the human contributor:
 - counts by `ingest_status` (`with-body` / `link-restricted` / `no-link`);
@@ -338,4 +360,7 @@ The alternative, when only a few documents are restricted, is to open each in a 
 - [ ] Bodies retain segment numbering (`^sN`), footnotes and highlighting — never `<w:t>` text alone
 - [ ] Every aligned pair with bodies on both sides is `segments_aligned: true`, or the mismatch is reported
 - [ ] Any locally imported files reported: matched, ambiguous, text-conflicting, unreadable, and without a sheet row
+- [ ] Source `.docx` archived under `documents/original/`
+- [ ] Every record filed under `tibetan/`, `chinese/` or `unsorted/` by its `lang_tag`
+- [ ] An alignment file written for every work with a segment-bearing Tibetan and Chinese witness, and every count disagreement carrying its editorial note
 - [ ] Counts by `ingest_status`, `lang_mismatch` rows, and fetch failures reported to the contributor

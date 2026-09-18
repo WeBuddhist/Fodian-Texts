@@ -55,7 +55,7 @@ Generates complete YAML frontmatter for a secondary-literature or reference file
 ### `sheet-to-inbox` **[exists]**
 **Purpose:** Ingest the "Pecha Upload List" Google Sheet into `0-INBOX/texts/` — one markdown file per text row, with the document body downloaded from its Google Doc link and every sheet column, catalogue ID, and cross-language relation recorded in YAML frontmatter.
 **Inputs:** The Google Sheet ID (defaults to the Pecha Upload List), `openpyxl`, and optionally a Google Drive read token for documents that are not link-readable.
-**Outputs:** `0-INBOX/texts/<work-id>-<lang-tag>.md` per row plus `_manifest.json`, with the sheet export, parsed records, and document cache under `0-INBOX/raw-data/pecha-sheet/`.
+**Outputs:** `0-INBOX/texts/{tibetan,chinese}/<work-id>-<lang-tag>.md` per row, a bilingual `texts/aligned/<work-id>.md` per work, and `_manifest.json`; the sheet export, parsed records, archived source `.docx` and document cache sit under `0-INBOX/raw-data/pecha-sheet/`.
 → [`sheet-to-inbox/SKILL.md`](sheet-to-inbox/SKILL.md)
 
 ---
