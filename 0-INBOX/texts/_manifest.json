@@ -1,7 +1,8 @@
 [
  {
   "slug": "toh4054-tai1606-1-bo",
-  "path": "0-INBOX/texts/toh4054-tai1606-1-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh4054-tai1606-1-bo.md",
+  "folder": "tibetan",
   "sheet_row": 6,
   "work_id": "toh4054-tai1606-1",
   "lang_tag": "bo",
@@ -14,7 +15,8 @@
  },
  {
   "slug": "toh4054-tai1606-1-zh",
-  "path": "0-INBOX/texts/toh4054-tai1606-1-zh.md",
+  "path": "0-INBOX/texts/chinese/toh4054-tai1606-1-zh.md",
+  "folder": "chinese",
   "sheet_row": 7,
   "work_id": "toh4054-tai1606-1",
   "lang_tag": "zh",
@@ -27,7 +29,8 @@
  },
  {
   "slug": "toh4054-tai1606-2-bo",
-  "path": "0-INBOX/texts/toh4054-tai1606-2-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh4054-tai1606-2-bo.md",
+  "folder": "tibetan",
   "sheet_row": 8,
   "work_id": "toh4054-tai1606-2",
   "lang_tag": "bo",
@@ -40,7 +43,8 @@
  },
  {
   "slug": "toh4054-tai1606-2-zh",
-  "path": "0-INBOX/texts/toh4054-tai1606-2-zh.md",
+  "path": "0-INBOX/texts/chinese/toh4054-tai1606-2-zh.md",
+  "folder": "chinese",
   "sheet_row": 9,
   "work_id": "toh4054-tai1606-2",
   "lang_tag": "zh",
@@ -53,7 +57,8 @@
  },
  {
   "slug": "toh4054-tai1606-3-bo",
-  "path": "0-INBOX/texts/toh4054-tai1606-3-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh4054-tai1606-3-bo.md",
+  "folder": "tibetan",
   "sheet_row": 10,
   "work_id": "toh4054-tai1606-3",
   "lang_tag": "bo",
@@ -66,7 +71,8 @@
  },
  {
   "slug": "toh4054-tai1606-3-zh",
-  "path": "0-INBOX/texts/toh4054-tai1606-3-zh.md",
+  "path": "0-INBOX/texts/chinese/toh4054-tai1606-3-zh.md",
+  "folder": "chinese",
   "sheet_row": 11,
   "work_id": "toh4054-tai1606-3",
   "lang_tag": "zh",
@@ -79,7 +85,8 @@
  },
  {
   "slug": "toh4054-tai1606-4-bo",
-  "path": "0-INBOX/texts/toh4054-tai1606-4-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh4054-tai1606-4-bo.md",
+  "folder": "tibetan",
   "sheet_row": 12,
   "work_id": "toh4054-tai1606-4",
   "lang_tag": "bo",
@@ -92,7 +99,8 @@
  },
  {
   "slug": "toh4054-tai1606-4-zh",
-  "path": "0-INBOX/texts/toh4054-tai1606-4-zh.md",
+  "path": "0-INBOX/texts/chinese/toh4054-tai1606-4-zh.md",
+  "folder": "chinese",
   "sheet_row": 13,
   "work_id": "toh4054-tai1606-4",
   "lang_tag": "zh",
@@ -105,7 +113,8 @@
  },
  {
   "slug": "toh4054-tai1606-5-bo",
-  "path": "0-INBOX/texts/toh4054-tai1606-5-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh4054-tai1606-5-bo.md",
+  "folder": "tibetan",
   "sheet_row": 14,
   "work_id": "toh4054-tai1606-5",
   "lang_tag": "bo",
@@ -118,7 +127,8 @@
  },
  {
   "slug": "toh4054-tai1606-5-zh",
-  "path": "0-INBOX/texts/toh4054-tai1606-5-zh.md",
+  "path": "0-INBOX/texts/chinese/toh4054-tai1606-5-zh.md",
+  "folder": "chinese",
   "sheet_row": 15,
   "work_id": "toh4054-tai1606-5",
   "lang_tag": "zh",
@@ -131,7 +141,8 @@
  },
  {
   "slug": "toh4049-tai1605-1-bo",
-  "path": "0-INBOX/texts/toh4049-tai1605-1-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh4049-tai1605-1-bo.md",
+  "folder": "tibetan",
   "sheet_row": 17,
   "work_id": "toh4049-tai1605-1",
   "lang_tag": "bo",
@@ -144,7 +155,8 @@
  },
  {
   "slug": "toh4049-tai1605-1-zh",
-  "path": "0-INBOX/texts/toh4049-tai1605-1-zh.md",
+  "path": "0-INBOX/texts/chinese/toh4049-tai1605-1-zh.md",
+  "folder": "chinese",
   "sheet_row": 18,
   "work_id": "toh4049-tai1605-1",
   "lang_tag": "zh",
@@ -157,7 +169,8 @@
  },
  {
   "slug": "toh4049-tai1605-2-bo",
-  "path": "0-INBOX/texts/toh4049-tai1605-2-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh4049-tai1605-2-bo.md",
+  "folder": "tibetan",
   "sheet_row": 19,
   "work_id": "toh4049-tai1605-2",
   "lang_tag": "bo",
@@ -170,7 +183,8 @@
  },
  {
   "slug": "toh4049-tai1605-2-zh",
-  "path": "0-INBOX/texts/toh4049-tai1605-2-zh.md",
+  "path": "0-INBOX/texts/chinese/toh4049-tai1605-2-zh.md",
+  "folder": "chinese",
   "sheet_row": 20,
   "work_id": "toh4049-tai1605-2",
   "lang_tag": "zh",
@@ -183,7 +197,8 @@
  },
  {
   "slug": "toh4049-tai1605-3-bo",
-  "path": "0-INBOX/texts/toh4049-tai1605-3-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh4049-tai1605-3-bo.md",
+  "folder": "tibetan",
   "sheet_row": 21,
   "work_id": "toh4049-tai1605-3",
   "lang_tag": "bo",
@@ -196,7 +211,8 @@
  },
  {
   "slug": "toh4049-tai1605-3-zh",
-  "path": "0-INBOX/texts/toh4049-tai1605-3-zh.md",
+  "path": "0-INBOX/texts/chinese/toh4049-tai1605-3-zh.md",
+  "folder": "chinese",
   "sheet_row": 22,
   "work_id": "toh4049-tai1605-3",
   "lang_tag": "zh",
@@ -209,7 +225,8 @@
  },
  {
   "slug": "toh4049-tai1605-4-bo",
-  "path": "0-INBOX/texts/toh4049-tai1605-4-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh4049-tai1605-4-bo.md",
+  "folder": "tibetan",
   "sheet_row": 23,
   "work_id": "toh4049-tai1605-4",
   "lang_tag": "bo",
@@ -222,7 +239,8 @@
  },
  {
   "slug": "toh4049-tai1605-4-zh",
-  "path": "0-INBOX/texts/toh4049-tai1605-4-zh.md",
+  "path": "0-INBOX/texts/chinese/toh4049-tai1605-4-zh.md",
+  "folder": "chinese",
   "sheet_row": 24,
   "work_id": "toh4049-tai1605-4",
   "lang_tag": "zh",
@@ -235,7 +253,8 @@
  },
  {
   "slug": "toh4049-tai1605-5-bo",
-  "path": "0-INBOX/texts/toh4049-tai1605-5-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh4049-tai1605-5-bo.md",
+  "folder": "tibetan",
   "sheet_row": 25,
   "work_id": "toh4049-tai1605-5",
   "lang_tag": "bo",
@@ -248,7 +267,8 @@
  },
  {
   "slug": "toh4049-tai1605-5-zh",
-  "path": "0-INBOX/texts/toh4049-tai1605-5-zh.md",
+  "path": "0-INBOX/texts/chinese/toh4049-tai1605-5-zh.md",
+  "folder": "chinese",
   "sheet_row": 26,
   "work_id": "toh4049-tai1605-5",
   "lang_tag": "zh",
@@ -261,7 +281,8 @@
  },
  {
   "slug": "toh44a-tai278-bo",
-  "path": "0-INBOX/texts/toh44a-tai278-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh44a-tai278-bo.md",
+  "folder": "tibetan",
   "sheet_row": 28,
   "work_id": "toh44a-tai278",
   "lang_tag": "bo",
@@ -274,7 +295,8 @@
  },
  {
   "slug": "toh44a-tai278-zh",
-  "path": "0-INBOX/texts/toh44a-tai278-zh.md",
+  "path": "0-INBOX/texts/chinese/toh44a-tai278-zh.md",
+  "folder": "chinese",
   "sheet_row": 29,
   "work_id": "toh44a-tai278",
   "lang_tag": "zh",
@@ -287,7 +309,8 @@
  },
  {
   "slug": "toh44a-tai279-bo",
-  "path": "0-INBOX/texts/toh44a-tai279-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh44a-tai279-bo.md",
+  "folder": "tibetan",
   "sheet_row": 30,
   "work_id": "toh44a-tai279",
   "lang_tag": "bo",
@@ -300,7 +323,8 @@
  },
  {
   "slug": "toh44a-tai279-zh",
-  "path": "0-INBOX/texts/toh44a-tai279-zh.md",
+  "path": "0-INBOX/texts/chinese/toh44a-tai279-zh.md",
+  "folder": "chinese",
   "sheet_row": 31,
   "work_id": "toh44a-tai279",
   "lang_tag": "zh",
@@ -313,7 +337,8 @@
  },
  {
   "slug": "toh555-tai665-bo",
-  "path": "0-INBOX/texts/toh555-tai665-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh555-tai665-bo.md",
+  "folder": "tibetan",
   "sheet_row": 33,
   "work_id": "toh555-tai665",
   "lang_tag": "bo",
@@ -326,7 +351,8 @@
  },
  {
   "slug": "toh555-tai665-zh",
-  "path": "0-INBOX/texts/toh555-tai665-zh.md",
+  "path": "0-INBOX/texts/chinese/toh555-tai665-zh.md",
+  "folder": "chinese",
   "sheet_row": 34,
   "work_id": "toh555-tai665",
   "lang_tag": "zh",
@@ -339,7 +365,8 @@
  },
  {
   "slug": "toh341-tai202-bo",
-  "path": "0-INBOX/texts/toh341-tai202-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh341-tai202-bo.md",
+  "folder": "tibetan",
   "sheet_row": 36,
   "work_id": "toh341-tai202",
   "lang_tag": "bo",
@@ -352,7 +379,8 @@
  },
  {
   "slug": "toh341-tai202-zh",
-  "path": "0-INBOX/texts/toh341-tai202-zh.md",
+  "path": "0-INBOX/texts/chinese/toh341-tai202-zh.md",
+  "folder": "chinese",
   "sheet_row": 37,
   "work_id": "toh341-tai202",
   "lang_tag": "zh",
@@ -365,7 +393,8 @@
  },
  {
   "slug": "toh56to57-tai310-002-bo",
-  "path": "0-INBOX/texts/toh56to57-tai310-002-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310-002-bo.md",
+  "folder": "tibetan",
   "sheet_row": 39,
   "work_id": "toh56to57-tai310-002",
   "lang_tag": "bo",
@@ -378,7 +407,8 @@
  },
  {
   "slug": "toh56to57-tai310-002-zh",
-  "path": "0-INBOX/texts/toh56to57-tai310-002-zh.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310-002-zh.md",
+  "folder": "chinese",
   "sheet_row": 40,
   "work_id": "toh56to57-tai310-002",
   "lang_tag": "zh",
@@ -391,7 +421,8 @@
  },
  {
   "slug": "toh56to57-tai310-003-bo",
-  "path": "0-INBOX/texts/toh56to57-tai310-003-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310-003-bo.md",
+  "folder": "tibetan",
   "sheet_row": 41,
   "work_id": "toh56to57-tai310-003",
   "lang_tag": "bo",
@@ -404,7 +435,8 @@
  },
  {
   "slug": "toh56to57-tai310-003-zh",
-  "path": "0-INBOX/texts/toh56to57-tai310-003-zh.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310-003-zh.md",
+  "folder": "chinese",
   "sheet_row": 42,
   "work_id": "toh56to57-tai310-003",
   "lang_tag": "zh",
@@ -417,7 +449,8 @@
  },
  {
   "slug": "toh56to57-tai310-005-bo",
-  "path": "0-INBOX/texts/toh56to57-tai310-005-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310-005-bo.md",
+  "folder": "tibetan",
   "sheet_row": 43,
   "work_id": "toh56to57-tai310-005",
   "lang_tag": "bo",
@@ -430,7 +463,8 @@
  },
  {
   "slug": "toh56to57-tai310-005-zh",
-  "path": "0-INBOX/texts/toh56to57-tai310-005-zh.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310-005-zh.md",
+  "folder": "chinese",
   "sheet_row": 44,
   "work_id": "toh56to57-tai310-005",
   "lang_tag": "zh",
@@ -443,7 +477,8 @@
  },
  {
   "slug": "toh56to57-tai310-006-bo",
-  "path": "0-INBOX/texts/toh56to57-tai310-006-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310-006-bo.md",
+  "folder": "tibetan",
   "sheet_row": 45,
   "work_id": "toh56to57-tai310-006",
   "lang_tag": "bo",
@@ -458,7 +493,8 @@
  },
  {
   "slug": "toh56to57-tai310-006-zh",
-  "path": "0-INBOX/texts/toh56to57-tai310-006-zh.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310-006-zh.md",
+  "folder": "chinese",
   "sheet_row": 46,
   "work_id": "toh56to57-tai310-006",
   "lang_tag": "zh",
@@ -473,7 +509,8 @@
  },
  {
   "slug": "toh56to57-tai310-006-bo-2",
-  "path": "0-INBOX/texts/toh56to57-tai310-006-bo-2.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310-006-bo-2.md",
+  "folder": "tibetan",
   "sheet_row": 47,
   "work_id": "toh56to57-tai310-006",
   "lang_tag": "bo",
@@ -488,7 +525,8 @@
  },
  {
   "slug": "toh56to57-tai310-006-zh-2",
-  "path": "0-INBOX/texts/toh56to57-tai310-006-zh-2.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310-006-zh-2.md",
+  "folder": "chinese",
   "sheet_row": 48,
   "work_id": "toh56to57-tai310-006",
   "lang_tag": "zh",
@@ -503,7 +541,8 @@
  },
  {
   "slug": "toh56to57-tai310-008-bo",
-  "path": "0-INBOX/texts/toh56to57-tai310-008-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310-008-bo.md",
+  "folder": "tibetan",
   "sheet_row": 49,
   "work_id": "toh56to57-tai310-008",
   "lang_tag": "bo",
@@ -516,7 +555,8 @@
  },
  {
   "slug": "toh56to57-tai310-008-zh",
-  "path": "0-INBOX/texts/toh56to57-tai310-008-zh.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310-008-zh.md",
+  "folder": "chinese",
   "sheet_row": 50,
   "work_id": "toh56to57-tai310-008",
   "lang_tag": "zh",
@@ -529,7 +569,8 @@
  },
  {
   "slug": "toh56to57-tai310-00101-bo",
-  "path": "0-INBOX/texts/toh56to57-tai310-00101-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310-00101-bo.md",
+  "folder": "tibetan",
   "sheet_row": 51,
   "work_id": "toh56to57-tai310-00101",
   "lang_tag": "bo",
@@ -542,7 +583,8 @@
  },
  {
   "slug": "toh56to57-tai310-00101-zh",
-  "path": "0-INBOX/texts/toh56to57-tai310-00101-zh.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310-00101-zh.md",
+  "folder": "chinese",
   "sheet_row": 52,
   "work_id": "toh56to57-tai310-00101",
   "lang_tag": "zh",
@@ -555,7 +597,8 @@
  },
  {
   "slug": "toh56to57-tai310-00102-bo",
-  "path": "0-INBOX/texts/toh56to57-tai310-00102-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310-00102-bo.md",
+  "folder": "tibetan",
   "sheet_row": 53,
   "work_id": "toh56to57-tai310-00102",
   "lang_tag": "bo",
@@ -568,7 +611,8 @@
  },
  {
   "slug": "toh56to57-tai310-00102-zh",
-  "path": "0-INBOX/texts/toh56to57-tai310-00102-zh.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310-00102-zh.md",
+  "folder": "chinese",
   "sheet_row": 54,
   "work_id": "toh56to57-tai310-00102",
   "lang_tag": "zh",
@@ -581,7 +625,8 @@
  },
  {
   "slug": "toh56to57-tai310-00103-bo",
-  "path": "0-INBOX/texts/toh56to57-tai310-00103-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310-00103-bo.md",
+  "folder": "tibetan",
   "sheet_row": 55,
   "work_id": "toh56to57-tai310-00103",
   "lang_tag": "bo",
@@ -594,7 +639,8 @@
  },
  {
   "slug": "toh56to57-tai310-00103-zh",
-  "path": "0-INBOX/texts/toh56to57-tai310-00103-zh.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310-00103-zh.md",
+  "folder": "chinese",
   "sheet_row": 56,
   "work_id": "toh56to57-tai310-00103",
   "lang_tag": "zh",
@@ -607,7 +653,8 @@
  },
  {
   "slug": "toh56to57-tai310-00401-bo",
-  "path": "0-INBOX/texts/toh56to57-tai310-00401-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310-00401-bo.md",
+  "folder": "tibetan",
   "sheet_row": 57,
   "work_id": "toh56to57-tai310-00401",
   "lang_tag": "bo",
@@ -620,7 +667,8 @@
  },
  {
   "slug": "toh56to57-tai310-00401-zh",
-  "path": "0-INBOX/texts/toh56to57-tai310-00401-zh.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310-00401-zh.md",
+  "folder": "chinese",
   "sheet_row": 58,
   "work_id": "toh56to57-tai310-00401",
   "lang_tag": "zh",
@@ -633,7 +681,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo.md",
+  "folder": "tibetan",
   "sheet_row": 59,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -700,7 +749,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh.md",
+  "folder": "chinese",
   "sheet_row": 60,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -767,7 +817,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-2",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-2.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-2.md",
+  "folder": "tibetan",
   "sheet_row": 61,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -834,7 +885,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-2",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-2.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-2.md",
+  "folder": "chinese",
   "sheet_row": 62,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -901,7 +953,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-3",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-3.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-3.md",
+  "folder": "tibetan",
   "sheet_row": 63,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -968,7 +1021,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-3",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-3.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-3.md",
+  "folder": "chinese",
   "sheet_row": 64,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -1035,7 +1089,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-4",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-4.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-4.md",
+  "folder": "tibetan",
   "sheet_row": 65,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -1102,7 +1157,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-4",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-4.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-4.md",
+  "folder": "chinese",
   "sheet_row": 66,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -1169,7 +1225,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-5",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-5.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-5.md",
+  "folder": "tibetan",
   "sheet_row": 67,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -1236,7 +1293,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-5",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-5.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-5.md",
+  "folder": "chinese",
   "sheet_row": 68,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -1303,7 +1361,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-6",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-6.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-6.md",
+  "folder": "tibetan",
   "sheet_row": 69,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -1370,7 +1429,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-6",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-6.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-6.md",
+  "folder": "chinese",
   "sheet_row": 70,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -1437,7 +1497,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-7",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-7.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-7.md",
+  "folder": "tibetan",
   "sheet_row": 71,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -1504,7 +1565,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-7",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-7.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-7.md",
+  "folder": "chinese",
   "sheet_row": 72,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -1571,7 +1633,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-8",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-8.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-8.md",
+  "folder": "tibetan",
   "sheet_row": 73,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -1638,7 +1701,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-8",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-8.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-8.md",
+  "folder": "chinese",
   "sheet_row": 74,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -1705,7 +1769,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-9",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-9.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-9.md",
+  "folder": "tibetan",
   "sheet_row": 75,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -1772,7 +1837,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-9",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-9.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-9.md",
+  "folder": "chinese",
   "sheet_row": 76,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -1839,7 +1905,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-10",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-10.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-10.md",
+  "folder": "tibetan",
   "sheet_row": 77,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -1906,7 +1973,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-10",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-10.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-10.md",
+  "folder": "chinese",
   "sheet_row": 78,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -1973,7 +2041,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-11",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-11.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-11.md",
+  "folder": "tibetan",
   "sheet_row": 79,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -2040,7 +2109,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-11",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-11.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-11.md",
+  "folder": "chinese",
   "sheet_row": 80,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -2107,7 +2177,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-12",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-12.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-12.md",
+  "folder": "tibetan",
   "sheet_row": 81,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -2174,7 +2245,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-12",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-12.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-12.md",
+  "folder": "chinese",
   "sheet_row": 82,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -2241,7 +2313,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-13",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-13.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-13.md",
+  "folder": "tibetan",
   "sheet_row": 83,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -2308,7 +2381,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-13",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-13.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-13.md",
+  "folder": "chinese",
   "sheet_row": 84,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -2375,7 +2449,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-14",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-14.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-14.md",
+  "folder": "tibetan",
   "sheet_row": 85,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -2442,7 +2517,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-14",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-14.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-14.md",
+  "folder": "chinese",
   "sheet_row": 86,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -2509,7 +2585,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-15",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-15.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-15.md",
+  "folder": "tibetan",
   "sheet_row": 87,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -2576,7 +2653,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-15",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-15.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-15.md",
+  "folder": "chinese",
   "sheet_row": 88,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -2643,7 +2721,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-16",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-16.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-16.md",
+  "folder": "tibetan",
   "sheet_row": 89,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -2710,7 +2789,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-16",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-16.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-16.md",
+  "folder": "chinese",
   "sheet_row": 90,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -2777,7 +2857,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-17",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-17.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-17.md",
+  "folder": "tibetan",
   "sheet_row": 91,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -2844,7 +2925,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-17",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-17.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-17.md",
+  "folder": "chinese",
   "sheet_row": 92,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -2911,7 +2993,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-18",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-18.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-18.md",
+  "folder": "tibetan",
   "sheet_row": 93,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -2978,7 +3061,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-18",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-18.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-18.md",
+  "folder": "chinese",
   "sheet_row": 94,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -3045,7 +3129,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-19",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-19.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-19.md",
+  "folder": "tibetan",
   "sheet_row": 95,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -3112,7 +3197,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-19",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-19.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-19.md",
+  "folder": "chinese",
   "sheet_row": 96,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -3179,7 +3265,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-20",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-20.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-20.md",
+  "folder": "tibetan",
   "sheet_row": 97,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -3246,7 +3333,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-20",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-20.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-20.md",
+  "folder": "chinese",
   "sheet_row": 98,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -3313,7 +3401,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-21",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-21.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-21.md",
+  "folder": "tibetan",
   "sheet_row": 99,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -3380,7 +3469,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-21",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-21.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-21.md",
+  "folder": "chinese",
   "sheet_row": 100,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -3447,7 +3537,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-22",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-22.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-22.md",
+  "folder": "tibetan",
   "sheet_row": 101,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -3514,7 +3605,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-22",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-22.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-22.md",
+  "folder": "chinese",
   "sheet_row": 102,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -3581,7 +3673,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-23",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-23.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-23.md",
+  "folder": "tibetan",
   "sheet_row": 103,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -3648,7 +3741,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-23",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-23.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-23.md",
+  "folder": "chinese",
   "sheet_row": 104,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -3715,7 +3809,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-24",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-24.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-24.md",
+  "folder": "tibetan",
   "sheet_row": 105,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -3782,7 +3877,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-24",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-24.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-24.md",
+  "folder": "chinese",
   "sheet_row": 106,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -3849,7 +3945,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-25",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-25.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-25.md",
+  "folder": "tibetan",
   "sheet_row": 107,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -3916,7 +4013,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-25",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-25.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-25.md",
+  "folder": "chinese",
   "sheet_row": 108,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -3983,7 +4081,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-26",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-26.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-26.md",
+  "folder": "tibetan",
   "sheet_row": 109,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -4050,7 +4149,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-26",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-26.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-26.md",
+  "folder": "chinese",
   "sheet_row": 110,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -4117,7 +4217,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-27",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-27.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-27.md",
+  "folder": "tibetan",
   "sheet_row": 111,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -4184,7 +4285,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-27",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-27.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-27.md",
+  "folder": "chinese",
   "sheet_row": 112,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -4251,7 +4353,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-bo-28",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-bo-28.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-28.md",
+  "folder": "tibetan",
   "sheet_row": 113,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "bo",
@@ -4318,7 +4421,8 @@
  },
  {
   "slug": "toh56to57-tai310002003005006008-zh-28",
-  "path": "0-INBOX/texts/toh56to57-tai310002003005006008-zh-28.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh-28.md",
+  "folder": "chinese",
   "sheet_row": 114,
   "work_id": "toh56to57-tai310(002,003,005,006,008)",
   "lang_tag": "zh",
@@ -4385,7 +4489,8 @@
  },
  {
   "slug": "toh56to57-tai316-missing-004009-bo",
-  "path": "0-INBOX/texts/toh56to57-tai316-missing-004009-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh56to57-tai316-missing-004009-bo.md",
+  "folder": "tibetan",
   "sheet_row": 116,
   "work_id": "toh56to57-tai316 (missing 004,009)",
   "lang_tag": "bo",
@@ -4398,7 +4503,8 @@
  },
  {
   "slug": "toh56to57-tai316-missing-004009-zh",
-  "path": "0-INBOX/texts/toh56to57-tai316-missing-004009-zh.md",
+  "path": "0-INBOX/texts/chinese/toh56to57-tai316-missing-004009-zh.md",
+  "folder": "chinese",
   "sheet_row": 117,
   "work_id": "toh56to57-tai316 (missing 004,009)",
   "lang_tag": "zh",
@@ -4411,7 +4517,8 @@
  },
  {
   "slug": "toh46-tai310-02-bo",
-  "path": "0-INBOX/texts/toh46-tai310-02-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh46-tai310-02-bo.md",
+  "folder": "tibetan",
   "sheet_row": 119,
   "work_id": "toh46-tai310-02",
   "lang_tag": "bo",
@@ -4424,7 +4531,8 @@
  },
  {
   "slug": "toh46-tai310-02-zh",
-  "path": "0-INBOX/texts/toh46-tai310-02-zh.md",
+  "path": "0-INBOX/texts/chinese/toh46-tai310-02-zh.md",
+  "folder": "chinese",
   "sheet_row": 120,
   "work_id": "toh46-tai310-02",
   "lang_tag": "zh",
@@ -4437,7 +4545,8 @@
  },
  {
   "slug": "toh0023-kp0002-bo",
-  "path": "0-INBOX/texts/toh0023-kp0002-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0023-kp0002-bo.md",
+  "folder": "tibetan",
   "sheet_row": 123,
   "work_id": "toh0023-kp0002",
   "lang_tag": "bo",
@@ -4451,7 +4560,8 @@
  },
  {
   "slug": "toh0023-kp0002-zh",
-  "path": "0-INBOX/texts/toh0023-kp0002-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0023-kp0002-zh.md",
+  "folder": "chinese",
   "sheet_row": 124,
   "work_id": "toh0023-kp0002",
   "lang_tag": "zh",
@@ -4465,7 +4575,8 @@
  },
  {
   "slug": "toh0023-kp0002-zh-hans",
-  "path": "0-INBOX/texts/toh0023-kp0002-zh-hans.md",
+  "path": "0-INBOX/texts/chinese/toh0023-kp0002-zh-hans.md",
+  "folder": "chinese",
   "sheet_row": 125,
   "work_id": "toh0023-kp0002",
   "lang_tag": "zh-hans",
@@ -4479,7 +4590,8 @@
  },
  {
   "slug": "toh0020-kp0001-bo",
-  "path": "0-INBOX/texts/toh0020-kp0001-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0020-kp0001-bo.md",
+  "folder": "tibetan",
   "sheet_row": 126,
   "work_id": "toh0020-kp0001",
   "lang_tag": "bo",
@@ -4493,7 +4605,8 @@
  },
  {
   "slug": "toh0020-kp0001-zh",
-  "path": "0-INBOX/texts/toh0020-kp0001-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0020-kp0001-zh.md",
+  "folder": "chinese",
   "sheet_row": 127,
   "work_id": "toh0020-kp0001",
   "lang_tag": "zh",
@@ -4507,7 +4620,8 @@
  },
  {
   "slug": "toh0020-kp0001-zh-hans",
-  "path": "0-INBOX/texts/toh0020-kp0001-zh-hans.md",
+  "path": "0-INBOX/texts/chinese/toh0020-kp0001-zh-hans.md",
+  "folder": "chinese",
   "sheet_row": 128,
   "work_id": "toh0020-kp0001",
   "lang_tag": "zh-hans",
@@ -4521,7 +4635,8 @@
  },
  {
   "slug": "toh0214-kp0018-bo",
-  "path": "0-INBOX/texts/toh0214-kp0018-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0214-kp0018-bo.md",
+  "folder": "tibetan",
   "sheet_row": 129,
   "work_id": "toh0214-kp0018",
   "lang_tag": "bo",
@@ -4535,7 +4650,8 @@
  },
  {
   "slug": "toh0214-kp0018-zh",
-  "path": "0-INBOX/texts/toh0214-kp0018-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0214-kp0018-zh.md",
+  "folder": "chinese",
   "sheet_row": 130,
   "work_id": "toh0214-kp0018",
   "lang_tag": "zh",
@@ -4549,7 +4665,8 @@
  },
  {
   "slug": "toh0214-kp0018-zh-hans",
-  "path": "0-INBOX/texts/toh0214-kp0018-zh-hans.md",
+  "path": "0-INBOX/texts/chinese/toh0214-kp0018-zh-hans.md",
+  "folder": "chinese",
   "sheet_row": 131,
   "work_id": "toh0214-kp0018",
   "lang_tag": "zh-hans",
@@ -4563,7 +4680,8 @@
  },
  {
   "slug": "toh0247-kp0022-bo",
-  "path": "0-INBOX/texts/toh0247-kp0022-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0247-kp0022-bo.md",
+  "folder": "tibetan",
   "sheet_row": 133,
   "work_id": "toh0247-kp0022",
   "lang_tag": "bo",
@@ -4578,7 +4696,8 @@
  },
  {
   "slug": "toh0247-kp0022-zh-without-footnote",
-  "path": "0-INBOX/texts/toh0247-kp0022-zh-without-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh0247-kp0022-zh-without-footnote.md",
+  "folder": "chinese",
   "sheet_row": 134,
   "work_id": "toh0247-kp0022",
   "lang_tag": "zh",
@@ -4593,7 +4712,8 @@
  },
  {
   "slug": "toh0247-kp0022-zh-with-footnote",
-  "path": "0-INBOX/texts/toh0247-kp0022-zh-with-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh0247-kp0022-zh-with-footnote.md",
+  "folder": "chinese",
   "sheet_row": 135,
   "work_id": "toh0247-kp0022",
   "lang_tag": "zh",
@@ -4608,7 +4728,8 @@
  },
  {
   "slug": "toh0247-kp0022-zh-hans",
-  "path": "0-INBOX/texts/toh0247-kp0022-zh-hans.md",
+  "path": "0-INBOX/texts/chinese/toh0247-kp0022-zh-hans.md",
+  "folder": "chinese",
   "sheet_row": 136,
   "work_id": "toh0247-kp0022",
   "lang_tag": "zh-hans",
@@ -4623,7 +4744,8 @@
  },
  {
   "slug": "toh0215-kp0019-bo",
-  "path": "0-INBOX/texts/toh0215-kp0019-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0215-kp0019-bo.md",
+  "folder": "tibetan",
   "sheet_row": 138,
   "work_id": "toh0215-kp0019",
   "lang_tag": "bo",
@@ -4638,7 +4760,8 @@
  },
  {
   "slug": "toh0215-kp0019-zh",
-  "path": "0-INBOX/texts/toh0215-kp0019-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0215-kp0019-zh.md",
+  "folder": "chinese",
   "sheet_row": 139,
   "work_id": "toh0215-kp0019",
   "lang_tag": "zh",
@@ -4653,7 +4776,8 @@
  },
  {
   "slug": "toh0215-kp0019-zh-with-footnote",
-  "path": "0-INBOX/texts/toh0215-kp0019-zh-with-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh0215-kp0019-zh-with-footnote.md",
+  "folder": "chinese",
   "sheet_row": 140,
   "work_id": "toh0215-kp0019",
   "lang_tag": "zh",
@@ -4668,7 +4792,8 @@
  },
  {
   "slug": "toh0215-kp0019-zh-hans",
-  "path": "0-INBOX/texts/toh0215-kp0019-zh-hans.md",
+  "path": "0-INBOX/texts/chinese/toh0215-kp0019-zh-hans.md",
+  "folder": "chinese",
   "sheet_row": 141,
   "work_id": "toh0215-kp0019",
   "lang_tag": "zh-hans",
@@ -4683,7 +4808,8 @@
  },
  {
   "slug": "toh0283-kp0025-bo",
-  "path": "0-INBOX/texts/toh0283-kp0025-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0283-kp0025-bo.md",
+  "folder": "tibetan",
   "sheet_row": 143,
   "work_id": "toh0283-kp0025",
   "lang_tag": "bo",
@@ -4698,7 +4824,8 @@
  },
  {
   "slug": "toh0283-kp0025-zh",
-  "path": "0-INBOX/texts/toh0283-kp0025-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0283-kp0025-zh.md",
+  "folder": "chinese",
   "sheet_row": 144,
   "work_id": "toh0283-kp0025",
   "lang_tag": "zh",
@@ -4713,7 +4840,8 @@
  },
  {
   "slug": "toh0283-kp0025-zh-with-footnote",
-  "path": "0-INBOX/texts/toh0283-kp0025-zh-with-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh0283-kp0025-zh-with-footnote.md",
+  "folder": "chinese",
   "sheet_row": 145,
   "work_id": "toh0283-kp0025",
   "lang_tag": "zh",
@@ -4728,7 +4856,8 @@
  },
  {
   "slug": "toh0283-kp0025-zh-hans",
-  "path": "0-INBOX/texts/toh0283-kp0025-zh-hans.md",
+  "path": "0-INBOX/texts/chinese/toh0283-kp0025-zh-hans.md",
+  "folder": "chinese",
   "sheet_row": 146,
   "work_id": "toh0283-kp0025",
   "lang_tag": "zh-hans",
@@ -4743,7 +4872,8 @@
  },
  {
   "slug": "toh0198-kp0016-bo",
-  "path": "0-INBOX/texts/toh0198-kp0016-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0198-kp0016-bo.md",
+  "folder": "tibetan",
   "sheet_row": 148,
   "work_id": "toh0198-kp0016",
   "lang_tag": "bo",
@@ -4757,7 +4887,8 @@
  },
  {
   "slug": "toh0198-kp0016-zh-without-footnote",
-  "path": "0-INBOX/texts/toh0198-kp0016-zh-without-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh0198-kp0016-zh-without-footnote.md",
+  "folder": "chinese",
   "sheet_row": 149,
   "work_id": "toh0198-kp0016",
   "lang_tag": "zh",
@@ -4771,7 +4902,8 @@
  },
  {
   "slug": "toh0198-kp0016-zh-with-footnote",
-  "path": "0-INBOX/texts/toh0198-kp0016-zh-with-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh0198-kp0016-zh-with-footnote.md",
+  "folder": "chinese",
   "sheet_row": 150,
   "work_id": "toh0198-kp0016",
   "lang_tag": "zh",
@@ -4785,7 +4917,8 @@
  },
  {
   "slug": "toh0158-kp0013-bo",
-  "path": "0-INBOX/texts/toh0158-kp0013-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0158-kp0013-bo.md",
+  "folder": "tibetan",
   "sheet_row": 152,
   "work_id": "toh0158-kp0013",
   "lang_tag": "bo",
@@ -4800,7 +4933,8 @@
  },
  {
   "slug": "toh0158-kp0013-zh-without-footnote",
-  "path": "0-INBOX/texts/toh0158-kp0013-zh-without-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh0158-kp0013-zh-without-footnote.md",
+  "folder": "chinese",
   "sheet_row": 153,
   "work_id": "toh0158-kp0013",
   "lang_tag": "zh",
@@ -4815,7 +4949,8 @@
  },
  {
   "slug": "toh0158-kp0013-zh-with-footnote",
-  "path": "0-INBOX/texts/toh0158-kp0013-zh-with-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh0158-kp0013-zh-with-footnote.md",
+  "folder": "chinese",
   "sheet_row": 154,
   "work_id": "toh0158-kp0013",
   "lang_tag": "zh",
@@ -4830,7 +4965,8 @@
  },
  {
   "slug": "toh0158-kp0013-zh-hans",
-  "path": "0-INBOX/texts/toh0158-kp0013-zh-hans.md",
+  "path": "0-INBOX/texts/chinese/toh0158-kp0013-zh-hans.md",
+  "folder": "chinese",
   "sheet_row": 155,
   "work_id": "toh0158-kp0013",
   "lang_tag": "zh-hans",
@@ -4845,7 +4981,8 @@
  },
  {
   "slug": "toh0225-kp0021-bo",
-  "path": "0-INBOX/texts/toh0225-kp0021-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0225-kp0021-bo.md",
+  "folder": "tibetan",
   "sheet_row": 157,
   "work_id": "toh0225-kp0021",
   "lang_tag": "bo",
@@ -4860,7 +4997,8 @@
  },
  {
   "slug": "toh0225-kp0021-zh-without-footnote",
-  "path": "0-INBOX/texts/toh0225-kp0021-zh-without-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh0225-kp0021-zh-without-footnote.md",
+  "folder": "chinese",
   "sheet_row": 158,
   "work_id": "toh0225-kp0021",
   "lang_tag": "zh",
@@ -4875,7 +5013,8 @@
  },
  {
   "slug": "toh0225-kp0021-zh-with-footnote",
-  "path": "0-INBOX/texts/toh0225-kp0021-zh-with-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh0225-kp0021-zh-with-footnote.md",
+  "folder": "chinese",
   "sheet_row": 159,
   "work_id": "toh0225-kp0021",
   "lang_tag": "zh",
@@ -4890,7 +5029,8 @@
  },
  {
   "slug": "toh0225-kp0021-zh-hans",
-  "path": "0-INBOX/texts/toh0225-kp0021-zh-hans.md",
+  "path": "0-INBOX/texts/chinese/toh0225-kp0021-zh-hans.md",
+  "folder": "chinese",
   "sheet_row": 160,
   "work_id": "toh0225-kp0021",
   "lang_tag": "zh-hans",
@@ -4905,7 +5045,8 @@
  },
  {
   "slug": "toh1164-kp0031-bo",
-  "path": "0-INBOX/texts/toh1164-kp0031-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh1164-kp0031-bo.md",
+  "folder": "tibetan",
   "sheet_row": 162,
   "work_id": "toh1164-kp0031",
   "lang_tag": "bo",
@@ -4919,7 +5060,8 @@
  },
  {
   "slug": "toh1164-kp0031-zh-without-footnote",
-  "path": "0-INBOX/texts/toh1164-kp0031-zh-without-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh1164-kp0031-zh-without-footnote.md",
+  "folder": "chinese",
   "sheet_row": 163,
   "work_id": "toh1164-kp0031",
   "lang_tag": "zh",
@@ -4933,7 +5075,8 @@
  },
  {
   "slug": "toh1164-kp0031-zh-with-footnote",
-  "path": "0-INBOX/texts/toh1164-kp0031-zh-with-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh1164-kp0031-zh-with-footnote.md",
+  "folder": "chinese",
   "sheet_row": 164,
   "work_id": "toh1164-kp0031",
   "lang_tag": "zh",
@@ -4947,7 +5090,8 @@
  },
  {
   "slug": "toh1123-bo",
-  "path": "0-INBOX/texts/toh1123-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh1123-bo.md",
+  "folder": "tibetan",
   "sheet_row": 166,
   "work_id": "toh1123",
   "lang_tag": "bo",
@@ -4960,7 +5104,8 @@
  },
  {
   "slug": "toh1123-zh-without-footnote",
-  "path": "0-INBOX/texts/toh1123-zh-without-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh1123-zh-without-footnote.md",
+  "folder": "chinese",
   "sheet_row": 167,
   "work_id": "toh1123",
   "lang_tag": "zh",
@@ -4973,7 +5118,8 @@
  },
  {
   "slug": "toh1124-bo",
-  "path": "0-INBOX/texts/toh1124-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh1124-bo.md",
+  "folder": "tibetan",
   "sheet_row": 169,
   "work_id": "toh1124",
   "lang_tag": "bo",
@@ -4987,7 +5133,8 @@
  },
  {
   "slug": "toh1124-zh-without-footnote",
-  "path": "0-INBOX/texts/toh1124-zh-without-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh1124-zh-without-footnote.md",
+  "folder": "chinese",
   "sheet_row": 170,
   "work_id": "toh1124",
   "lang_tag": "zh",
@@ -5001,7 +5148,8 @@
  },
  {
   "slug": "toh1124-zh-with-footnote",
-  "path": "0-INBOX/texts/toh1124-zh-with-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh1124-zh-with-footnote.md",
+  "folder": "chinese",
   "sheet_row": 171,
   "work_id": "toh1124",
   "lang_tag": "zh",
@@ -5015,7 +5163,8 @@
  },
  {
   "slug": "toh4045-kp0040-bo",
-  "path": "0-INBOX/texts/toh4045-kp0040-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh4045-kp0040-bo.md",
+  "folder": "tibetan",
   "sheet_row": 173,
   "work_id": "toh4045-kp0040",
   "lang_tag": "bo",
@@ -5029,7 +5178,8 @@
  },
  {
   "slug": "toh4045-kp0040-zh-without-footnote",
-  "path": "0-INBOX/texts/toh4045-kp0040-zh-without-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh4045-kp0040-zh-without-footnote.md",
+  "folder": "chinese",
   "sheet_row": 174,
   "work_id": "toh4045-kp0040",
   "lang_tag": "zh",
@@ -5043,7 +5193,8 @@
  },
  {
   "slug": "toh4045-kp0040-zh-with-footnote",
-  "path": "0-INBOX/texts/toh4045-kp0040-zh-with-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh4045-kp0040-zh-with-footnote.md",
+  "folder": "chinese",
   "sheet_row": 175,
   "work_id": "toh4045-kp0040",
   "lang_tag": "zh",
@@ -5057,7 +5208,8 @@
  },
  {
   "slug": "toh3877-kp0034-bo",
-  "path": "0-INBOX/texts/toh3877-kp0034-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh3877-kp0034-bo.md",
+  "folder": "tibetan",
   "sheet_row": 177,
   "work_id": "toh3877-kp0034",
   "lang_tag": "bo",
@@ -5073,7 +5225,8 @@
  },
  {
   "slug": "toh3877-kp0034-zh-without-footnote",
-  "path": "0-INBOX/texts/toh3877-kp0034-zh-without-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh3877-kp0034-zh-without-footnote.md",
+  "folder": "chinese",
   "sheet_row": 178,
   "work_id": "toh3877-kp0034",
   "lang_tag": "zh",
@@ -5089,7 +5242,8 @@
  },
  {
   "slug": "toh3877-kp0034-zh-with-footnote",
-  "path": "0-INBOX/texts/toh3877-kp0034-zh-with-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh3877-kp0034-zh-with-footnote.md",
+  "folder": "chinese",
   "sheet_row": 179,
   "work_id": "toh3877-kp0034",
   "lang_tag": "zh",
@@ -5105,7 +5259,8 @@
  },
  {
   "slug": "toh3822-kp0032-bo",
-  "path": "0-INBOX/texts/toh3822-kp0032-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh3822-kp0032-bo.md",
+  "folder": "tibetan",
   "sheet_row": 181,
   "work_id": "toh3822-kp0032",
   "lang_tag": "bo",
@@ -5119,7 +5274,8 @@
  },
  {
   "slug": "toh3822-kp0032-zh-without-footnote",
-  "path": "0-INBOX/texts/toh3822-kp0032-zh-without-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh3822-kp0032-zh-without-footnote.md",
+  "folder": "chinese",
   "sheet_row": 182,
   "work_id": "toh3822-kp0032",
   "lang_tag": "zh",
@@ -5133,7 +5289,8 @@
  },
  {
   "slug": "toh3822-kp0032-zh-with-footnote",
-  "path": "0-INBOX/texts/toh3822-kp0032-zh-with-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh3822-kp0032-zh-with-footnote.md",
+  "folder": "chinese",
   "sheet_row": 183,
   "work_id": "toh3822-kp0032",
   "lang_tag": "zh",
@@ -5147,7 +5304,8 @@
  },
  {
   "slug": "toh3877-kp0034-bo-2",
-  "path": "0-INBOX/texts/toh3877-kp0034-bo-2.md",
+  "path": "0-INBOX/texts/tibetan/toh3877-kp0034-bo-2.md",
+  "folder": "tibetan",
   "sheet_row": 185,
   "work_id": "toh3877-kp0034",
   "lang_tag": "bo",
@@ -5163,7 +5321,8 @@
  },
  {
   "slug": "toh3877-kp0034-zh",
-  "path": "0-INBOX/texts/toh3877-kp0034-zh.md",
+  "path": "0-INBOX/texts/chinese/toh3877-kp0034-zh.md",
+  "folder": "chinese",
   "sheet_row": 186,
   "work_id": "toh3877-kp0034",
   "lang_tag": "zh",
@@ -5179,7 +5338,8 @@
  },
  {
   "slug": "toh3877-kp0034-zh-hans",
-  "path": "0-INBOX/texts/toh3877-kp0034-zh-hans.md",
+  "path": "0-INBOX/texts/chinese/toh3877-kp0034-zh-hans.md",
+  "folder": "chinese",
   "sheet_row": 187,
   "work_id": "toh3877-kp0034",
   "lang_tag": "zh-hans",
@@ -5190,7 +5350,8 @@
  },
  {
   "slug": "toh4090-tai1558-bo",
-  "path": "0-INBOX/texts/toh4090-tai1558-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh4090-tai1558-bo.md",
+  "folder": "tibetan",
   "sheet_row": 189,
   "work_id": "toh4090-tai1558",
   "lang_tag": "bo",
@@ -5203,7 +5364,8 @@
  },
  {
   "slug": "toh4090-tai1558-zh",
-  "path": "0-INBOX/texts/toh4090-tai1558-zh.md",
+  "path": "0-INBOX/texts/chinese/toh4090-tai1558-zh.md",
+  "folder": "chinese",
   "sheet_row": 190,
   "work_id": "toh4090-tai1558",
   "lang_tag": "zh",
@@ -5216,7 +5378,8 @@
  },
  {
   "slug": "toh0026-bo",
-  "path": "0-INBOX/texts/toh0026-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0026-bo.md",
+  "folder": "tibetan",
   "sheet_row": 193,
   "work_id": "toh0026",
   "lang_tag": "bo",
@@ -5229,7 +5392,8 @@
  },
  {
   "slug": "toh0026-zh-without-footnote",
-  "path": "0-INBOX/texts/toh0026-zh-without-footnote.md",
+  "path": "0-INBOX/texts/chinese/toh0026-zh-without-footnote.md",
+  "folder": "chinese",
   "sheet_row": 194,
   "work_id": "toh0026",
   "lang_tag": "zh",
@@ -5242,7 +5406,8 @@
  },
  {
   "slug": "toh0027-bo",
-  "path": "0-INBOX/texts/toh0027-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0027-bo.md",
+  "folder": "tibetan",
   "sheet_row": 196,
   "work_id": "toh0027",
   "lang_tag": "bo",
@@ -5255,7 +5420,8 @@
  },
  {
   "slug": "toh0027-zh",
-  "path": "0-INBOX/texts/toh0027-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0027-zh.md",
+  "folder": "chinese",
   "sheet_row": 197,
   "work_id": "toh0027",
   "lang_tag": "zh",
@@ -5268,7 +5434,8 @@
  },
  {
   "slug": "toh0028-bo",
-  "path": "0-INBOX/texts/toh0028-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0028-bo.md",
+  "folder": "tibetan",
   "sheet_row": 199,
   "work_id": "toh0028",
   "lang_tag": "bo",
@@ -5281,7 +5448,8 @@
  },
  {
   "slug": "toh0028-zh",
-  "path": "0-INBOX/texts/toh0028-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0028-zh.md",
+  "folder": "chinese",
   "sheet_row": 200,
   "work_id": "toh0028",
   "lang_tag": "zh",
@@ -5294,7 +5462,8 @@
  },
  {
   "slug": "toh0029-bo",
-  "path": "0-INBOX/texts/toh0029-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0029-bo.md",
+  "folder": "tibetan",
   "sheet_row": 202,
   "work_id": "toh0029",
   "lang_tag": "bo",
@@ -5307,7 +5476,8 @@
  },
  {
   "slug": "toh0029-zh",
-  "path": "0-INBOX/texts/toh0029-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0029-zh.md",
+  "folder": "chinese",
   "sheet_row": 203,
   "work_id": "toh0029",
   "lang_tag": "zh",
@@ -5320,7 +5490,8 @@
  },
  {
   "slug": "toh0030-bo",
-  "path": "0-INBOX/texts/toh0030-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0030-bo.md",
+  "folder": "tibetan",
   "sheet_row": 205,
   "work_id": "toh0030",
   "lang_tag": "bo",
@@ -5333,7 +5504,8 @@
  },
  {
   "slug": "toh0030-zh",
-  "path": "0-INBOX/texts/toh0030-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0030-zh.md",
+  "folder": "chinese",
   "sheet_row": 206,
   "work_id": "toh0030",
   "lang_tag": "zh",
@@ -5346,7 +5518,8 @@
  },
  {
   "slug": "toh0037-bo",
-  "path": "0-INBOX/texts/toh0037-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0037-bo.md",
+  "folder": "tibetan",
   "sheet_row": 208,
   "work_id": "toh0037",
   "lang_tag": "bo",
@@ -5359,7 +5532,8 @@
  },
  {
   "slug": "toh0037-zh",
-  "path": "0-INBOX/texts/toh0037-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0037-zh.md",
+  "folder": "chinese",
   "sheet_row": 209,
   "work_id": "toh0037",
   "lang_tag": "zh",
@@ -5372,7 +5546,8 @@
  },
  {
   "slug": "toh0040-bo",
-  "path": "0-INBOX/texts/toh0040-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0040-bo.md",
+  "folder": "tibetan",
   "sheet_row": 211,
   "work_id": "toh0040",
   "lang_tag": "bo",
@@ -5385,7 +5560,8 @@
  },
  {
   "slug": "toh0040-zh",
-  "path": "0-INBOX/texts/toh0040-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0040-zh.md",
+  "folder": "chinese",
   "sheet_row": 212,
   "work_id": "toh0040",
   "lang_tag": "zh",
@@ -5398,7 +5574,8 @@
  },
  {
   "slug": "toh0137-bo",
-  "path": "0-INBOX/texts/toh0137-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0137-bo.md",
+  "folder": "tibetan",
   "sheet_row": 214,
   "work_id": "toh0137",
   "lang_tag": "bo",
@@ -5411,7 +5588,8 @@
  },
  {
   "slug": "toh0137-zh",
-  "path": "0-INBOX/texts/toh0137-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0137-zh.md",
+  "folder": "chinese",
   "sheet_row": 215,
   "work_id": "toh0137",
   "lang_tag": "zh",
@@ -5424,7 +5602,8 @@
  },
  {
   "slug": "toh0150-bo",
-  "path": "0-INBOX/texts/toh0150-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0150-bo.md",
+  "folder": "tibetan",
   "sheet_row": 217,
   "work_id": "toh0150",
   "lang_tag": "bo",
@@ -5437,7 +5616,8 @@
  },
  {
   "slug": "toh0150-zh",
-  "path": "0-INBOX/texts/toh0150-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0150-zh.md",
+  "folder": "chinese",
   "sheet_row": 218,
   "work_id": "toh0150",
   "lang_tag": "zh",
@@ -5450,7 +5630,8 @@
  },
  {
   "slug": "toh0212-bo",
-  "path": "0-INBOX/texts/toh0212-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0212-bo.md",
+  "folder": "tibetan",
   "sheet_row": 220,
   "work_id": "toh0212",
   "lang_tag": "bo",
@@ -5463,7 +5644,8 @@
  },
  {
   "slug": "toh0212-zh",
-  "path": "0-INBOX/texts/toh0212-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0212-zh.md",
+  "folder": "chinese",
   "sheet_row": 221,
   "work_id": "toh0212",
   "lang_tag": "zh",
@@ -5476,7 +5658,8 @@
  },
  {
   "slug": "toh0224-bo",
-  "path": "0-INBOX/texts/toh0224-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0224-bo.md",
+  "folder": "tibetan",
   "sheet_row": 223,
   "work_id": "toh0224",
   "lang_tag": "bo",
@@ -5489,7 +5672,8 @@
  },
  {
   "slug": "toh0224-zh",
-  "path": "0-INBOX/texts/toh0224-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0224-zh.md",
+  "folder": "chinese",
   "sheet_row": 224,
   "work_id": "toh0224",
   "lang_tag": "zh",
@@ -5502,7 +5686,8 @@
  },
  {
   "slug": "toh0249-bo",
-  "path": "0-INBOX/texts/toh0249-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0249-bo.md",
+  "folder": "tibetan",
   "sheet_row": 226,
   "work_id": "toh0249",
   "lang_tag": "bo",
@@ -5515,7 +5700,8 @@
  },
  {
   "slug": "toh0249-zh",
-  "path": "0-INBOX/texts/toh0249-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0249-zh.md",
+  "folder": "chinese",
   "sheet_row": 227,
   "work_id": "toh0249",
   "lang_tag": "zh",
@@ -5528,7 +5714,8 @@
  },
  {
   "slug": "toh0282-bo",
-  "path": "0-INBOX/texts/toh0282-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0282-bo.md",
+  "folder": "tibetan",
   "sheet_row": 229,
   "work_id": "toh0282",
   "lang_tag": "bo",
@@ -5541,7 +5728,8 @@
  },
  {
   "slug": "toh0282-zh",
-  "path": "0-INBOX/texts/toh0282-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0282-zh.md",
+  "folder": "chinese",
   "sheet_row": 230,
   "work_id": "toh0282",
   "lang_tag": "zh",
@@ -5554,7 +5742,8 @@
  },
  {
   "slug": "toh0312-bo",
-  "path": "0-INBOX/texts/toh0312-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0312-bo.md",
+  "folder": "tibetan",
   "sheet_row": 232,
   "work_id": "toh0312",
   "lang_tag": "bo",
@@ -5567,7 +5756,8 @@
  },
  {
   "slug": "toh0312-zh",
-  "path": "0-INBOX/texts/toh0312-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0312-zh.md",
+  "folder": "chinese",
   "sheet_row": 233,
   "work_id": "toh0312",
   "lang_tag": "zh",
@@ -5580,7 +5770,8 @@
  },
  {
   "slug": "toh0328-bo",
-  "path": "0-INBOX/texts/toh0328-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0328-bo.md",
+  "folder": "tibetan",
   "sheet_row": 235,
   "work_id": "toh0328",
   "lang_tag": "bo",
@@ -5593,7 +5784,8 @@
  },
  {
   "slug": "toh0328-zh",
-  "path": "0-INBOX/texts/toh0328-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0328-zh.md",
+  "folder": "chinese",
   "sheet_row": 236,
   "work_id": "toh0328",
   "lang_tag": "zh",
@@ -5606,7 +5798,8 @@
  },
  {
   "slug": "toh0346-bo",
-  "path": "0-INBOX/texts/toh0346-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0346-bo.md",
+  "folder": "tibetan",
   "sheet_row": 238,
   "work_id": "toh0346",
   "lang_tag": "bo",
@@ -5619,7 +5812,8 @@
  },
  {
   "slug": "toh0346-zh",
-  "path": "0-INBOX/texts/toh0346-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0346-zh.md",
+  "folder": "chinese",
   "sheet_row": 239,
   "work_id": "toh0346",
   "lang_tag": "zh",
@@ -5632,7 +5826,8 @@
  },
  {
   "slug": "toh0021-bo",
-  "path": "0-INBOX/texts/toh0021-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0021-bo.md",
+  "folder": "tibetan",
   "sheet_row": 242,
   "work_id": "toh0021",
   "lang_tag": "bo",
@@ -5646,7 +5841,8 @@
  },
  {
   "slug": "toh0021-zh-hant",
-  "path": "0-INBOX/texts/toh0021-zh-hant.md",
+  "path": "0-INBOX/texts/chinese/toh0021-zh-hant.md",
+  "folder": "chinese",
   "sheet_row": 243,
   "work_id": "toh0021",
   "lang_tag": "zh-hant",
@@ -5660,7 +5856,8 @@
  },
  {
   "slug": "toh0021-zh-modern",
-  "path": "0-INBOX/texts/toh0021-zh-modern.md",
+  "path": "0-INBOX/texts/chinese/toh0021-zh-modern.md",
+  "folder": "chinese",
   "sheet_row": 244,
   "work_id": "toh0021",
   "lang_tag": "zh-modern",
@@ -5674,7 +5871,8 @@
  },
  {
   "slug": "toh0115-bo",
-  "path": "0-INBOX/texts/toh0115-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh0115-bo.md",
+  "folder": "tibetan",
   "sheet_row": 245,
   "work_id": "toh0115",
   "lang_tag": "bo",
@@ -5687,7 +5885,8 @@
  },
  {
   "slug": "toh0115-zh-modern",
-  "path": "0-INBOX/texts/toh0115-zh-modern.md",
+  "path": "0-INBOX/texts/chinese/toh0115-zh-modern.md",
+  "folder": "chinese",
   "sheet_row": 246,
   "work_id": "toh0115",
   "lang_tag": "zh-modern",
@@ -5700,7 +5899,8 @@
  },
  {
   "slug": "toh0115-zh",
-  "path": "0-INBOX/texts/toh0115-zh.md",
+  "path": "0-INBOX/texts/chinese/toh0115-zh.md",
+  "folder": "chinese",
   "sheet_row": 247,
   "work_id": "toh0115",
   "lang_tag": "zh",
@@ -5711,7 +5911,8 @@
  },
  {
   "slug": "toh0115-bo-2",
-  "path": "0-INBOX/texts/toh0115-bo-2.md",
+  "path": "0-INBOX/texts/tibetan/toh0115-bo-2.md",
+  "folder": "tibetan",
   "sheet_row": 248,
   "work_id": "toh0115",
   "lang_tag": "bo",
@@ -5722,7 +5923,8 @@
  },
  {
   "slug": "toh0115-zh-modern-2",
-  "path": "0-INBOX/texts/toh0115-zh-modern-2.md",
+  "path": "0-INBOX/texts/chinese/toh0115-zh-modern-2.md",
+  "folder": "chinese",
   "sheet_row": 249,
   "work_id": "toh0115",
   "lang_tag": "zh-modern",
@@ -5733,7 +5935,8 @@
  },
  {
   "slug": "toh0115-bo-3",
-  "path": "0-INBOX/texts/toh0115-bo-3.md",
+  "path": "0-INBOX/texts/tibetan/toh0115-bo-3.md",
+  "folder": "tibetan",
   "sheet_row": 250,
   "work_id": "toh0115",
   "lang_tag": "bo",
@@ -5744,7 +5947,8 @@
  },
  {
   "slug": "toh0115-zh-modern-3",
-  "path": "0-INBOX/texts/toh0115-zh-modern-3.md",
+  "path": "0-INBOX/texts/chinese/toh0115-zh-modern-3.md",
+  "folder": "chinese",
   "sheet_row": 251,
   "work_id": "toh0115",
   "lang_tag": "zh-modern",
@@ -5755,7 +5959,8 @@
  },
  {
   "slug": "toh0115-bo-4",
-  "path": "0-INBOX/texts/toh0115-bo-4.md",
+  "path": "0-INBOX/texts/tibetan/toh0115-bo-4.md",
+  "folder": "tibetan",
   "sheet_row": 252,
   "work_id": "toh0115",
   "lang_tag": "bo",
@@ -5766,7 +5971,8 @@
  },
  {
   "slug": "toh0115-zh-modern-4",
-  "path": "0-INBOX/texts/toh0115-zh-modern-4.md",
+  "path": "0-INBOX/texts/chinese/toh0115-zh-modern-4.md",
+  "folder": "chinese",
   "sheet_row": 253,
   "work_id": "toh0115",
   "lang_tag": "zh-modern",
@@ -5777,7 +5983,8 @@
  },
  {
   "slug": "toh16-bo",
-  "path": "0-INBOX/texts/toh16-bo.md",
+  "path": "0-INBOX/texts/tibetan/toh16-bo.md",
+  "folder": "tibetan",
   "sheet_row": 254,
   "work_id": "toh16",
   "lang_tag": "bo",
@@ -5791,7 +5998,8 @@
  },
  {
   "slug": "toh16-zh-hant",
-  "path": "0-INBOX/texts/toh16-zh-hant.md",
+  "path": "0-INBOX/texts/chinese/toh16-zh-hant.md",
+  "folder": "chinese",
   "sheet_row": 255,
   "work_id": "toh16",
   "lang_tag": "zh-hant",
@@ -5805,7 +6013,8 @@
  },
  {
   "slug": "toh16-zh-modern",
-  "path": "0-INBOX/texts/toh16-zh-modern.md",
+  "path": "0-INBOX/texts/chinese/toh16-zh-modern.md",
+  "folder": "chinese",
   "sheet_row": 256,
   "work_id": "toh16",
   "lang_tag": "zh-modern",
@@ -5819,7 +6028,8 @@
  },
  {
   "slug": "toh0215_kp0019_-_zh_without-footnot",
-  "path": "0-INBOX/texts/toh0215_kp0019_-_zh_without-footnot.md",
+  "path": "0-INBOX/texts/unsorted/toh0215_kp0019_-_zh_without-footnot.md",
+  "folder": "unsorted",
   "sheet_row": null,
   "work_id": "",
   "lang_tag": "",
@@ -5829,7 +6039,8 @@
  },
  {
   "slug": "toh0283_kp0025_-_zh_without-footnote",
-  "path": "0-INBOX/texts/toh0283_kp0025_-_zh_without-footnote.md",
+  "path": "0-INBOX/texts/unsorted/toh0283_kp0025_-_zh_without-footnote.md",
+  "folder": "unsorted",
   "sheet_row": null,
   "work_id": "",
   "lang_tag": "",

@@ -22,6 +22,7 @@ import glob
 import json
 import os
 import re
+import shutil
 import subprocess
 import sys
 import time
@@ -730,12 +731,17 @@ def _resolve(basename, records, by_title):
     return [], "unmatched"
 
 
-def stage_import_local(source, records_path, cachedir, since=""):
+def stage_import_local(source, records_path, cachedir, since="", archive=True):
     """Import .docx files downloaded by hand into the document cache.
 
     Text is extracted and written to `<cachedir>/by-slug/<slug>.txt`, which
     `build` reads exactly like a downloaded document — so a hand-collected
     corpus and an API-fetched one produce identical output.
+
+    The originals are also copied into `<cachedir>/original/` so the vault
+    holds the raw material the markdown was derived from, not just the
+    derivation. A browser's ` (1)` re-download is archived once, since those
+    copies are verified text-identical before being collapsed.
     """
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     from docx_to_markdown import docx_to_markdown
@@ -777,6 +783,21 @@ def stage_import_local(source, records_path, cachedir, since=""):
             texts[base] = max(variants, key=len)
         else:
             texts[base] = next(iter(variants))
+
+    if archive:
+        archive_dir = os.path.join(cachedir, "original")
+        os.makedirs(archive_dir, exist_ok=True)
+        copied = 0
+        for base, members in groups.items():
+            if base not in texts:
+                continue
+            src = min(members, key=os.path.getsize)
+            dst = os.path.join(archive_dir, os.path.basename(src))
+            dst = re.sub(r"\s*\(\d+\)(\.docx)$", r"\1", dst)
+            if not os.path.exists(dst) or os.path.getsize(dst) != os.path.getsize(src):
+                shutil.copy2(src, dst)
+                copied += 1
+        log("import-local: archived %d original .docx -> %s" % (copied, archive_dir))
 
     outdir = os.path.join(cachedir, "by-slug")
     os.makedirs(outdir, exist_ok=True)
@@ -1004,6 +1025,16 @@ def build_body(rec, text, body_status):
     return "\n".join(out)
 
 
+LANG_FOLDER = {"bo": "tibetan"}          # everything zh* goes to "chinese"
+
+
+def language_folder(lang_tag):
+    """Inbox subfolder for a record. Proofreaders work one language at a time."""
+    if not lang_tag:
+        return "unsorted"
+    return LANG_FOLDER.get(lang_tag, "chinese" if lang_tag.startswith("zh") else "unsorted")
+
+
 def stage_build(records_path, cachedir, inboxdir, retrieved=None):
     records = json.load(open(records_path, encoding="utf-8"))
     os.makedirs(inboxdir, exist_ok=True)
@@ -1066,12 +1097,15 @@ def stage_build(records_path, cachedir, inboxdir, retrieved=None):
                 body_status = "not-fetched"
         counts[body_status] = counts.get(body_status, 0) + 1
 
-        path = os.path.join(inboxdir, rec["slug"] + ".md")
+        folder = language_folder(rec["lang_tag"])
+        os.makedirs(os.path.join(inboxdir, folder), exist_ok=True)
+        path = os.path.join(inboxdir, folder, rec["slug"] + ".md")
         content = (build_frontmatter(rec, body_status, retrieved, seginfo[rec["slug"]])
                    + "\n" + build_body(rec, text, body_status))
         with open(path, "w", encoding="utf-8") as fh:
             fh.write(content)
-        manifest.append({"slug": rec["slug"], "path": path, "sheet_row": rec["sheet_row"],
+        manifest.append({"slug": rec["slug"], "path": path, "folder": folder,
+                         "sheet_row": rec["sheet_row"],
                          "work_id": rec["work_id"], "lang_tag": rec["lang_tag"],
                          "ingest_status": body_status, "aligned_with": rec["aligned_with"],
                          "segment_count": seginfo[rec["slug"]]["count"],
@@ -1118,10 +1152,12 @@ def stage_build(records_path, cachedir, inboxdir, retrieved=None):
                 "out of the inbox.]", "",
                 "## Text", "", text.rstrip(), "",
             ])
-            path = os.path.join(inboxdir, o["slug"] + ".md")
+            os.makedirs(os.path.join(inboxdir, "unsorted"), exist_ok=True)
+            path = os.path.join(inboxdir, "unsorted", o["slug"] + ".md")
             with open(path, "w", encoding="utf-8") as fh:
                 fh.write(fm + "\n" + body)
-            manifest.append({"slug": o["slug"], "path": path, "sheet_row": None,
+            manifest.append({"slug": o["slug"], "path": path, "folder": "unsorted",
+                             "sheet_row": None,
                              "work_id": "", "lang_tag": "",
                              "ingest_status": "with-body", "aligned_with": [],
                              "sheet_row_missing": True})
@@ -1155,6 +1191,8 @@ def main(argv=None):
                    help="import-local: directory holding hand-downloaded .docx files")
     p.add_argument("--since", default="",
                    help='import-local: only files modified at/after this "YYYY-MM-DD HH:MM"')
+    p.add_argument("--no-archive", action="store_true",
+                   help="import-local: do not copy the source .docx into the vault")
     args = p.parse_args(argv)
 
     workdir = args.workdir
@@ -1169,7 +1207,8 @@ def main(argv=None):
     if args.stage in ("fetch-docs", "all"):
         stage_fetch_docs(records, cachedir, args.delay, only_missing=not args.refetch)
     if args.stage == "import-local":
-        stage_import_local(args.source, records, cachedir, args.since)
+        stage_import_local(args.source, records, cachedir, args.since,
+                           archive=not args.no_archive)
     if args.stage in ("build", "all"):
         stage_build(records, cachedir, args.inbox)
     return 0
