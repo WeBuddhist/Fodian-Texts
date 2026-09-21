@@ -199,6 +199,10 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "1-SOURCES/INVENTORY.md",
     "1-SOURCES/Commentaries/zh-hant-toh4054-commentary-on-the-compendium-of-abhidharma.md",
     "1-SOURCES/Commentaries/bo-toh4054-commentary-on-the-compendium-of-abhidharma.md",
@@ -226,14 +230,10 @@
     "1-SOURCES/Translations/zh-hant-toh16-the-sutra-of-the-great-vehicle-called-the-diamond-cutter.md",
     "1-SOURCES/Translations/zh-hant-toh1164-praise-to-the-five-tathgatas.md",
     "1-SOURCES/Translations/zh-hant-toh1124-commentary-on-the-praise-of-the-three-bodies.md",
-    "1-SOURCES/Translations/zh-hant-toh1123-homage-to-the-three-kayas.md",
     "0-INBOX/raw-data/pecha-sheet/sources-write-report.json",
     "0-INBOX/raw-data/pecha-sheet/sources-plan.json",
     "4-SYSTEM/Skills/inbox-to-sources/inbox_to_sources.py",
     "4-SYSTEM/Skills/inbox-to-sources",
-    "0-INBOX/raw-data/pecha-sheet/pecha-upload.csv",
-    "0-INBOX/texts/aligned",
-    "0-INBOX/texts/_manifest.json",
-    "0-INBOX/texts/unsorted"
+    "0-INBOX/raw-data/pecha-sheet/pecha-upload.csv"
   ]
 }
