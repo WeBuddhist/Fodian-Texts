@@ -8,6 +8,7 @@ language: Classical Chinese
 script: Traditional Chinese
 chinese_register: literary
 file_type: translation
+work_type: treatise
 lang_tag: zh-hant
 edition_class: classical
 footnotes: false
@@ -32,6 +33,8 @@ status: draft
 
 # 三身讚
 
+> [Ed: 1 segment(s) have no counterpart in the Tibetan and carry no transclusion: 1-3. The two witnesses disagree on segmentation — resolve before relying on the alignment.]
+
 ## 三身讚 ^1-0
 
 ![[1-SOURCES/Text/bo-toh1123-homage-to-the-three-kayas.md#^1-1]]
@@ -41,8 +44,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh1123-homage-to-the-three-kayas.md#^1-2]]
 
 藏譯：sku gsum la bstod pa zhes bya ba/ ^1-2
-
-![[1-SOURCES/Text/bo-toh1123-homage-to-the-three-kayas.md#^1-3]]
 
 敬禮聖文殊師利童子。 ^1-3
 

@@ -6,10 +6,12 @@ author: མགོན་པོ་ཀླུ་སྒྲུབ།
 author_in_english: Shraddhākaravarma and Rinchen Zangpo
 language: Tibetan
 script: Unicode Tibetan
-file_type: root-text
+file_type: commentary
+work_type: commentary
+work_type_evidence: "English title: 'Commentary on the Praise of the Three Bodies'"
 lang_tag: bo
 chapters: 1
-total_verses: 257
+total_verses: 254
 verse_id_format: chapter-verse
 toh: toh1124
 taisho: ""
@@ -27,6 +29,8 @@ sheet_rows: [169]
 parts: [toh1124]
 promoted_from: [toh1124-bo]
 promoted: 2026-09-21
+commentary_on: toh1123
+commentary_on_note: ""
 status: draft
 ---
 
@@ -39,8 +43,6 @@ status: draft
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། ཀཱ་ཡ་ཏྲ་ཡ་སྟོ་ཏྲ་ནཱ་མ་སྱ་བི་བ་ར་ནཱ་མ། ^1-1
 
 བོད་སྐད་དུ། སྐུ་གསུམ་ལ་བསྟོད་པ་ཞེས་བྱ་བའི་རྣམ་པར་འགྲེལ་པ། ^1-2
-
- ^1-3
 
 འཕགས་པ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། ། ^1-4
 
@@ -438,8 +440,6 @@ status: draft
 
 སླར་ཡང་དགའ་ལྡན་གྱི་གནས་མཆོག་ཏུ་བཞུགས་པའི་དམ་པ་ཏོག་དཀར་པོ་དང་གཅིག་ཏུ་གྱུར་ནས་ ^1-201
 
- ^1-202
-
 ལྷུམས་སུ་འཇུག་པ་དང་། ^1-203
 
 བལྟམས་པ་དང་། ^1-204
@@ -547,5 +547,3 @@ status: draft
 རྒྱ་གར་གྱི་མཁན་པོ་ཤྲདྡྷཱ་ཀ་ར་ཝརྨ་དང་། ^1-255
 
 བོད་ཀྱི་ལོ་ཙཱ་བ་བནྡེ་རིན་ཆེན་བཟང་པོས་གསར་དུ་བསྒྱུར་ཅིང་ཞུས་པ་ལགས་སོ།། ^1-256
-
- ^1-257

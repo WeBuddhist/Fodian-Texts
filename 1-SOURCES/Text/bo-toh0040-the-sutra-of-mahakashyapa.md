@@ -8,9 +8,11 @@ author_in_english: Buddha Bhagavan
 language: Tibetan
 script: Unicode Tibetan
 file_type: root-text
+work_type: root-text
+work_type_evidence: author is the Buddha (buddhavacana)
 lang_tag: bo
 chapters: 1
-total_verses: 45
+total_verses: 44
 verse_id_format: chapter-verse
 toh: toh0040
 taisho: ""
@@ -72,8 +74,6 @@ status: draft
 ཞི་བའམ་མི ་ཞི་བར་འགྱུར། ^1-17
 
 ཞི་བར་བྱེད་པའི་ཐབས་མཛད་དུ་གསོལ། ^1-18
-
- ^1-19
 
 བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན་པོ་འདི་ངས་ལེགས་པར་བཤད་པར་བྱའོ། ། ^1-20
 

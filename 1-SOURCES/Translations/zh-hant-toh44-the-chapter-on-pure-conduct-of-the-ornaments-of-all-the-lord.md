@@ -8,11 +8,12 @@ language: Classical Chinese
 script: Traditional Chinese
 chinese_register: literary
 file_type: translation
+work_type: root-text
 lang_tag: zh-hant
 edition_class: classical
 footnotes: false
 chapters: 2
-total_verses: 467
+total_verses: 446
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md
 covers_verses: 1-1–2-235
@@ -31,6 +32,8 @@ status: draft
 ---
 
 # 《大方廣佛華嚴經》〈淨行品〉(佛馱跋陀羅譯)
+
+> [Ed: 7 segment(s) have no counterpart in the Tibetan and carry no transclusion: 1-56, 1-71, 1-159, 1-172, 1-179, 2-71, 2-172. The two witnesses disagree on segmentation — resolve before relying on the alignment.]
 
 ## 《大方廣佛華嚴經》〈淨行品〉(佛馱跋陀羅譯) — 1/2 ^1-0
 
@@ -230,8 +233,6 @@ status: draft
 
 ==過去、未來、現在業報智力，== ^1-52
 
-![[1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md#^1-56]]
-
 ==種種諸根智力，種種性智力，種種欲智力，== ^1-56
 
 ![[1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md#^1-57]]
@@ -285,8 +286,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md#^1-70]]
 
 ==爾時，文殊師利答智首菩薩曰：== ^1-70
-
-![[1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md#^1-71]]
 
 ==「善哉！善哉！== ^1-71
 
@@ -630,8 +629,6 @@ status: draft
 
 ==若見泉水，當願眾生，善根無盡，境界無上。== ^1-158
 
-![[1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md#^1-159]]
-
 ==見山㵎水，當願眾生，洗濯塵垢，意解清淨。== ^1-159
 
 ![[1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md#^1-160]]
@@ -678,8 +675,6 @@ status: draft
 
 ==見強健人，當願眾生，得金剛身，無有衰耄。== ^1-171
 
-![[1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md#^1-172]]
-
 ==見疾病人，當願眾生，知身空寂，解脫眾苦。== ^1-172
 
 ![[1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md#^1-173]]
@@ -705,8 +700,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md#^1-178]]
 
 ==見婆羅門，當願眾生，得真清淨，離一切惡。== ^1-178
-
-![[1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md#^1-179]]
 
 ==若見仙人，當願眾生，向正真道，究竟解脫。== ^1-179
 
@@ -1188,8 +1181,6 @@ status: draft
 
 ==爾時，文殊師利菩薩告智首菩薩言：== ^2-70
 
-![[1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md#^2-71]]
-
 ==「善哉！== ^2-71
 
 ![[1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md#^2-72]]
@@ -1583,8 +1574,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md#^2-171]]
 
 ==見無病人，當願眾生：  入真實慧，永無病惱。== ^2-171
-
-![[1-SOURCES/Text/bo-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md#^2-172]]
 
 ==見疾病人，當願眾生：  知身空寂，離乖諍法。== ^2-172
 

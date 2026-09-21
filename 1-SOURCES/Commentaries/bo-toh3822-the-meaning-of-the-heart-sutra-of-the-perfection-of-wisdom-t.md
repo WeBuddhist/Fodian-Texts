@@ -6,10 +6,12 @@ author: པཎྜི་ཏ་ཤྲཱི་མ་ཧཱ་ཛ་ན།
 author_in_english: Venerable Scholar Śrī Mahājana
 language: Tibetan
 script: Unicode Tibetan
-file_type: root-text
+file_type: commentary
+work_type: commentary
+work_type_evidence: "English title: 'The meaning of the Heart Sutra of the Perfection of Wisdom t'"
 lang_tag: bo
 chapters: 1
-total_verses: 382
+total_verses: 378
 verse_id_format: chapter-verse
 toh: toh3822
 taisho: ""
@@ -27,6 +29,8 @@ sheet_rows: [181]
 parts: [toh3822-kp0032]
 promoted_from: [toh3822-kp0032-bo]
 promoted: 2026-09-21
+commentary_on: ""
+commentary_on_note: root text not identified automatically — the title match was not exact; confirm by hand
 status: draft
 ---
 
@@ -38,15 +42,9 @@ status: draft
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། པྲཛྙཱ་པཱ་ར་མི་ཏཱ་ཧྲྀ་ད་ཡཱ་རྠ་པ་རི་ཛྙཱ་ན། ^1-1
 
- ^1-2
-
 བོད་སྐད་དུ། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོའི་དོན་ཡོངས་སུ་ཤེས་པ། ^1-3
 
- ^1-4
-
 འཕགས་པ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། ། ^1-5
-
- ^1-6
 
 གཞན་གྱི་བཤད་ལ་མ་ལྟོས་པ། ། ^1-7
 
@@ -797,5 +795,3 @@ status: draft
 ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ་ཡོངས་སུ་ཤེས་པ་པཎྜི་ཏ་ཤྲཱི་མ་ཧཱ་ཛ་ནས་མཛད་པ་རྫོགས་སོ།། །། ^1-380
 
 རྒྱ་གར་གྱི་མཁན་པོ་དེ་ཉིད་དང་། སྒྲ་བསྒྱུར་གྱི་ལོ་ཙཱ་བ་དགེ་སློང་སེང་གེ་རྒྱལ་མཚན་གྱིས་ཞུས་ཏེ་གཏན་ལ་ཕབ་པའོ།། ^1-381
-
- ^1-382

@@ -8,11 +8,12 @@ language: Classical Chinese
 script: Traditional Chinese
 chinese_register: literary
 file_type: translation
+work_type: root-text
 lang_tag: zh-hant
 edition_class: classical
 footnotes: false
 chapters: 1
-total_verses: 557
+total_verses: 523
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md
 covers_verses: 1-1–1-557
@@ -31,6 +32,8 @@ status: draft
 ---
 
 # 《大寶積經》第二會 無邊莊嚴會
+
+> [Ed: 51 segment(s) have no counterpart in the Tibetan and carry no transclusion: 1-8, 1-15, 1-16, 1-38, 1-50, 1-141, 1-144, 1-145 …. The two witnesses disagree on segmentation — resolve before relying on the alignment.]
 
 ## 《大寶積經》第二會 無邊莊嚴會 ^1-0
 
@@ -62,8 +65,6 @@ status: draft
 
 ==何以故？== ^1-7
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-8]]
-
 ==無出離界及界施設。== ^1-8
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-9]]
@@ -90,11 +91,7 @@ status: draft
 
 ==此不可說亦是如來假施設句。== ^1-14
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-15]]
-
 ==有諸眾生於甚深法不勤修行而生疑惑，== ^1-15
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-16]]
 
 ==若有說言如來有色，滅度之後應有如來；== ^1-16
 
@@ -174,8 +171,6 @@ status: draft
 
 ==無邊莊嚴！== ^1-37
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-38]]
-
 ==汝等智者應如是知，一切諸法真實之相，不來不去、== ^1-38
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-39]]
@@ -217,8 +212,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-49]]
 
 ==何以故？== ^1-49
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-50]]
 
 ==無增無減故、無邊無取故。== ^1-50
 
@@ -562,8 +555,6 @@ status: draft
 
 ==不應於中而起執著。== ^1-140
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-141]]
-
 ==若不執著即不墮邊，== ^1-141
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-142]]
@@ -574,11 +565,7 @@ status: draft
 
 ==若墮於邊則墮於中，== ^1-143
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-144]]
-
 ==是故應當離於中邊。== ^1-144
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-145]]
 
 ==若離中邊即離一切，== ^1-145
 
@@ -626,8 +613,6 @@ status: draft
 
 ==「無邊莊嚴！== ^1-157
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-158]]
-
 ==如來以種種名、以種種門、種種語言演說諸法，== ^1-158
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-159]]
@@ -658,15 +643,11 @@ status: draft
 
 ==及令趣入如是平等，== ^1-166
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-167]]
-
 ==以貪瞋癡能調伏者亦不可得，若不可得即是調伏。== ^1-167
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-168]]
 
 ==無====邊莊嚴！== ^1-168
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-169]]
 
 ==或貪瞋癡，如理推求亦不可得，== ^1-169
 
@@ -706,11 +687,7 @@ status: draft
 
 ==從彼所生、由彼所生，一切皆悉虛妄不實。== ^1-178
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-179]]
-
 ==是貪瞋癡本性清淨，== ^1-179
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-180]]
 
 ==如是見者，能生清淨不思議門，== ^1-180
 
@@ -722,8 +699,6 @@ status: draft
 
 ==若有能於如是法中思惟觀察，== ^1-182
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-183]]
-
 =={是名平等了知之智}== ^1-183
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-184]]
@@ -733,8 +708,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-185]]
 
 ==是名平等了知之智，== ^1-185
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-186]]
 
 ==是名清淨菩提資糧，== ^1-186
 
@@ -773,8 +746,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-196]]
 
 ==汝今當觀，於此信解出離法中，== ^1-196
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-197]]
 
 ==開示演說一切諸法本性自相，== ^1-197
 
@@ -910,11 +881,7 @@ status: draft
 
 ==大寶積經卷第五_第二無邊莊嚴會出離陀羅尼品第二== ^1-230
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-231]]
-
 ==爾時無邊莊嚴菩薩摩訶薩白佛言世尊：== ^1-231
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-232]]
 
 ==「云何名為出離諸法陀羅尼門？」== ^1-232
 
@@ -929,8 +896,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-235]]
 
 ==以平等故。== ^1-235
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-236]]
 
 ==一切諸法皆入平等，== ^1-236
 
@@ -958,11 +923,7 @@ status: draft
 
 ==於諸法中所有言說皆非如實，此是諸法如實句義。== ^1-242
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-243]]
-
 ==所有文字及以語業此二皆無，== ^1-243
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-244]]
 
 ==以無有故，無有真實開示演說。== ^1-244
 
@@ -1005,8 +966,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-254]]
 
 ==何以故？== ^1-254
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-255]]
 
 ==法無住故不入算數，非由算數建立言教而能令法入於算數。== ^1-255
 
@@ -1062,8 +1021,6 @@ status: draft
 
 ==如是厭離。云何厭離？謂貪本性。== ^1-268
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-269]]
-
 ==貪本性者彼則清淨，== ^1-269
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-270]]
@@ -1078,11 +1035,7 @@ status: draft
 
 ==云何有說？== ^1-273
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-274]]
-
 ==「無邊莊嚴！如是略說，無有分別、無有戲論法門、== ^1-274
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-275]]
 
 ==清淨陀羅尼門。== ^1-275
 
@@ -1101,8 +1054,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-280]]
 
 ==由是門故，== ^1-280
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-281]]
 
 ==便得入於一切智智，== ^1-281
 
@@ -1161,8 +1112,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-296]]
 
 ==唯除如來，== ^1-296
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-297]]
 
 ==天人世間先無有能如法轉者。== ^1-297
 
@@ -1258,15 +1207,11 @@ status: draft
 
 ==佛復告無邊莊嚴菩薩摩訶薩言：「== ^1-321
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-322]]
-
 ==善男子！汝今當觀如來所說如是甚深、如是難了，== ^1-322
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-323]]
 
 ==一切智智力清淨故，== ^1-323
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-324]]
 
 ==所有諸法，說名如來及如來力，== ^1-324
 
@@ -1289,8 +1234,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-329]]
 
 ==由斯理趣建立力故，能演說此一切諸法無建立性，以之為力。== ^1-329
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-330]]
 
 ==如是諸力無生起性、無有自性、離於自性。== ^1-330
 
@@ -1318,8 +1261,6 @@ status: draft
 
 ==陀羅尼曰：「怛姪他== ^1-337
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-338]]
-
 ==鉢囉牟折寧，儞牟折寧，牟折寧毘鉢囉悶折儞阿折黎阿毘耶(二合、引)咤儞鉢囉婆怒揭帝，帝誓，摩訶帝誓，阿鉢囉底耶末囉尼，阿那靺囉尼，阿靺囉拏毘戍達儞，儞馱那鉢囉吠設儞，突囉阿儞乞屣鉢儞，靺虞，靺虞薩嚩黎，薩嚩囉尾戍憚儞，母達囉，母達囉尾戍憚儞，薩鉢唎縛嚟，三漫多鉢嚟嚩嚟，阿揭囉弩麼底，遏他娑憚儞，僧羯囉尼麼掣憚儞，戍嚟，戍囉寐唎曳，阿褐囉尼，烏波那末底，儞那嚟設儞，三曼多波嚟普里也揭帝，馱羅弩揭帝，阿儞迷設儞，阿傘儞迷設儞，陀囉尼揭帝，儞馱那鉢唎戍憚儞，阿弩達囉毘婆枲儞，跋囇，跋達囉筏帝，莫异，莫企筏底，珊馱囉尼，烏筏馱唎尼，阿難多鉢囉皤吠，鉢囉步多鉢唎嚩嚟，設儞，鉢唎些設儞，摩訶嚩迦世，阿迦捨娑牟薩囉尼，弭底彌囉迦囉尼，薩婆若鉢他毘輸達儞，涅槃那鉢他珊那唎設儞，莎訶。== ^1-338
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-339]]
@@ -1337,8 +1278,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-343]]
 
 ==陀羅尼曰：「== ^1-343
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-344]]
 
 ==娑揭囉阿鉢演多，蘇迷嚧囉怛那娑揭囉珊儞折耶，阿毘怛儞，阿三毘怛儞，阿卑靺嚟，拔折囉珊儞，涅陛設儞，阿乞芻毘儞，阿僧乞芻毘儞，阿乞沙耶，阿避夜已，乞沙耶阿鉢演帝，阿乞師那乞沙演多薩姪里世，阿鉢唎乞沙曳，阿毘乞疏避儞，阿毘揭嚟，阿毘揭羅若那揭囉尼，莎訶== ^1-344
 
@@ -1518,8 +1457,6 @@ status: draft
 
 ==於一切法無所分別、== ^1-392
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-393]]
-
 ==不生不滅、不墮不起、不來不去不住、不染不淨，== ^1-393
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-394]]
@@ -1529,8 +1466,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-395]]
 
 ==無有障礙、== ^1-395
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-396]]
 
 ==無有所得，捨離憍慢其心謙下，== ^1-396
 
@@ -1586,23 +1521,17 @@ status: draft
 
 ==不集不散，== ^1-409
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-410]]
-
 ==於此義中能作業者，== ^1-410
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-412]]
 
 ==於此所說寂靜法門== ^1-412
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-413]]
-
 ==而不執著====，== ^1-413
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-415]]
 
 ==亦不分別諸業果報，== ^1-415
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-416]]
 
 ==能善了知業果平等，== ^1-416
 
@@ -1698,15 +1627,11 @@ status: draft
 
 ==當令眾生能得法喜。== ^1-439
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-440]]
-
 ==無邊莊嚴！若有於此陀羅尼門能忍信受，則與得受菩提記人等無有異。== ^1-440
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-441]]
 
 ==彼既聞法，== ^1-441
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-442]]
 
 ==當於己身而自授記。== ^1-442
 
@@ -1734,8 +1659,6 @@ status: draft
 
 ==無邊莊嚴！若有菩薩以勝意樂，== ^1-449
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-450]]
-
 ==能於我所起於父想，== ^1-450
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-452]]
@@ -1746,15 +1669,11 @@ status: draft
 
 ==無邊莊嚴！== ^1-453
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-454]]
-
 ==於此陀羅尼門法品之中，此是第二出離陀羅尼印演說法藏。」== ^1-454
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-455]]
 
 ==清淨陀羅尼品第三之一== ^1-455
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-456]]
 
 ==爾時世尊觀察四方，== ^1-456
 
@@ -1777,8 +1696,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-461]]
 
 ==無邊莊嚴！== ^1-461
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-462]]
 
 ==如來之性，不一不異非不一異，== ^1-462
 
@@ -1806,8 +1723,6 @@ status: draft
 
 ==無邊莊嚴！如來之性無少真實少不真實。== ^1-468
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-469]]
-
 ==若少真實少不真實，是則應言有如來性、無如來性。== ^1-469
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-471]]
@@ -1818,23 +1733,17 @@ status: draft
 
 ==無邊莊嚴！== ^1-472
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-473]]
-
 ==一切諸法自性本性猶如虛空。== ^1-473
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-474]]
 
 ==如是法門，諸佛如來未出世時所未曾說。== ^1-474
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-475]]
-
 ==無邊莊嚴，若諸菩薩於此法中如是解者，則能發生無量辯才，於諸法中能為照曜，== ^1-475
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-476]]
 
 ==於佛無畏而作光明。== ^1-476
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-477]]
 
 ==無邊莊嚴！言無畏者，謂得如來最上無畏，能於少法不攝受故、== ^1-477
 
@@ -1846,15 +1755,11 @@ status: draft
 
 ==不可得故、不遍得故、不隨得故。== ^1-480
 
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-481]]
-
 ==如來出世若不出世，== ^1-481
 
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-482]]
 
 ==法不增減、不遍增減。== ^1-482
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-483]]
 
 ==諸法自性本性常住，法界住性、法界定性。== ^1-483
 
@@ -1901,8 +1806,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-494]]
 
 ==「無邊莊嚴！== ^1-494
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-495]]
 
 ==云何無畏？== ^1-495
 
@@ -2089,8 +1992,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-546]]
 
 ==何以故？== ^1-546
-
-![[1-SOURCES/Text/bo-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md#^1-547]]
 
 ==於中無因，無因可見。== ^1-547
 

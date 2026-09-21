@@ -8,9 +8,11 @@ author_in_english: Master Nagarjuna
 language: Tibetan
 script: Unicode Tibetan
 file_type: root-text
+work_type: treatise
+work_type_evidence: authored (Master Nagarjuna), title does not mark it as a commentary
 lang_tag: bo
 chapters: 1
-total_verses: 42
+total_verses: 40
 verse_id_format: chapter-verse
 toh: toh1123
 taisho: ""
@@ -40,8 +42,6 @@ status: draft
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། ཀཱ་ཡ་ཏྲ་ཡ་སྟོ་ཏྲ་ནཱ་མ། ^1-1
 
 བོད་སྐད་དུ། སྐུ་གསུམ་ལ་བསྟོད་པ་ཞེས་བྱ་བ། ། ^1-2
-
- ^1-3
 
 འཕགས་པ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། ། ^1-4
 
@@ -118,5 +118,3 @@ status: draft
 རྒྱ་གར་གྱི་མཁན་པོ་ཀྲྀཥྞ་པཎྜི་ཏ་དང་། ^1-40
 
 ལོ་ཙཱ་བ་དགེ་སློང་ཚུལ་ཁྲིམས་རྒྱལ་བས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པའོ།། །། ^1-41
-
- ^1-42

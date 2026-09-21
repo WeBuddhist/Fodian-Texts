@@ -8,11 +8,12 @@ language: Classical Chinese
 script: Traditional Chinese
 chinese_register: literary
 file_type: translation
+work_type: root-text
 lang_tag: zh-hant
 edition_class: classical
 footnotes: true
 chapters: 1
-total_verses: 47
+total_verses: 45
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/bo-toh0020-twenty-five-aspects-great-vehicle-sutra.md
 covers_verses: 1-1–1-47

@@ -8,6 +8,7 @@ language: Classical Chinese
 script: Traditional Chinese
 chinese_register: literary
 file_type: translation
+work_type: root-text
 lang_tag: zh-hant
 edition_class: classical
 footnotes: false

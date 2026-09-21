@@ -8,11 +8,12 @@ language: Classical Chinese
 script: Traditional Chinese
 chinese_register: literary
 file_type: translation
+work_type: treatise
 lang_tag: zh-hant
 edition_class: classical
 footnotes: false
 chapters: 4
-total_verses: 3849
+total_verses: 3805
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md
 covers_verses: 1-1–4-745
@@ -32,7 +33,7 @@ status: draft
 
 # 大乘阿毘達磨集論
 
-> [Ed: 282 segment(s) have no counterpart in the Tibetan and carry no transclusion: 3-886, 3-887, 3-888, 3-889, 3-890, 3-891, 3-892, 3-893 …. The two witnesses disagree on segmentation — resolve before relying on the alignment.]
+> [Ed: 380 segment(s) have no counterpart in the Tibetan and carry no transclusion: 1-4, 1-5, 1-6, 1-10, 1-11, 1-17, 1-481, 1-493 …. The two witnesses disagree on segmentation — resolve before relying on the alignment.]
 
 ## 大乘阿毘達磨集論 — 1/4 ^1-0
 
@@ -48,15 +49,9 @@ status: draft
 
 為何義故觀世間耶？ ^1-3
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-4]]
-
 謂三界所攝， ^1-4
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-5]]
-
 及出世智後所得，似彼顯現，是世間義。 ^1-5
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-6]]
 
 諸蘊一分， ^1-6
 
@@ -72,11 +67,7 @@ status: draft
 
 及三界、 ^1-9
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-10]]
-
 二處一分，是世間。 ^1-10
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-11]]
 
 為捨執著世依我故，觀察世間。 ^1-11
 
@@ -99,8 +90,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-16]]
 
 無顛倒、無戲論、無分別故， ^1-16
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-17]]
 
 是無分別出世間義。 ^1-17
 
@@ -1928,8 +1917,6 @@ _何等分別支故？ ^1-476
 
 行、 ^1-480
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-481]]
-
 識、 ^1-481
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-482]]
@@ -1975,8 +1962,6 @@ _何等略攝支故？ ^1-491
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-492]]
 
 謂能引支、 ^1-492
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-493]]
 
 所引支、 ^1-493
 
@@ -2124,8 +2109,6 @@ _何等建立支業故？ ^1-518
 
 二與六處作緣。 ^1-530
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-531]]
-
 六處有二種業： ^1-531
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-532]]
@@ -2155,8 +2138,6 @@ _何等建立支業故？ ^1-518
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-538]]
 
 一令諸有情，於所受用生果流轉； ^1-538
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-539]]
 
 二與愛作緣。 ^1-539
 
@@ -2784,8 +2765,6 @@ _何等等無間緣？ ^1-694
 
 謂中無間隔，等無間故。 ^1-695
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-696]]
-
 同分異分心心所生，等無間故。 是等無間緣義。 ^1-696
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-697]]
@@ -3348,8 +3327,6 @@ _復有四種差別， ^1-828
 
 謂即於蘊、界、處中，實有、假有、 ^1-836
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-837]]
-
 世俗有、勝義有、 ^1-837
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-838]]
@@ -3379,8 +3356,6 @@ _復有四種差別， ^1-828
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-844]]
 
 何等相續差別？ ^1-844
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^1-845]]
 
 謂一一剎那，蘊、界、處轉。 ^1-845
 
@@ -4258,8 +4233,6 @@ _何等有情生？ ^2-10
 
 無雲天、福生天、廣果天、 ^2-17
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-18]]
-
 無想有情天、無煩天、無熱天、 ^2-18
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-19]]
@@ -4546,8 +4519,6 @@ _復次苦相差別有八，謂生苦、 ^2-53
 
 略攝一切五取蘊苦，是勝義諦苦。 ^2-89
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-90]]
-
 _云何苦諦共相？ ^2-90
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-91]]
@@ -4653,8 +4624,6 @@ _何等種種心行轉相？ ^2-115
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-116]]
 
 謂於一時起有貪心、或於一時起離貪心， ^2-116
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-117]]
 
 如是有瞋離瞋、 ^2-117
 
@@ -5558,8 +5527,6 @@ _慢結者，即七慢， ^2-337
 
 謂於勝己計己為勝，心舉為性。 ^2-345
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-346]]
-
 我慢者， ^2-346
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-347]]
@@ -5613,8 +5580,6 @@ _無明結者，謂三界無智，無明結所繫故， ^2-357
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-360]]
 
 不解了故，廣行不善、不行諸善， ^2-360
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-361]]
 
 由此能招未來世苦，與苦相應。 ^2-361
 
@@ -6085,8 +6050,6 @@ _燒害有三， ^2-477
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-478]]
 
 謂貪燒害、瞋燒害、癡燒害。 ^2-478
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-479]]
 
 由依止貪瞋癡故，長時數受生死燒惱，故名燒害。 ^2-479
 
@@ -6677,8 +6640,6 @@ _又此身、語、意三業，或善或不善。 ^2-621
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-628]]
 
 無貪、無瞋、正見。 ^2-628
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-629]]
 
 _又殺生等，應以五門分別其相，謂事故、意樂故、方便故、煩惱故、究竟故。 ^2-629
 
@@ -7334,8 +7295,6 @@ _復有施等諸清淨業。 ^2-787
 
 處所者，謂所施物。 ^2-792
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-793]]
-
 自體者，謂正行施時，身、語、意業。 ^2-793
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-794]]
@@ -7662,8 +7621,6 @@ _如世尊說：有情業異熟不可思議。 ^2-859
 
 如是集諦總有四種行相差別， ^2-874
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-875]]
-
 謂因相、集相、生相、緣相。 ^2-875
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^2-876]]
@@ -7711,8 +7668,6 @@ _大乘阿毘達磨集論卷第四 ^2-884
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-3]]
 
 云何滅諦？ ^3-3
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-4]]
 
 謂相故、 ^3-4
 
@@ -8016,8 +7971,6 @@ _何等差別故？ ^3-75
 
 離欲、 ^3-80
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-81]]
-
 滅、 ^3-81
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-82]]
@@ -8320,8 +8273,6 @@ _如是滅諦總有四種行相差別， ^3-154
 
 妙相、 ^3-157
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-158]]
-
 離相。 ^3-158
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-159]]
@@ -8468,8 +8419,6 @@ _何等加行道？ ^3-190
 
 謂煖法、 ^3-194
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-195]]
-
 頂法、 ^3-195
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-196]]
@@ -8511,8 +8460,6 @@ _何等加行道？ ^3-190
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-205]]
 
 謂各別內證，於諸諦中一分已入隨順三摩地，鉢羅若及彼相應等法。 ^3-205
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-206]]
 
 云何世第一法？ ^3-206
 
@@ -8616,8 +8563,6 @@ _若別說見道差別， ^3-214
 
 如是十六智忍，是見道差別相。 ^3-231
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-232]]
-
 _云何苦？ ^3-232
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-233]]
@@ -8688,8 +8633,6 @@ _云何苦？ ^3-232
 
 云何苦類智？ ^3-249
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-250]]
-
 謂此無間無漏智生，審定印可苦類智忍， ^3-250
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-251]]
@@ -8736,8 +8679,6 @@ _一切道諦由四種相應隨覺了，謂安立故、思惟故、證受故、�
 
 云何思惟故？ ^3-261
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-262]]
-
 謂正修習現觀方便，以世間智，如所安立思惟數習。 ^3-262
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-263]]
@@ -8763,8 +8704,6 @@ _一切道諦由四種相應隨覺了，謂安立故、思惟故、證受故、�
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-268]]
 
 _如契經言，遠塵離垢於諸法中正法眼生者，此依見道說， ^3-268
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-269]]
 
 諸法忍能遠塵， ^3-269
 
@@ -8808,8 +8747,6 @@ _如契經言： ^3-272
 
 於大師教餘不能引， ^3-279
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-280]]
-
 於諸法中得無所畏，此亦依見道說。 ^3-280
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-281]]
@@ -8844,8 +8781,6 @@ _如契經言： ^3-272
 
 於大師教餘不能引者，於佛聖教不為邪道所化引故。 ^3-288
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-289]]
-
 於諸法中得無所畏者，於依所證問記法中， ^3-289
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-290]]
@@ -8868,8 +8803,6 @@ _何等修道？ ^3-291
 
 軟道、 ^3-294
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-295]]
-
 中道、 ^3-295
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-296]]
@@ -8879,8 +8812,6 @@ _何等修道？ ^3-291
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-297]]
 
 加行道、 ^3-297
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-298]]
 
 無間道、 ^3-298
 
@@ -8948,8 +8879,6 @@ _云何世間道？ ^3-301
 
 何等雜染故？ ^3-314
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-315]]
-
 謂四無記根：一愛、二見、三慢、四無明。 ^3-315
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-316]]
@@ -8963,8 +8892,6 @@ _云何世間道？ ^3-301
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-318]]
 
 由有慢故，慢上靜慮雜染所染， ^3-318
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-319]]
 
 由無明故，疑上靜慮雜染所染。 ^3-319
 
@@ -9336,8 +9263,6 @@ _云何解脫道？ ^3-405
 
 名勝進道。 ^3-412
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-413]]
-
 又為引發勝品功德，或復安住諸所有道， ^3-413
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-414]]
@@ -9388,8 +9313,6 @@ _復云何修如是諸道？ ^3-415
 
 謂已生惡不善法，修令永斷。 ^3-425
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-426]]
-
 對治修者， ^3-426
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-427]]
@@ -9439,8 +9362,6 @@ _復云何修如是諸道？ ^3-415
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-438]]
 
 謂於有漏諸行見多過患。 ^3-438
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-439]]
 
 云何斷對治？ ^3-439
 
@@ -9500,8 +9421,6 @@ _又道差別有十一種， ^3-445
 
 依根差別道、 ^3-453
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-454]]
-
 淨修三學道、 ^3-454
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-455]]
@@ -9527,8 +9446,6 @@ _又道差別有十一種， ^3-445
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-461]]
 
 奢摩他、 ^3-461
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-462]]
 
 毘鉢舍那、 ^3-462
 
@@ -9636,8 +9553,6 @@ _四念住所緣者， ^3-469
 
 謂以分別影像身與本質身平等。 ^3-490
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-491]]
-
 隨觀內受者， ^3-491
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-492]]
@@ -9659,8 +9574,6 @@ _四念住所緣者， ^3-469
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-496]]
 
 謂因內外身所生受。 ^3-496
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-497]]
 
 如受，心、法亦爾。 ^3-497
 
@@ -9804,8 +9717,6 @@ _四正斷所緣者， ^3-522
 
 發起正勤、 ^3-532
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-533]]
-
 策心、 ^3-533
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-534]]
@@ -9912,8 +9823,6 @@ _四神足所緣者， ^3-544
 
 勤三摩地者，謂由策勵發起正勤，觸心一境性。 ^3-559
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-560]]
-
 心三摩地者，謂由持心，觸心一境性。 ^3-560
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-561]]
@@ -9979,8 +9888,6 @@ _四神足所緣者， ^3-544
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-576]]
 
 對治。 ^3-576
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-577]]
 
 又欲、 ^3-577
 
@@ -10440,8 +10347,6 @@ _四種正行者， ^3-672
 
 調順、 ^3-695
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-696]]
-
 寂靜、 ^3-696
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-697]]
@@ -10451,8 +10356,6 @@ _四種正行者， ^3-672
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-698]]
 
 專注一趣、 ^3-698
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-699]]
 
 平等攝持。 ^3-699
 
@@ -10600,8 +10503,6 @@ _何等究竟道？ ^3-733
 
 永證一切離繫得故， ^3-737
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-738]]
-
 謂依金剛喻定， ^3-738
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-739]]
@@ -10644,8 +10545,6 @@ _云何名為一切麁重？ ^3-747
 
 略說有二十四種， ^3-748
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-749]]
-
 謂一切遍行戲論麁重、 ^3-749
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-750]]
@@ -10667,8 +10566,6 @@ _云何名為一切麁重？ ^3-747
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-754]]
 
 煩惱障麁重、 ^3-754
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-755]]
 
 業障麁重、 ^3-755
 
@@ -10695,8 +10592,6 @@ _云何名為一切麁重？ ^3-747
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-761]]
 
 夢麁重、 ^3-761
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-762]]
 
 病麁重、 ^3-762
 
@@ -10740,8 +10635,6 @@ _云何名為一切麁重？ ^3-747
 
 所知障麁重。 ^3-772
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-773]]
-
 _云何繫得？ ^3-773
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-774]]
@@ -10751,8 +10644,6 @@ _云何繫得？ ^3-773
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-775]]
 
 云何離繫得？ ^3-775
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-776]]
 
 謂於麁重離散假立離繫得性。 ^3-776
 
@@ -10796,11 +10687,7 @@ _云何金剛喻定？ ^3-777
 
 十方猛風所不動轉。 ^3-786
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-787]]
-
 云何名為無間轉依？ ^3-787
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-788]]
 
 謂已證得無學道者三種轉依。何等為三？ 謂心轉依、 ^3-788
 
@@ -10868,11 +10755,7 @@ _如是道諦總有四種行相差別， ^3-801
 
 行相、 ^3-804
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-805]]
-
 出相。 ^3-805
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-806]]
 
 云何道相？ ^3-806
 
@@ -10915,8 +10798,6 @@ _如是道諦總有四種行相差別， ^3-801
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-816]]
 
 於所知境，不善悟入、善悟入性差別故、 ^3-816
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-817]]
 
 有障、無障性差別故、 ^3-817
 
@@ -11128,8 +11009,6 @@ _何等緣起？ ^3-870
 
 _何等譬喻？ ^3-872
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-873]]
-
 謂諸經中，有比況說。 ^3-873
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-874]]
@@ -11175,8 +11054,6 @@ _何等方廣？ ^3-878
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-884]]
 
 以能廣破一切障故。 ^3-884
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^3-885]]
 
 為何義故名為無比？ ^3-885
 
@@ -11830,8 +11707,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 云何任持差別？ ^4-21
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-22]]
-
 此有三種， ^4-22
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-23]]
@@ -11886,8 +11761,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 極七返有、家家、一間、 ^4-35
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-36]]
-
 中般涅槃、生般涅槃、 ^4-36
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-37]]
@@ -11913,8 +11786,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-42]]
 
 云何界差別？ ^4-42
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-43]]
 
 謂欲界異生、有學、無學。 ^4-43
 
@@ -12173,8 +12044,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-107]]
 
 何等信勝解補特伽羅？ ^4-107
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-108]]
 
 謂隨信行已至果位。 ^4-108
 
@@ -12662,8 +12531,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 云何建立現觀？ ^4-229
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-230]]
-
 略有十種， ^4-230
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-231]]
@@ -12718,8 +12585,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 又見道中，得現觀邊安立諦，世俗智不現在前， ^4-243
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-244]]
-
 於修道位，此世俗智方可現前。 ^4-244
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-245]]
@@ -12741,8 +12606,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-249]]
 
 謂已證得無作律儀，雖居學位， ^4-249
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-250]]
 
 而謂我今已盡那落迦、已盡傍生、 ^4-250
 
@@ -12770,43 +12633,23 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 謂前所說七種現觀，從聞他音而證得故，名聲聞現觀。 ^4-256
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-257]]
-
 何等獨覺現觀？ ^4-257
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-258]]
 
 謂前所說七種現觀，不由他音而證得故，名獨覺現觀。 ^4-258
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-259]]
-
 何等菩薩現觀？ ^4-259
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-260]]
 
 謂諸菩薩於前所說七現觀中，起修習忍而不作證， ^4-260
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-261]]
-
 然於菩薩極喜地中，入諸菩薩正性決定，是名菩薩現觀。 ^4-261
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-262]]
 
 聲聞現觀、菩薩現觀有何差別？ ^4-262
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-263]]
-
 略說有十一種， ^4-263
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-264]]
 
 謂境界差別、任持差別、 ^4-264
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-265]]
-
 通達差別、誓願差別、 ^4-265
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-266]]
 
 出離差別、攝受差別、 ^4-266
 
@@ -12825,8 +12668,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-270]]
 
 謂轉依差別、功德圓滿差別、五相差別、 ^4-270
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-271]]
 
 三身差別、涅槃差別、 ^4-271
 
@@ -13034,8 +12875,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 前四勝處由二解脫所建立， ^4-322
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-323]]
-
 後四勝處由一解脫所建立。 ^4-323
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-324]]
@@ -13062,8 +12901,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 餘如解脫中說。 ^4-329
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-330]]
-
 勝伏所緣，故名勝處。 遍處者，謂十遍處，所緣遍滿，故名遍處。 於其遍滿住具足中若定若慧， ^4-330
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-331]]
@@ -13073,8 +12910,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-332]]
 
 何故於遍處建立地等？ ^4-332
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-333]]
 
 由此遍處，觀所依能依色皆遍滿故， ^4-333
 
@@ -13202,8 +13037,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 云何死生通？ ^4-366
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-367]]
-
 謂依止靜慮， ^4-367
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-368]]
@@ -13238,8 +13071,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 云何依止清淨？ ^4-376
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-377]]
-
 謂依止靜慮， ^4-377
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-378]]
@@ -13269,8 +13100,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-384]]
 
 謂依止靜慮， ^4-384
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-385]]
 
 於如所欲三摩地門，自在具足中若定若慧，餘如前說。 ^4-385
 
@@ -13334,8 +13163,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 謂依止靜慮， ^4-400
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-401]]
-
 由自利門，於一切種所知境界正等覺自稱德號建立具足中若定若慧， ^4-401
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-402]]
@@ -13374,15 +13201,11 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 於一切種說障礙法自稱德號建立具足中若定若慧，餘如前說。 ^4-410
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-411]]
-
 云何出苦道無畏？ ^4-411
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-412]]
 
 謂依止靜慮，由利他門， ^4-412
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-413]]
 
 於一切種說出苦道法自稱德號建立具足中若定若慧，餘如前說。 ^4-413
 
@@ -13506,8 +13329,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 若現發起自所作用，以出世後所得世俗智為體。 ^4-443
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-444]]
-
 若安住自性，用出世智為體。 ^4-444
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-445]]
@@ -13558,8 +13379,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 謂善能成辦解脫所緣，遍滿流布故。 ^4-456
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-457]]
-
 無諍作何業？ ^4-457
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-458]]
@@ -13585,8 +13404,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-463]]
 
 無礙解作何業？ ^4-463
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-464]]
 
 謂善說法要悅眾生心。 ^4-464
 
@@ -13758,8 +13575,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 又即此時集斷。 ^4-506
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-507]]
-
 作證於無餘依涅槃界位，聲聞獨覺一切聖道，無不皆由頓捨所捨，非諸菩薩， ^4-507
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-508]]
@@ -13841,8 +13656,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-527]]
 
 於時時中應修練根。 ^4-527
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-528]]
 
 云何所知境？ ^4-528
 
@@ -14050,8 +13863,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 
 轉義者，謂五轉：一相轉、 ^4-579
 
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-580]]
-
 二安住轉、 ^4-580
 
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-581]]
@@ -14081,8 +13892,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-587]]
 
 略有六種： ^4-587
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-588]]
 
 一所遍知事、 ^4-588
 
@@ -14281,8 +14090,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-637]]
 
 三諍論、四毀論、 ^4-637
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-638]]
 
 五順論、六教論。 ^4-638
 
@@ -14661,8 +14468,6 @@ _聲聞藏法菩薩藏法等，從如來法身所流， ^3-1165
 ![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-733]]
 
 又契經言：菩薩摩訶薩成就五法名梵行者，成就第一清淨梵行。 ^4-733
-
-![[1-SOURCES/Text/bo-toh4049-the-compendium-of-abhidharma.md#^4-734]]
 
 何等為五？ ^4-734
 

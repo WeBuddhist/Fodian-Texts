@@ -8,13 +8,14 @@ language: Classical Chinese
 script: Traditional Chinese
 chinese_register: literary
 file_type: translation
+work_type: root-text
 lang_tag: zh-hant
 edition_class: classical
 footnotes: false
 footnotes_sheet_label: true
 footnotes_note: "the sheet labels this witness differently from what the document contains"
 chapters: 1
-total_verses: 133
+total_verses: 130
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/bo-toh0247-the-great-vehicle-scripture-on-the-meaning-of-the-holy-eloqu.md
 covers_verses: 1-1–1-133

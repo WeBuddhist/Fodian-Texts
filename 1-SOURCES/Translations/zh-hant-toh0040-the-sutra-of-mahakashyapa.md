@@ -8,6 +8,7 @@ language: Classical Chinese
 script: Traditional Chinese
 chinese_register: literary
 file_type: translation
+work_type: root-text
 lang_tag: zh-hant
 edition_class: classical
 footnotes: false
@@ -31,6 +32,8 @@ status: draft
 ---
 
 # 大迦葉經
+
+> [Ed: 1 segment(s) have no counterpart in the Tibetan and carry no transclusion: 1-19. The two witnesses disagree on segmentation — resolve before relying on the alignment.]
 
 ## 大迦葉經 ^1-0
 
@@ -105,8 +108,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh0040-the-sutra-of-mahakashyapa.md#^1-18]]
 
 願賜療癒之方。」 ^1-18
-
-![[1-SOURCES/Text/bo-toh0040-the-sutra-of-mahakashyapa.md#^1-19]]
 
 ［世尊告曰］： ^1-19
 

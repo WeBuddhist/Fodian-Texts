@@ -8,11 +8,12 @@ language: Classical Chinese
 script: Traditional Chinese
 chinese_register: literary
 file_type: translation
+work_type: root-text
 lang_tag: zh-hant
 edition_class: classical
 footnotes: false
 chapters: 9
-total_verses: 2715
+total_verses: 2660
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md
 covers_verses: 1-1–9-398
@@ -32,6 +33,8 @@ status: draft
 
 # 《大寶積經》菩薩藏會-玄奘
 
+> [Ed: 115 segment(s) have no counterpart in the Tibetan and carry no transclusion: 1-3, 1-169, 2-34, 2-41, 2-129, 2-206, 2-275, 2-328 …. The two witnesses disagree on segmentation — resolve before relying on the alignment.]
+
 ## 《大寶積經》菩薩藏會-玄奘 — 1/9 ^1-0
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^1-1]]
@@ -41,8 +44,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^1-2]]
 
 爾時世尊於彼中道不移其處，令諸長者建立聖果。 ^1-2
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^1-3]]
 
 以如來威勢入王舍城， ^1-3
 
@@ -702,8 +703,6 @@ _爾時如來知金毘羅及其大眾心之所念，即便微笑。 ^1-20
 
 雨大蓮花滿虛空中， ^1-168
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^1-169]]
-
 鼓於百千那庾多拘胝天諸伎樂。 ^1-169
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^1-170]]
@@ -1016,8 +1015,6 @@ _爾時如來知金毘羅及其大眾心之所念，即便微笑。 ^1-20
 
 菩薩者何義？如是句云何？ ^2-33
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^2-34]]
-
 云何為菩提，及無上佛法？ ^2-34
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^2-35]]
@@ -1039,8 +1036,6 @@ _爾時如來知金毘羅及其大眾心之所念，即便微笑。 ^1-20
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^2-40]]
 
 我諸所請問，慈悲願為說。」 ^2-40
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^2-41]]
 
 爾時佛告長老舍利子： ^2-41
 
@@ -1384,8 +1379,6 @@ _爾時如來知金毘羅及其大眾心之所念，即便微笑。 ^1-20
 
 受持奉行十善業道， ^2-128
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^2-129]]
-
 由具信故於諸沙門若婆羅門，正至正行具德具戒， ^2-129
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^2-130]]
@@ -1692,8 +1685,6 @@ _爾時如來知金毘羅及其大眾心之所念，即便微笑。 ^1-20
 
 此滅故彼滅。 ^2-205
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^2-206]]
-
 謂無明滅故行滅， ^2-206
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^2-207]]
@@ -1968,8 +1959,6 @@ _爾時如來知金毘羅及其大眾心之所念，即便微笑。 ^1-20
 
 若法是無如實知無， ^2-274
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^2-275]]
-
 觀察此中何者是有、何者是無？ ^2-275
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^2-276]]
@@ -2171,8 +2160,6 @@ _爾時如來知金毘羅及其大眾心之所念，即便微笑。 ^1-20
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^2-326]]
 
 速能圓滿一切佛法。」 ^2-326
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^2-328]]
 
 大寶積經卷第三十六 ^2-328
 
@@ -3326,8 +3313,6 @@ _「『復次，童子！菩薩摩訶薩大悲無量，復有如是十種轉相�
 
 正斷、 ^3-288
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-289]]
-
 神足。 ^3-289
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-290]]
@@ -3394,15 +3379,11 @@ _「『復次，童子！菩薩摩訶薩大悲無量，復有如是十種轉相�
 
 _「『復次，精進行童子！云何名為菩薩摩訶薩大喜無量波羅蜜？ ^3-305
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-306]]
-
 童子當知，菩薩摩訶薩為眾生故，求阿耨多羅三藐三菩提時，修行大喜。 如是喜者有無量相。 ^3-306
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-307]]
 
 童子當知，菩薩喜者，名諸善法，憶念歡悅，清淨妙喜。 ^3-307
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-308]]
 
 何以故？ ^3-308
 
@@ -3422,8 +3403,6 @@ _「『復次，精進行童子！云何名為菩薩摩訶薩大喜無量波羅�
 
 是喜名為遠離一切樂世間性。 ^3-312
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-313]]
-
 何以故？ ^3-313
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-314]]
@@ -3433,8 +3412,6 @@ _「『復次，精進行童子！云何名為菩薩摩訶薩大喜無量波羅�
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-315]]
 
 是喜能令內心歡悅、身力勇銳。 ^3-315
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-316]]
 
 何以故？ ^3-316
 
@@ -3446,8 +3423,6 @@ _「『復次，精進行童子！云何名為菩薩摩訶薩大喜無量波羅�
 
 是喜樂於如來之身。 ^3-318
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-319]]
-
 何以故？ ^3-319
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-320]]
@@ -3457,8 +3432,6 @@ _「『復次，精進行童子！云何名為菩薩摩訶薩大喜無量波羅�
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-321]]
 
 是喜聞法無有厭倦。 ^3-321
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-322]]
 
 何以故？ ^3-322
 
@@ -3490,8 +3463,6 @@ _「『復次，精進行童子！云何名為菩薩摩訶薩大喜無量波羅�
 
 是喜名為制伏慳喜。 ^3-329
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-330]]
-
 何以故？ ^3-330
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-331]]
@@ -3518,8 +3489,6 @@ _「『復次，精進行童子！云何名為菩薩摩訶薩大喜無量波羅�
 
 是喜名為忍受他人諸惡言詞、鄙語路喜，是喜名為無返報喜。 ^3-336
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-337]]
-
 何以故？ ^3-337
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-338]]
@@ -3529,8 +3498,6 @@ _「『復次，精進行童子！云何名為菩薩摩訶薩大喜無量波羅�
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-339]]
 
 是喜名為敬尊重喜。 ^3-339
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-340]]
 
 何以故？ ^3-340
 
@@ -3542,8 +3509,6 @@ _「『復次，精進行童子！云何名為菩薩摩訶薩大喜無量波羅�
 
 是喜名為恒舒顏喜。 ^3-342
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-343]]
-
 何以故？ ^3-343
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-344]]
@@ -3553,8 +3518,6 @@ _「『復次，精進行童子！云何名為菩薩摩訶薩大喜無量波羅�
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-345]]
 
 是喜名為遠離一切詐現威儀諛諂矯誑逼求之喜。 ^3-345
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-346]]
 
 何以故？ ^3-346
 
@@ -3621,8 +3584,6 @@ _「『復次，精進行童子！云何名為菩薩摩訶薩大喜無量波羅�
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-362]]
 
 _「『復次，精進行童子！云何名為菩薩摩訶薩大捨無量波羅蜜？ ^3-362
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-363]]
 
 童子當知，菩薩摩訶薩為眾生故，發阿耨多羅三藐三菩提已，當行大捨。 ^3-363
 
@@ -3765,8 +3726,6 @@ _「『復次，童子！何等名為護自他捨？ ^3-395
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-398]]
 
 及以追求縱於身語起諸變異俱能堪忍，是則名為護自他捨。 ^3-398
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^3-399]]
 
 爾時菩薩又觀二種心無損害。 何等為二？ ^3-399
 
@@ -3956,15 +3915,11 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 「復次，舍利子！云何名為菩薩摩訶薩依柁那波羅蜜多行菩薩行？ ^4-14
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-15]]
-
 菩薩摩訶薩依如是六波羅蜜多故，行菩薩道。 ^4-15
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-16]]
 
 舍利子！菩薩摩訶薩 ^4-16
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-17]]
 
 度眾生故，行柁那波羅蜜多時，為諸眾生 ^4-17
 
@@ -3983,8 +3938,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-22]]
 
 須飲與飲， ^4-22
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-23]]
 
 珍異餚膳無不盡施。 ^4-23
 
@@ -4156,8 +4109,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 菩薩摩訶薩見來求者，悉能一切歡喜施與。 ^4-65
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-66]]
-
 舍利子！以要言之，一切世間所須之物，菩薩摩訶薩行大施故，但見來求，無不施與。 ^4-66
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-67]]
@@ -4232,11 +4183,7 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 四者、菩薩摩訶薩無有厭倦而行布施； ^4-84
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-87]]
-
 三者、菩薩摩訶薩無不信解而行布施； ^4-87
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-88]]
 
 五者、菩薩摩訶薩無有現相而行布施； ^4-88
 
@@ -4255,8 +4202,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-92]]
 
 十者、菩薩摩訶薩不希果報而行布施。 ^4-92
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-93]]
 
 六者、菩薩摩訶薩勇勵熾然而行布施； ^4-93
 
@@ -4304,11 +4249,7 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 十者、菩薩摩訶薩不求來生而行布施。 ^4-104
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-105]]
-
 七者、菩薩摩訶薩無不殷重而行布施； ^4-105
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-106]]
 
 舍利子！是名菩薩摩訶薩行於十種清淨之施，為欲滿足柁那波羅蜜多故。 ^4-106
 
@@ -4680,8 +4621,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 以虛偽財而求堅實賢聖之財， ^4-200
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-201]]
-
 由如是故廣行布施。 ^4-201
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-202]]
@@ -4695,8 +4634,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-204]]
 
 何以故？ ^4-204
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-205]]
 
 皆依無上正等覺故。 ^4-205
 
@@ -4875,8 +4812,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-249]]
 
 無上丈夫、 ^4-249
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-250]]
 
 調御士、 ^4-250
 
@@ -5076,8 +5011,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 舍利子！當知此施由心廣大，不由於縷。 ^4-302
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-303]]
-
 何以故？ ^4-303
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-304]]
@@ -5139,8 +5072,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-318]]
 
 行施不求名稱聲， ^4-318
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-320]]
 
 未曾為樂及徒眾， ^4-320
 
@@ -5204,15 +5135,11 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 愛樂諸來乞求者，如父如母如妻子， ^4-335
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-337]]
-
 所獲財物常行施， ^4-337
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-338]]
 
 見彼感財無妬心。 ^4-338
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-340]]
 
 行施之時眾繁雜，土塊杖木來加害，雖見曾無忿恚心，愛語如舊情欣悅。 ^4-340
 
@@ -5232,15 +5159,11 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 除彼樂求穢欲者，誰有能求天世王，是故智者不貪樂，諸欲王位生天樂。 ^4-345
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-347]]
-
 大名稱者所行施，恒求無上佛菩提，捨捐身命及餘事，速疾能感多安樂。 ^4-347
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-348]]
 
 聰慧菩薩行諸施，未曾遠離上菩提，不求妙色世間財，又不願樂生天樂。 ^4-348
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-350]]
 
 雖求涅槃無所依，遠離一切諸希願，若能如是善修習，則名知道開道者。 ^4-350
 
@@ -5256,11 +5179,7 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 陀那波羅蜜多品第六 ^4-353
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-354]]
-
 若諸菩薩摩訶薩為阿耨多羅三藐三菩提故，精進修行是菩薩行，一切眾魔、魔民、天子於此菩薩不能嬈亂，又不為彼異道、他論所能摧屈。」 ^4-354
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^4-355]]
 
 大寶積經卷第四十一 ^4-355
 
@@ -5282,8 +5201,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 爾時佛告舍利子：「云何名為菩薩摩訶薩羼底波羅蜜多？菩薩摩訶薩為阿耨多羅三藐三菩提故，於如是法精勤修學，行菩薩行。 ^5-4
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-5]]
-
 舍利子！菩薩摩訶薩由住如是羼底波羅蜜多故，具足忍力， 立性堅正， ^5-5
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-6]]
@@ -5297,8 +5214,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-8]]
 
 舍利子！若諸菩薩摩訶薩能具是者，是則名為羼底波羅蜜多。 ^5-8
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-9]]
 
 復次，舍利子！我昔長夜未成佛時，行菩薩行常修忍辱。」 ^5-9
 
@@ -5366,8 +5281,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 是下劣業、 ^5-25
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-26]]
-
 非善人業、 ^5-26
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-27]]
@@ -5402,8 +5315,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 又由如此訶毀業故，感得下趣及以下趣根本果報。 ^5-35
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-36]]
-
 我今不應求下劣趣。 ^5-36
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-37]]
@@ -5434,8 +5345,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 便能依是正法作意思惟、忍受。 ^5-43
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-44]]
-
 是菩薩摩訶薩由得如是忍辱力故，復獲無量諸妙善根。假使以諸珍寶滿佛世界四大洲中持用布施，比前功德皆不能及。 ^5-44
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-45]]
@@ -5445,8 +5354,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-46]]
 
 是忍辱行，極善丈夫方能修習。 ^5-46
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-47]]
 
 何以故？ ^5-47
 
@@ -5466,8 +5373,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 作如是念：『我若被他訶毀之時，為能思惟於佛菩提及法、僧不？ ^5-51
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-52]]
-
 若能思惟，是則為善； ^5-52
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-53]]
@@ -5478,15 +5383,9 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 舍利子！菩薩摩訶薩作是思已，應當觀察， ^5-55
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-57]]
-
 我今與一切眾生有何差別殊異之相。 ^5-57
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-59]]
-
 何以故？ ^5-59
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-60]]
 
 彼諸眾生現於我身起瞋害者，於佛菩提及以法、僧曾不思惟。我若同彼不思惟者，與諸眾生有何差別、有何殊異希奇之相？ ^5-60
 
@@ -5509,8 +5408,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-65]]
 
 而況往昔發如是願：我當速證阿耨多羅三藐三菩提已，廣為眾生宣說正法。 ^5-65
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-66]]
 
 適發如是弘誓之時，諸佛世尊同共證我便作是念：此族姓子發心安住如是無上正等覺已，當為眾生廣宣正法。 ^5-66
 
@@ -5538,8 +5435,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 當我發是正願之時，諸佛同聲讚我忍力， ^5-73
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-74]]
-
 故我不應作師子吼已，復作野干聲。 ^5-74
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-75]]
@@ -5557,8 +5452,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-78]]
 
 『世間眾生若得彼利方乃利他， ^5-78
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-79]]
 
 我亦如是得眾生利方利彼者，我與世間有何差別？有何殊異希奇之相？』 ^5-79
 
@@ -5581,8 +5474,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-85]]
 
 舍利子！菩薩摩訶薩於是法中應當修學。 ^5-85
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-86]]
 
 又作是念：『世間眾生互為怨對， ^5-86
 
@@ -5642,8 +5533,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 世間暴惡諸有情，以刀毒等相加害， ^5-101
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-102]]
-
 能和合彼為善友，此則聖賢聰叡相。 ^5-102
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-103]]
@@ -5681,8 +5570,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-111]]
 
 若我善根為瞋害已，復當經於百千大劫方始勤苦修行聖道。 ^5-111
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-112]]
 
 若如是者，阿耨多羅三藐三菩提極難可得， ^5-112
 
@@ -5742,8 +5629,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 不樂無上正等菩提，當知魔業； ^5-127
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-128]]
-
 於餘智慧恒欣求習，當知魔業； ^5-128
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-129]]
@@ -5785,8 +5670,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-138]]
 
 舍利子！我於爾時復作是念： ^5-138
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-139]]
 
 『若有諸善男子守護尸羅具眾善法，於貪瞋癡性輕少者， ^5-139
 
@@ -5837,8 +5720,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-151]]
 
 堪受一切寒熱飢渴、風日、蚊虻蛇蝎等觸，又能堪忍麁惡言說、鄙陋詞句， ^5-151
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-152]]
 
 依身所生猛利諸苦、堅鞕楚辛、奪命至死，如是苦受並能堪忍。 ^5-152
 
@@ -5934,8 +5815,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 行菩薩行攝諸善本令不壞失是菩薩忍， ^5-175
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-176]]
-
 出離眾生逼迫苦惱是菩薩忍， ^5-176
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-177]]
@@ -5982,8 +5861,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 於諸苦事曾無厭惡，苦眾生所深懷戀故。 ^5-187
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-188]]
-
 於諸樂相曾無欣愛，知有為樂性無常故。 ^5-188
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-189]]
@@ -5993,8 +5870,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-190]]
 
 於諸自苦善能堪忍，終不令他受苦惱故。 ^5-190
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-191]]
 
 於勝菩提心無退屈，覺分資糧善圓滿故。 ^5-191
 
@@ -6033,8 +5908,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-201]]
 
 若謂誰能起罵、復何所罵而起忍者，是則名為挍計法忍。 ^5-201
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-203]]
 
 若謂是眼能罵眼耶而起忍者，是則名為觀諸處忍。 ^5-203
 
@@ -6118,8 +5991,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 我忍涅槃不忍生死，舍利子！如是諸忍但得名為治斷之忍，皆非菩薩畢竟忍也。 ^5-227
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-228]]
-
 「復次，舍利子！云何菩薩摩訶薩行於羼底波羅蜜多時，修行菩薩畢竟之忍？ ^5-228
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-229]]
@@ -6153,8 +6024,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-237]]
 
 若隨順空不減有罪，於無罪性亦無增益； ^5-237
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-239]]
 
 如是乃至若隨順空不減生死，於涅槃性亦無增益。 ^5-239
 
@@ -6194,8 +6063,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 由無起故，亦無有盡。 ^5-248
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-249]]
-
 如是忍者，則名菩薩摩訶薩無生之忍。 ^5-249
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-250]]
@@ -6206,11 +6073,7 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 舍利子！若菩薩摩訶薩安住如是羼底波羅蜜多， ^5-251
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-252]]
-
 精勤修學行菩薩行者， ^5-252
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^5-253]]
 
 不為諸魔、魔眾、天子之所擾亂，又亦不為異道邪論所能摧伏。」 ^5-253
 
@@ -6219,8 +6082,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-1]]
 
 大寶積經卷第三十五大唐三藏法師玄奘奉詔譯 ^6-1
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-2]]
 
 菩薩藏會第十二之一 ^6-2
 
@@ -6243,8 +6104,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-8]]
 
 常為眾生說微妙法，開示初善、中善、後善，文義巧妙，純一圓滿，清白梵行。 ^6-8
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-9]]
 
 時四部眾、國王、大臣、種種外道、沙門、婆羅門，及諸長者、天龍、藥叉、人、非人等，以無量上妙衣服、飲食、臥具、醫藥、種種供具奉獻如來。 ^6-9
 
@@ -6275,8 +6134,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-18]]
 
 證於無上正等菩提， ^6-18
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-19]]
 
 與諸大眾來遊此國， ^6-19
 
@@ -6796,15 +6653,11 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 一者、 ^6-149
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-150]]
-
 慳垢染污， ^6-150
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-151]]
 
 二者、 ^6-151
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-152]]
 
 惡戒垢染污， ^6-152
 
@@ -6812,15 +6665,11 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 三者、 ^6-153
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-154]]
-
 瞋垢染污， ^6-154
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-155]]
 
 四者、 ^6-155
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-156]]
 
 懈怠垢染污， ^6-156
 
@@ -6828,15 +6677,11 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 五者、 ^6-157
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-158]]
-
 散亂垢染污， ^6-158
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-159]]
 
 六者、 ^6-159
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-160]]
 
 惡慧垢染污， ^6-160
 
@@ -6844,15 +6689,11 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 七者、 ^6-161
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-162]]
-
 不遵尊教垢染污， ^6-162
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-163]]
 
 八者、 ^6-163
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-164]]
 
 邪疑垢染污， ^6-164
 
@@ -6860,15 +6701,11 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 九者、 ^6-165
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-166]]
-
 不信解垢染污， ^6-166
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-167]]
 
 十者、 ^6-167
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-168]]
 
 不恭敬垢染污。 ^6-168
 
@@ -6908,11 +6745,7 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 「復次，長者！我觀世間一切眾生，為十種纏縛之所纏縛。 ^6-177
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-178]]
-
 何謂為十？ ^6-178
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^6-179]]
 
 一者、由慳嫉網之所纏縛， ^6-179
 
@@ -7106,8 +6939,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 爾時世尊告諸長者： ^7-5
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-6]]
-
 「汝等善聽！ ^7-6
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-7]]
@@ -7294,8 +7125,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 爾時世尊告是五百諸長者曰： ^7-52
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-53]]
-
 「汝等善聽！吾今當說正法之要。 ^7-53
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-54]]
@@ -7470,8 +7299,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 此中都無生者、老者、死者、盡者、起者， 唯有永斷諸趣、清淨寂滅可以歸依， ^7-96
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-97]]
-
 是故汝等應如是知。 ^7-97
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-98]]
@@ -7614,8 +7441,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 若無有生，則無假立老死。 ^7-132
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-133]]
-
 如是，諸長者！ ^7-133
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-134]]
@@ -7669,8 +7494,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-146]]
 
 所謂欲有、色有及無色有， ^7-146
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-147]]
 
 福及非福、不動業等， ^7-147
 
@@ -7978,8 +7801,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 生若是無，則無假立老死。」 ^7-224
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-226]]
-
 爾時佛告諸長者： ^7-226
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-227]]
@@ -7989,8 +7810,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-228]]
 
 依於眾緣，羸劣無力從眾緣轉。 ^7-228
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-229]]
 
 眾緣若有，則有假法； ^7-229
 
@@ -8030,8 +7849,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 眾緣若有，則有假法； ^7-239
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-240]]
-
 眾緣若無，則無假法。 ^7-240
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-241]]
@@ -8045,8 +7862,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-243]]
 
 是故，諸長者！汝等應正觀察如是眾緣，非安隱處難可保持，深生怖懼逃走遠避。 ^7-243
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^7-245]]
 
 復應觀察此是何法？ 因怖何法而來至此？ 汝等如是正觀察時，無法可得、無怖無捨。 ^7-245
 
@@ -8163,8 +7978,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^8-7]]
 
 耳、鼻、舌、身、意亦復如是，不應依止，當如是觀。 ^8-7
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^8-9]]
 
 復次，諸長者！ ^8-9
 
@@ -8355,8 +8168,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^8-56]]
 
 若無煩惱則名為輕。 ^8-56
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^8-57]]
 
 云何為輕？ ^8-57
 
@@ -8567,8 +8378,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^8-109]]
 
 然諸長者！因離無智而智得生。 ^8-109
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^8-110]]
 
 此智不遠離智， ^8-110
 
@@ -9064,8 +8873,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 
 知得羅漢已，於苾芻眾前，及對諸天等， ^8-234
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^8-236]]
-
 大師已問說： ^8-236
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^8-237]]
@@ -9091,8 +8898,6 @@ _「『復次，童子！何等名為時非時捨？ ^3-416
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^8-242]]
 
 證空法現前，解脫諸生死。」 ^8-242
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^8-244]]
 
 大寶積經卷第三十五 ^8-244
 
@@ -9130,15 +8935,11 @@ _爾時佛告舍利子： ^9-2
 
 倍復踊躍，深生歡喜， ^9-8
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-9]]
-
 發希奇想。 ^9-9
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-10]]
 
 舍利子！ ^9-10
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-11]]
 
 何等名為如來十種不思議法？ ^9-11
 
@@ -9181,8 +8982,6 @@ _爾時佛告舍利子： ^9-2
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-21]]
 
 九者、信受如來不思議大悲， ^9-21
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-22]]
 
 十者、信受如來不思議不共佛法。 ^9-22
 
@@ -9405,8 +9204,6 @@ _有能奉信者，{} ^9-73
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-77]]
 
 倍復踊躍，深生歡喜， ^9-77
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-78]]
 
 發希奇想？ ^9-78
 
@@ -9638,15 +9435,11 @@ _有能奉信者，{} ^9-73
 
 不可以大悲增益求、 ^9-135
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-136]]
-
 不可以不共佛法增益求。 ^9-136
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-137]]
 
 舍利子！ ^9-137
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-138]]
 
 菩薩摩訶薩欲求如來身者，當應如幻、如焰、如水中月、如是自性求如來身。 ^9-138
 
@@ -9697,8 +9490,6 @@ _「舍利子！ ^9-139
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-150]]
 
 即是無行行自性身、 ^9-150
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-151]]
 
 即是無識識自性身。 ^9-151
 
@@ -9793,8 +9584,6 @@ _「舍利子！ ^9-139
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-174]]
 
 亦不隨轉。 ^9-174
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-175]]
 
 {安住不動，} ^9-175
 
@@ -10198,8 +9987,6 @@ _信佛聲無疑，_唯聰慧菩薩。 ^9-271
 
 諸菩薩摩訶薩則能信受諦奉， ^9-275
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-276]]
-
 乃至發希奇想。 ^9-276
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-277]]
@@ -10414,8 +10201,6 @@ _「舍利子！我今為汝復說譬喻， ^9-301
 
 云何為識？ ^9-329
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-330]]
-
 」_佛言：「舍利子！有四識住識，依此住故名識住。 ^9-330
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-331]]
@@ -10486,8 +10271,6 @@ _「舍利子！我今為汝復說譬喻， ^9-301
 
 由如此故，生喜住著，轉加增長堅固廣大。 ^9-347
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-348]]
-
 舍利子！如是等相，名之為識。 ^9-348
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-349]]
@@ -10538,8 +10321,6 @@ _「舍利子！我今為汝復說譬喻， ^9-301
 
 是名為識。 ^9-360
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-361]]
-
 所言智者，於內寂靜不行於外，唯依於智，不於一法而生分別及種種分別，是名為智。 ^9-361
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-362]]
@@ -10558,15 +10339,11 @@ _「舍利子！我今為汝復說譬喻， ^9-301
 
 從分別生是名為識。 ^9-365
 
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-366]]
-
 無取無執、無有所緣、無所了別、無有分別，是名為智。 ^9-366
 
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-367]]
 
 又舍利子！ ^9-367
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-368]]
 
 所言識者，住有為法。 ^9-368
 
@@ -10577,8 +10354,6 @@ _「舍利子！我今為汝復說譬喻， ^9-301
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-370]]
 
 無為法中，識不能行。 ^9-370
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-371]]
 
 若能了達無為之法，是名為智。 ^9-371
 
@@ -10685,7 +10460,5 @@ _照明於法界， ^9-396
 ![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-397]]
 
 _無分別離思， ^9-397
-
-![[1-SOURCES/Text/bo-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md#^9-398]]
 
 _佛子能信受。 」 ^9-398

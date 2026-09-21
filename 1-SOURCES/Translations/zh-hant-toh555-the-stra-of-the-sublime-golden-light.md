@@ -8,11 +8,12 @@ language: Classical Chinese
 script: Traditional Chinese
 chinese_register: literary
 file_type: translation
+work_type: root-text
 lang_tag: zh-hant
 edition_class: classical
 footnotes: false
 chapters: 1
-total_verses: 8539
+total_verses: 8367
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md
 covers_verses: 1-1–1-8539
@@ -31,6 +32,8 @@ status: draft
 ---
 
 # 聖金光明最上勝經王大乘經
+
+> [Ed: 65 segment(s) have no counterpart in the Tibetan and carry no transclusion: 1-169, 1-259, 1-618, 1-619, 1-1223, 1-1224, 1-1643, 1-1644 …. The two witnesses disagree on segmentation — resolve before relying on the alignment.]
 
 ## 聖金光明最上勝經王大乘經 ^1-0
 
@@ -702,8 +705,6 @@ status: draft
 
 明慧天子， ^1-168
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-169]]
-
 虛空淨慧天子， ^1-169
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-170]]
@@ -1057,8 +1058,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-258]]
 
 諸惡相現前， ^1-258
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-259]]
 
 天神皆捨離。 ^1-259
 
@@ -1986,11 +1985,7 @@ _善男子！如是當知如來、應、正等覺，說有如是無邊正行。 
 
 大唐三藏沙門義淨奉_制譯 ^1-617
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-618]]
-
 分別三身品第三 ^1-618
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-619]]
 
 爾時， ^1-619
 
@@ -4398,11 +4393,7 @@ _善男子！如是當知如來、應、正等覺，說有如是無邊正行。 
 
 金光明最勝王經 ^1-1222
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-1223]]
-
 夢見金鼓懺悔品第四 ^1-1223
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-1224]]
 
 爾時，妙幢菩薩親於佛前聞妙法已，歡喜踊躍， ^1-1224
 
@@ -6074,11 +6065,7 @@ _爾時世尊聞此說已， ^1-1629
 
 大唐三藏沙門義淨奉_制譯 ^1-1642
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-1643]]
-
 滅業障品第五 ^1-1643
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-1644]]
 
 爾時，世尊住正分別， ^1-1644
 
@@ -6533,8 +6520,6 @@ _爾時世尊聞此說已， ^1-1629
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-1758]]
 
 非法說法。 ^1-1758
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-1759]]
 
 如是眾罪， ^1-1759
 
@@ -7077,8 +7062,6 @@ _爾時世尊聞此說已， ^1-1629
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-1895]]
 
 「專心護三業， ^1-1895
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-1896]]
 
 不誹謗深法； ^1-1896
 
@@ -8077,8 +8060,6 @@ _爾時世尊聞此說已， ^1-1629
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-2146]]
 
 皆同證如是妙覺。 ^1-2146
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-2147]]
 
 猶如無量壽佛、 ^1-2147
 
@@ -9318,11 +9299,7 @@ _爾時世尊聞此說已， ^1-1629
 
 大唐三藏沙門義淨奉_制譯 ^1-2457
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-2458]]
-
 最淨地陀羅尼品第六 ^1-2458
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-2459]]
 
 爾時，師子相無礙光焰菩薩，與無量億眾， ^1-2459
 
@@ -11434,8 +11411,6 @@ _爾時世尊聞此說已， ^1-1629
 
 _大唐三藏沙門義淨奉_制譯 蓮華喻讚品第七 ^1-2987
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-2988]]
-
 爾時，佛告菩提樹神： 「善女天！ ^1-2988
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-2989]]
@@ -11674,8 +11649,6 @@ _流光悉至百千土， ^1-3046
 
 眾生遇者皆出離。 ^1-3048
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3049]]
-
 _佛身成就無量福， ^1-3049
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3050]]
@@ -11685,8 +11658,6 @@ _佛身成就無量福， ^1-3049
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3052]]
 
 _超過三界獨稱尊， ^1-3052
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3053]]
 
 世間殊勝無與等。 ^1-3053
 
@@ -11790,8 +11761,6 @@ _讚佛功德喻蓮華， ^1-3076
 
 _諸佛出世時一現， ^1-3079
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3080]]
-
 於百千劫甚難逢； ^1-3080
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3081]]
@@ -11830,11 +11799,7 @@ _金龍金光是我子， ^1-3089
 
 過去曾為善知識； ^1-3090
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3091]]
-
 _世世願生於我家， ^1-3091
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3093]]
 
 共授無上菩提記。 ^1-3093
 
@@ -11910,8 +11875,6 @@ _諸有緣者悉同生， ^1-3112
 
 皆得速成清淨智。 ^1-3113
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3114]]
-
 _妙幢汝當知， ^1-3114
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3115]]
@@ -11954,11 +11917,7 @@ _願現在未來，常依此懺悔。 ^1-3123
 
 金光明最勝王經 ^1-3125
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3126]]
-
 金勝陀羅尼品第八 ^1-3126
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3127]]
 
 爾時，世尊復於眾中 ^1-3127
 
@@ -12414,11 +12373,7 @@ _願現在未來，常依此懺悔。 ^1-3123
 
 金光明最勝王經 ^1-3241
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3242]]
-
 重顯空性品第九 ^1-3242
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3243]]
 
 爾時，世尊說此呪已， ^1-3243
 
@@ -12982,11 +12937,7 @@ _時諸大眾聞佛說此甚深空性， ^1-3376
 
 金光明最勝王經 ^1-3384
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3385]]
-
 依空滿願品第十 ^1-3385
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3386]]
 
 爾時，如意寶光耀天女於大眾中， ^1-3386
 
@@ -14454,8 +14405,6 @@ _時諸大眾聞佛說此甚深空性， ^1-3376
 
 {} ^1-3754
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3755]]
-
 爾時，多聞天王、 ^1-3755
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3756]]
@@ -14885,8 +14834,6 @@ _時諸大眾聞佛說此甚深空性， ^1-3376
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3863]]
 
 卷第六_大唐三藏沙門義淨奉_制譯_{} ^1-3863
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-3864]]
 
 爾時， ^1-3864
 
@@ -16169,8 +16116,6 @@ _時諸大眾聞佛說此甚深空性， ^1-3376
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-4184]]
 
 於虛空中 ^1-4184
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-4185]]
 
 變成香蓋。 ^1-4185
 
@@ -17658,8 +17603,6 @@ _時諸大眾聞佛說此甚深空性， ^1-3376
 
 (此是根本梵音，惟目貝齒而隨方不定，或是貝齒，或是金銀銅鐵等錢，然摩揭陀現今通用一迦利沙波拏有一千六百貝齒，總數可以准知，若准物直隨處不定。 若人持呪得成就者，獲物之時自知其數。 有本云：每日與一百陳那羅，即金錢也。 乃至盡形日日常得，西方求者多有神驗，除不至心也)。 ^1-4557
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-4558]]
-
 「其持呪者見是相已， ^1-4558
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-4559]]
@@ -17981,8 +17924,6 @@ _「世尊！若持呪時， ^1-4594
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-4638]]
 
 (自稱己名) ^1-4638
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-4639]]
 
 達哩設那迦末寫達哩設南_ ^1-4639
 
@@ -18394,11 +18335,7 @@ _「世尊！若持呪時， ^1-4594
 
 皆蒙擁護得安寧。 _ ^1-4741
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-4742]]
-
 亦使此中諸有情， ^1-4742
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-4743]]
 
 除眾病苦無賊盜；_ ^1-4743
 
@@ -19038,11 +18975,7 @@ _「世尊！若持呪時， ^1-4594
 
 金光明最勝王經 ^1-4905
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-4906]]
-
 如意寶珠品第十四 ^1-4906
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-4907]]
 
 爾時，世尊於大眾中， ^1-4907
 
@@ -21142,11 +21075,7 @@ _「世尊！若持呪時， ^1-4594
 
 (此品呪法有略有廣，或開或合前後不同，梵本既多，但依一譯，後勘者知之) ^1-5433
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-5434]]
-
 金光明最勝王經卷第八大唐三藏沙門義淨奉制譯 ^1-5434
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-5435]]
 
 大辯才天女品第十五之二 ^1-5435
 
@@ -21830,11 +21759,7 @@ _「世尊！若持呪時， ^1-4594
 
 {} ^1-5605
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-5606]]
-
 {} ^1-5606
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-5607]]
 
 爾時，大吉祥天女即從座起， ^1-5607
 
@@ -22034,11 +21959,7 @@ _佛告大吉祥天女： ^1-5650
 
 金光明最勝王經 ^1-5656
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-5657]]
-
 大吉祥天女增長財物品第十七 ^1-5657
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-5658]]
 
 爾時，大吉祥天女復白佛言： ^1-5658
 
@@ -22918,8 +22839,6 @@ _佛告大吉祥天女： ^1-5650
 
 共作是言 ^1-5878
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-5879]]
-
 ：『我等今者得聞甚深無上妙法， ^1-5879
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-5880]]
@@ -23522,8 +23441,6 @@ _佛告大吉祥天女： ^1-5650
 
 僧慎爾耶藥叉大將品第十九 ^1-6030
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6031]]
-
 爾時，僧慎爾耶藥叉大將， ^1-6031
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6032]]
@@ -23994,8 +23911,6 @@ _佛告大吉祥天女： ^1-5650
 
 「善哉！善哉！ ^1-6148
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6149]]
-
 汝能如是利益一切眾生，說此神呪， ^1-6149
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6150]]
@@ -24010,11 +23925,7 @@ _佛告大吉祥天女： ^1-5650
 
 金光明最勝王經 ^1-6153
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6154]]
-
 王法正論品第二十 ^1-6154
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6155]]
 
 爾時，此大地神女， ^1-6155
 
@@ -25370,11 +25281,7 @@ _爾時，大地一切人王及諸大眾， ^1-6488
 
 _大唐三藏沙門義淨奉_制譯 ^1-6494
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6495]]
-
 善生王品第二十一 ^1-6495
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6496]]
 
 爾時，世尊為諸大眾說王法正論已， ^1-6496
 
@@ -25918,11 +25825,7 @@ _爾時大眾聞是說已，歎未曾有， ^1-6629
 
 {} ^1-6632
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6633]]
-
 {} ^1-6633
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6634]]
 
 爾時，世尊告大吉祥天女曰： ^1-6634
 
@@ -26602,8 +26505,6 @@ _此等藥叉王， ^1-6801
 
 _見聽此經者， ^1-6803
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6804]]
-
 皆來共擁護。 ^1-6804
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6805]]
@@ -26990,8 +26891,6 @@ _所有諸果樹， ^1-6898
 
 _悉皆生妙花， ^1-6900
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6901]]
-
 香氣常芬馥。 ^1-6901
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6902]]
@@ -27198,11 +27097,7 @@ _若此金光明， ^1-6944
 
 金光明最勝王經 ^1-6952
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6953]]
-
 授記品第二十三 ^1-6953
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-6954]]
 
 爾時，如來於大眾中 ^1-6954
 
@@ -27586,11 +27481,7 @@ _若此金光明， ^1-6944
 
 金光明最勝王經 ^1-7050
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-7051]]
-
 除病品第二十四 ^1-7051
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-7052]]
 
 佛告菩提樹神善女天： ^1-7052
 
@@ -28342,11 +28233,7 @@ _若此金光明， ^1-6944
 
 金光明最勝王經 ^1-7240
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-7241]]
-
 長者子流水品第二十五 ^1-7241
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-7242]]
 
 爾時，佛告菩提樹神： ^1-7242
 
@@ -29462,8 +29349,6 @@ _若此金光明， ^1-6944
 
 金光明最勝王經卷第十_大唐三藏沙門義淨奉_制譯 ^1-7521
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-7522]]
-
 捨身品第二十六 ^1-7522
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-7524]]
@@ -30229,8 +30114,6 @@ _若此金光明， ^1-6944
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-7714]]
 
 時諸神仙捧接王子，曾無傷損。 ^1-7714
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-7715]]
 
 復作是念：『虎今羸瘦，不能食我。』 ^1-7715
 
@@ -31930,8 +31813,6 @@ _若此金光明， ^1-6944
 
 {} ^1-8140
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-8141]]
-
 爾時，釋迦牟尼如來說是經時， ^1-8141
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-8142]]
@@ -32186,8 +32067,6 @@ _若此金光明， ^1-6944
 
 {} ^1-8204
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-8205]]
-
 爾時， ^1-8205
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-8206]]
@@ -32377,8 +32256,6 @@ _若此金光明， ^1-6944
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-8252]]
 
 {} ^1-8252
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-8253]]
 
 爾時， ^1-8253
 
@@ -32626,8 +32503,6 @@ _若此金光明， ^1-6944
 
 {} ^1-8316
 
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-8317]]
-
 爾時， ^1-8317
 
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-8318]]
@@ -32645,8 +32520,6 @@ _若此金光明， ^1-6944
 ![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-8321]]
 
 南無 ^1-8321
-
-![[1-SOURCES/Text/bo-toh555-the-stra-of-the-sublime-golden-light.md#^1-8322]]
 
 釋迦牟尼如來應正等覺！ ^1-8322
 

@@ -7,6 +7,8 @@ author_in_english: n/a
 language: Tibetan
 script: Unicode Tibetan
 file_type: root-text
+work_type: treatise
+work_type_evidence: authored (n/a), title does not mark it as a commentary
 lang_tag: bo
 chapters: 1
 total_verses: 28

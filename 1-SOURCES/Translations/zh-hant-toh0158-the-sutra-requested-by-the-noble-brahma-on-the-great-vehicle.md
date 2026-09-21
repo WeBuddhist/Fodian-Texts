@@ -8,11 +8,12 @@ language: Classical Chinese
 script: Traditional Chinese
 chinese_register: literary
 file_type: translation
+work_type: root-text
 lang_tag: zh-hant
 edition_class: classical
 footnotes: true
 chapters: 1
-total_verses: 301
+total_verses: 299
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/bo-toh0158-the-sutra-requested-by-the-noble-brahma-on-the-great-vehicle.md
 covers_verses: 1-1–1-301

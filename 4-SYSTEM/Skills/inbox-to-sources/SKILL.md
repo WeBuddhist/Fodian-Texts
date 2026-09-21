@@ -1,6 +1,6 @@
 ---
 name: inbox-to-sources
-description: Promote reviewed inbox texts into `1-SOURCES/` — one Tibetan root text per work in `Text/`, one file per distinct Chinese edition in `Translations/`, with multi-document works joined into chapters, block IDs restamped into the vault's `^chapter-verse` scheme, every Chinese segment preceded by a transclusion of its Tibetan counterpart, and the sheet's metadata carried into frontmatter. Use after the inbox files have been checked by a human.
+description: Promote reviewed inbox texts into `1-SOURCES/` — routing each work to `Text/` or `Commentaries/` by what it is, one file per distinct Chinese edition, with multi-document works joined into chapters, block IDs restamped into the vault's `^chapter-verse` scheme, every Chinese segment preceded by a transclusion of its Tibetan counterpart, and the sheet's metadata carried into frontmatter. Use after the inbox files have been checked by a human.
 ---
 
 # inbox-to-sources
@@ -29,7 +29,9 @@ Run `sheet-to-inbox` first. This skill reads only the inbox; it never re-downloa
 
 | Path | Contents |
 |---|---|
-| `1-SOURCES/Text/bo-<toh>-<slug>.md` | One Tibetan root text per work. |
+| `1-SOURCES/Text/bo-<toh>-<slug>.md` | Tibetan witness of a root text or treatise. |
+| `1-SOURCES/Commentaries/{bo,zh-hant}-<toh>-<slug>.md` | **Both** witnesses of a commentary — `About Sources.md` names this folder `[lang]-[commentary-name].md`, so a commentary lives here in every language. |
+| `1-SOURCES/INVENTORY.md` | Generated tally: texts by type, Chinese witnesses by register, and what each commentary comments on. |
 | `1-SOURCES/Translations/<tag>-<toh>-<slug>.md` | One file per distinct Chinese edition; `<tag>` is `zh-hant`, `zh-hans` or `zh-modern`. |
 | `0-INBOX/raw-data/pecha-sheet/sources-plan.json` | The grouping decision, written by `plan`. |
 | `0-INBOX/raw-data/pecha-sheet/sources-write-report.json` | Per-file segment counts, transclusion gaps, footnote state. |
@@ -127,17 +129,19 @@ footnotes_note: "the sheet labels this witness differently from what the documen
 ## Rules
 
 1. **Block IDs follow `4-SYSTEM/CLAUDE.md` §5 and §5a.** `^chapter-verse`, chapter = part ordinal (1 for a single-document work), verse = segment number within that part. `##` headings take `^N-0`; the `#` title takes no block ID; nothing is zero-padded.
-2. **An empty Chinese segment is dropped, not transcluded.** The Chinese witnesses keep an empty numbered slot wherever the Tibetan has a segment they do not render — that is how the source documents hold the alignment. Carried into Obsidian verbatim, each blank would pull in a Tibetan transclusion the Chinese does not translate. Drop the empty segments; the survivors keep their true IDs, so segment 9 still aligns with Tibetan segment 9 even when 1–8 are gone. A Tibetan segment with no Chinese counterpart is simply not transcluded anywhere.
-3. **Segment identity is line position, and `segment_count:` is authoritative.** Read exactly that many lines from the inbox `## Text` section. Trimming trailing blank lines instead drops a genuinely empty final segment and shifts nothing visible — an off-by-one that only surfaces later as a misaligned transclusion.
-4. **Literary and modern Chinese are different texts.** `zh-hant` (literary, traditional script), `zh-hans` (simplified) and `zh-modern` each get their own file, named by that tag and carrying `chinese_register:` and `script:` in frontmatter, so a reviewer can tell at a glance which they are reading. Only footnoted/un-footnoted copies of the *same* rendering collapse together.
-5. **Transclusions are joined by ID, never by position.** A Chinese segment with no Tibetan segment of the same ID gets no transclusion, and the file opens with an editorial note naming the affected IDs. Never shift segments to make counts agree.
-6. **A transclusion line never takes a block ID** and never advances the verse counter — it is structural, not content.
-7. **Footnoted and un-footnoted copies are one edition; scripts and registers are not.** `with-footnote` / `without-footnote` / plain collapse into one file (richest witness wins, the rest recorded in `superseded_witnesses:`). Simplified-script and modern-Chinese editions keep their own files — a modern rendering is a different translation, not a copy.
-8. **`footnotes:` states what the document contains**, not what the sheet claims. Where they disagree, record both and say so.
-9. **Catalogue numbers come from the sheet, titles from the document filename.** The filenames pack `Toh####`, `kp####`, `Tai####`, a part number, a version and a language around the title; the title field gets the title alone and each ID its own field. But the *values* for `toh:`/`taisho:` come from the sheet, which is authoritative — one filename carries an internal code (`MRK-T46-…`) that parses as a Taishō number and is not one.
-10. **A work with no segmented Tibetan witness is skipped, not guessed at.** Report it.
-11. **Rows flagged `cluster_uncertain` are excluded entirely** — the sheet does not establish which text they belong to.
-12. **Never edit an existing `1-SOURCES/` file in place.** This skill writes whole files. Re-running overwrites its own output; it does not merge.
+2. **Work type decides the folder, and it is read from the sheet — never from the category column.** Author is the discriminator: the Buddha as author means buddhavacana (`root-text`); a named human author means an authored treatise, and its title then says whether it comments on something (`commentary`) or not (`treatise`). The category column cannot do this job — `4.1 唯識宗阿毗達磨釋論` ("Yogācāra Abhidharma commentarial treatises") contains both Asaṅga's Abhidharmasamuccaya, a root treatise, and Jinaputra's commentary on it. `root-text` and `treatise` go to `Text/`; `commentary` goes to `Commentaries/` along with its Chinese witness.
+3. **A commentary is linked to its root only on exact evidence.** `commentary_on:` is recorded when the commentary's Chinese title is a corpus title plus a commentary suffix — `三身讚註釋` minus `註釋` is `三身讚`. Looser matching (substring overlap, English paraphrase) pairs texts that merely share vocabulary. Where no exact match exists, leave it blank, say so in `commentary_on_note:`, and list it in the inventory for a human.
+4. **An empty segment is dropped on both sides, and never transcluded.** The Chinese witnesses keep an empty numbered slot wherever the Tibetan has a segment they do not render, and the Tibetan does the same in reverse. Carried into Obsidian verbatim, each blank either pulls in a transclusion of text its counterpart does not translate, or renders as an empty block. Drop empty segments from both the root and the translation; survivors keep their true IDs, so segment 9 still aligns with segment 9. A segment whose counterpart is empty or absent gets no transclusion at all.
+6. **Segment identity is line position, and `segment_count:` is authoritative.** Read exactly that many lines from the inbox `## Text` section. Trimming trailing blank lines instead drops a genuinely empty final segment and shifts nothing visible — an off-by-one that only surfaces later as a misaligned transclusion.
+7. **Literary and modern Chinese are different texts.** `zh-hant` (literary, traditional script), `zh-hans` (simplified) and `zh-modern` each get their own file, named by that tag and carrying `chinese_register:` and `script:` in frontmatter, so a reviewer can tell at a glance which they are reading. Only footnoted/un-footnoted copies of the *same* rendering collapse together.
+8. **Transclusions are joined by ID, never by position.** A Chinese segment with no Tibetan segment of the same ID gets no transclusion, and the file opens with an editorial note naming the affected IDs. Never shift segments to make counts agree.
+9. **A transclusion line never takes a block ID** and never advances the verse counter — it is structural, not content.
+10. **Footnoted and un-footnoted copies are one edition; scripts and registers are not.** `with-footnote` / `without-footnote` / plain collapse into one file (richest witness wins, the rest recorded in `superseded_witnesses:`). Simplified-script and modern-Chinese editions keep their own files — a modern rendering is a different translation, not a copy.
+11. **`footnotes:` states what the document contains**, not what the sheet claims. Where they disagree, record both and say so.
+12. **Catalogue numbers come from the sheet, titles from the document filename.** The filenames pack `Toh####`, `kp####`, `Tai####`, a part number, a version and a language around the title; the title field gets the title alone and each ID its own field. But the *values* for `toh:`/`taisho:` come from the sheet, which is authoritative — one filename carries an internal code (`MRK-T46-…`) that parses as a Taishō number and is not one.
+13. **A work with no segmented Tibetan witness is skipped, not guessed at.** Report it.
+14. **Rows flagged `cluster_uncertain` are excluded entirely** — the sheet does not establish which text they belong to.
+15. **Never edit an existing `1-SOURCES/` file in place.** This skill writes whole files. Re-running overwrites its own output; it does not merge.
 
 ---
 
@@ -177,7 +181,9 @@ Report to the human contributor:
 - [ ] One `1-SOURCES/Translations/` file per distinct Chinese edition, with `root_text:` pointing at its root
 - [ ] Block IDs are `^chapter-verse` throughout; `##` headings carry `^N-0`; no transclusion line carries a block ID
 - [ ] Every transclusion resolves to a block ID that exists in the named root file
-- [ ] No empty segment survives in a translation, and no transclusion is left dangling without its segment
+- [ ] `INVENTORY.md` regenerated, and every commentary without an identified root listed there for a human
+- [ ] Each work filed by its `work_type`: `root-text`/`treatise` → `Text/`, `commentary` → `Commentaries/` with its Chinese witness
+- [ ] No empty segment survives anywhere, no transclusion points at an empty segment, and no transclusion is left dangling without its segment
 - [ ] Written `total_verses` equals the segmentation recorded in the inbox manifest
 - [ ] Every segment without a counterpart is left un-transcluded and named in the file's editorial note
 - [ ] `superseded_witnesses:` lists every witness collapsed into each edition

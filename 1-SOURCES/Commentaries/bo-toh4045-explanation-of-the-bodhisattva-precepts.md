@@ -6,10 +6,12 @@ author: སློབ་དཔོན་ཡོན་ཏན་འོད།
 author_in_english: Master of Merit and Light
 language: Tibetan
 script: Unicode Tibetan
-file_type: root-text
+file_type: commentary
+work_type: commentary
+work_type_evidence: "English title: 'Explanation of the Bodhisattva Precepts'"
 lang_tag: bo
 chapters: 1
-total_verses: 334
+total_verses: 332
 verse_id_format: chapter-verse
 toh: toh4045
 taisho: ""
@@ -27,6 +29,8 @@ sheet_rows: [173]
 parts: [toh4045-kp0040]
 promoted_from: [toh4045-kp0040-bo]
 promoted: 2026-09-21
+commentary_on: ""
+commentary_on_note: root text not identified automatically — the title match was not exact; confirm by hand
 status: draft
 ---
 
@@ -37,8 +41,6 @@ status: draft
 ## བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་ཁྲིམས་ཀྱི་ལེའུ་འགྲེལ་བ་བཞུགས་སོ། ^1-0
 
 ༄། །བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་ཁྲིམས་ཀྱི་ལེའུ་འགྲེལ་བ་བཞུགས་སོ། ། ^1-1
-
- ^1-2
 
 ༄༅༅། །བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་ཁྲིམས་ཀྱི་ལེའུ་བཤད་པ། ^1-3
 
@@ -701,5 +703,3 @@ status: draft
 རྒྱ་གར་གྱི་མཁན་པོ་པྲ་ཛྙཱ་ཝརྨ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བེནྡེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པའོ། ^1-332
 
 བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་ཁྲིམས་ཀྱི་ལེའུ་རྒྱ་ཆེར་འགྲེལ་པ་བཞུགས། ^1-333
-
- ^1-334

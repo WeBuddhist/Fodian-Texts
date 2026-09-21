@@ -7,6 +7,8 @@ author_in_english: Buddha Bhagavan
 language: Tibetan
 script: Unicode Tibetan
 file_type: root-text
+work_type: root-text
+work_type_evidence: author is the Buddha (buddhavacana)
 lang_tag: bo
 chapters: 1
 total_verses: 42

@@ -8,13 +8,14 @@ language: Classical Chinese
 script: Traditional Chinese
 chinese_register: literary
 file_type: translation
+work_type: root-text
 lang_tag: zh-hant
 edition_class: classical
 footnotes: false
 footnotes_sheet_label: true
 footnotes_note: "the sheet labels this witness differently from what the document contains"
 chapters: 1
-total_verses: 1131
+total_verses: 1116
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/bo-toh0198-the-rya-maitreya-initiates-the-great-vehicle-stra.md
 covers_verses: 1-1–1-1131
@@ -34,7 +35,7 @@ status: draft
 
 # 聖彌勒發趣大乘經 zh
 
-> [Ed: 100 segment(s) have no counterpart in the Tibetan and carry no transclusion: 1-1031, 1-1032, 1-1033, 1-1034, 1-1035, 1-1036, 1-1037, 1-1038 …. The two witnesses disagree on segmentation — resolve before relying on the alignment.]
+> [Ed: 102 segment(s) have no counterpart in the Tibetan and carry no transclusion: 1-921, 1-982, 1-1031, 1-1032, 1-1033, 1-1034, 1-1035, 1-1036 …. The two witnesses disagree on segmentation — resolve before relying on the alignment.]
 
 ## 聖彌勒發趣大乘經 zh ^1-0
 
@@ -3674,8 +3675,6 @@ status: draft
 
 讚歎於僧、 ^1-920
 
-![[1-SOURCES/Text/bo-toh0198-the-rya-maitreya-initiates-the-great-vehicle-stra.md#^1-921]]
-
 讚歎大乘， ^1-921
 
 ![[1-SOURCES/Text/bo-toh0198-the-rya-maitreya-initiates-the-great-vehicle-stra.md#^1-922]]
@@ -3909,8 +3908,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh0198-the-rya-maitreya-initiates-the-great-vehicle-stra.md#^1-981]]
 
 五千比丘當永盡諸漏， ^1-981
-
-![[1-SOURCES/Text/bo-toh0198-the-rya-maitreya-initiates-the-great-vehicle-stra.md#^1-982]]
 
 得心解脫； ^1-982
 

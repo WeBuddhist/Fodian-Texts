@@ -6,7 +6,9 @@ author: མི་གསལ།
 author_in_english: n/a
 language: Tibetan
 script: Unicode Tibetan
-file_type: root-text
+file_type: commentary
+work_type: commentary
+work_type_evidence: "English title: 'Commentary on the Difficult Points of the Wisdom and Dedicat'"
 lang_tag: bo
 chapters: 1
 total_verses: 520
@@ -27,6 +29,8 @@ sheet_rows: [177]
 parts: [toh3877-kp0034]
 promoted_from: [toh3877-kp0034-bo]
 promoted: 2026-09-21
+commentary_on: ""
+commentary_on_note: root text not identified automatically — the title match was not exact; confirm by hand
 status: draft
 ---
 

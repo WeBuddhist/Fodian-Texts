@@ -8,11 +8,12 @@ language: Modern Chinese
 script: Traditional Chinese
 chinese_register: modern
 file_type: translation
+work_type: root-text
 lang_tag: zh-modern
 edition_class: modern
 footnotes: false
 chapters: 1
-total_verses: 32
+total_verses: 15
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md
 covers_verses: 1-1–1-32
