@@ -27,7 +27,7 @@ sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_rows: [28, 30]
 parts: [toh44a-tai278, toh44a-tai279]
 promoted_from: [toh44a-tai278-bo, toh44a-tai279-bo]
-promoted: 2026-09-18
+promoted: 2026-09-21
 status: draft
 ---
 

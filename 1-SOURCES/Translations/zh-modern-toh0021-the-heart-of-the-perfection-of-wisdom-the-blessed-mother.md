@@ -6,6 +6,7 @@ alt_titles:
 author: 佛世尊
 language: Modern Chinese
 script: Traditional Chinese
+chinese_register: modern
 file_type: translation
 lang_tag: zh-modern
 edition_class: modern
@@ -25,7 +26,7 @@ source_description: CBETA
 sheet_rows: [244]
 promoted_from: [toh0021-zh-modern]
 superseded_witnesses: []
-promoted: 2026-09-18
+promoted: 2026-09-21
 status: draft
 ---
 
@@ -36,34 +37,6 @@ status: draft
 ![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-1]]
 
 《般若波羅蜜多心經》略稱《般若心經》、《心經》，本經是民間傳誦最廣、篇幅最短的經典，舉凡灑淨、消災、超薦等法會，都會讀誦此經。「心」之梵語為hṛdaya，心臟，指核心、精要、心髓等意，本經文句簡約而賅攝般若甚深廣大之義，得其心要，是600卷《大般若經》之濃縮、核心、精要。 ^1-1
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-2]]
-
- ^1-2
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-3]]
-
- ^1-3
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-4]]
-
- ^1-4
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-5]]
-
- ^1-5
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-6]]
-
- ^1-6
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-7]]
-
- ^1-7
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-8]]
-
- ^1-8
 
 ![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-9]]
 
@@ -77,21 +50,9 @@ status: draft
 
 舍利弗！ ^1-11
 
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-12]]
-
- ^1-12
-
 ![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-13]]
 
 色不相異於空，空不相異於色；色就是空，空就是色。 ^1-13
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-14]]
-
- ^1-14
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-15]]
-
- ^1-15
 
 ![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-16]]
 
@@ -132,31 +93,3 @@ status: draft
 ![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-25]]
 
 揭帝．揭帝．般羅揭帝．般羅僧揭帝．菩提．僧莎訶。 ^1-25
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-26]]
-
- ^1-26
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-27]]
-
- ^1-27
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-28]]
-
- ^1-28
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-29]]
-
- ^1-29
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-30]]
-
- ^1-30
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-31]]
-
- ^1-31
-
-![[1-SOURCES/Text/bo-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md#^1-32]]
-
- ^1-32

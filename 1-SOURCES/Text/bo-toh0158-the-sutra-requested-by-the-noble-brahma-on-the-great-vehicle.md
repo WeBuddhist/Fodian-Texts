@@ -26,7 +26,7 @@ sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_rows: [152]
 parts: [toh0158-kp0013]
 promoted_from: [toh0158-kp0013-bo]
-promoted: 2026-09-18
+promoted: 2026-09-21
 status: draft
 ---
 

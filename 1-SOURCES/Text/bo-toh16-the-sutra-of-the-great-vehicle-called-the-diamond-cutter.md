@@ -27,9 +27,13 @@ sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_rows: [254]
 parts: [toh16]
 promoted_from: [toh16-bo]
-promoted: 2026-09-18
+promoted: 2026-09-21
 status: draft
 ---
+
+# འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །
+
+*The Sutra of the Great Vehicle Called the Diamond Cutter*
 
 ## འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་བཞུགས་སོ། ། ^1-0
 

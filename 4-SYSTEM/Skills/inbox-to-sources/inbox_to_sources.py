@@ -205,7 +205,14 @@ FOOTNOTE_DEF = re.compile(r"^\[\^(\d+)\]: ")
 
 
 def read_inbox(path):
-    """Return (frontmatter_dict_lite, segments[list of (id,text)], footnote_defs)."""
+    """Return (frontmatter, segments, footnote_defs) for one inbox file.
+
+    The inbox body carries the text alone — no segment numbers, no anchors.
+    Segment identity is line position inside the `## Text` section: line N is
+    segment N, and an empty line is an empty segment. Reading by position is
+    what lets a proofreader correct spelling in the inbox and have the fix
+    flow through here, as long as no line is added or removed.
+    """
     raw = open(path, encoding="utf-8").read()
     m = re.match(r"^---\n(.*?)\n---\n", raw, re.S)
     fm, body = (m.group(1), raw[m.end():]) if m else ("", raw)
@@ -214,15 +221,40 @@ def read_inbox(path):
         mm = re.match(r"^([a-z_]+):\s*(.*)$", line)
         if mm:
             meta[mm.group(1)] = mm.group(2).strip().strip('"')
+
+    tm = re.search(r"^## Text\s*$", body, re.M)
+    if not tm:
+        return meta, [], []
+    tail = body[tm.end():]
+    lines = tail.split("\n")
+    # drop the single blank line the heading is followed by
+    if lines and lines[0].strip() == "":
+        lines = lines[1:]
+
     segs, notes = [], []
-    for line in body.split("\n"):
+    for line in lines:
         if FOOTNOTE_DEF.match(line):
             notes.append(line)
             continue
-        sm = SEG_LINE.match(line)
-        if sm:
-            segs.append((sm.group("id"), sm.group("text").strip()))
-    return meta, segs, notes
+        if line.startswith("> [Ed:"):
+            continue
+        segs.append(line.rstrip())
+
+    # `segment_count` from the frontmatter is authoritative. Trimming trailing
+    # blanks instead would silently drop a genuinely empty final segment and
+    # shift nothing visible — the kind of off-by-one that only shows up later
+    # as a misaligned transclusion.
+    try:
+        want = int(meta.get("segment_count", "0"))
+    except ValueError:
+        want = 0
+    if want:
+        segs = (segs + [""] * want)[:want]
+    else:
+        while segs and segs[-1].strip() == "":
+            segs.pop()
+        segs = []          # unsegmented: no alignment is recoverable
+    return meta, [(str(i), t.strip()) for i, t in enumerate(segs, start=1)], notes
 
 
 def slugify_ascii(text, fallback=""):
@@ -243,27 +275,35 @@ def yq(v):
     return s
 
 
-def render_text(parts, meta, heading_of, transclude_root=None, gaps=None):
-    """Render body: one `##` chapter per part, `^chapter-verse` on every block."""
+def render_text(parts, meta, heading_of, transclude_root=None, gaps=None,
+                drop_empty=False):
+    """Render body: one `##` chapter per part, `^chapter-verse` on every block.
+
+    With `drop_empty`, a segment whose text is empty is omitted entirely.
+    The Chinese witnesses keep an empty numbered slot wherever the Tibetan
+    has a segment they do not render — that is how the source documents hold
+    the alignment. Carried into Obsidian verbatim, those blanks would each
+    pull in a Tibetan transclusion the Chinese does not translate. The
+    surviving segments keep their true IDs, so segment 9 still aligns with
+    Tibetan segment 9 even when 1-8 are dropped.
+    """
     out = []
     for p in parts:
         ch = p["chapter"]
         out.append("## %s ^%d-0" % (heading_of(p), ch))
         out.append("")
         for i, (_sid, text) in enumerate(p["segments"], start=1):
+            if drop_empty and not text.strip():
+                continue
             if transclude_root is not None:
                 if (ch, i) in transclude_root:
                     out.append("![[%s#^%d-%d]]" % (transclude_root[(ch, i)], ch, i))
                     out.append("")
                 elif gaps is not None:
                     gaps.append("%d-%d" % (ch, i))
-            out.append("%s ^%d-%d" % (text if text else "", ch, i))
+            out.append("%s ^%d-%d" % (text, ch, i))
             out.append("")
     return "\n".join(out)
-
-
-
-
 
 
 def stage_write(plan, records, manifest, vault="."):
@@ -392,7 +432,15 @@ def stage_write(plan, records, manifest, vault="."):
                 v = R[parts[0]["slug"]]["variant"]
                 declared = True if v == "with-footnote" else (False if v == "without-footnote" else None)
             footnotes = has_notes
-            tag = {"classical": "zh", "simplified": "zh-hans", "modern": "zh-modern"}.get(cls, cls)
+            # Register and script are what a reviewer needs to tell these
+            # apart: literary Chinese and a modern-Chinese rendering of the
+            # same sutra are different texts, not copies. Both the filename
+            # and the frontmatter say which is which.
+            tag, register, script = {
+                "classical":  ("zh-hant",  "literary", "Traditional Chinese"),
+                "simplified": ("zh-hans",  "literary", "Simplified Chinese"),
+                "modern":     ("zh-modern", "modern",  "Traditional Chinese"),
+            }.get(cls, (cls, "", ""))
             tname = "%s-%s.md" % (tag, stem)
             tpath = os.path.join(trdir, tname)
 
@@ -412,7 +460,8 @@ def stage_write(plan, records, manifest, vault="."):
                 zfm.append("  - en: %s" % yq(en_title))
             zfm += ["author: %s" % yq(zr["author_orig"]),
                     "language: %s" % yq(zr["language"]),
-                    "script: %s" % yq("Simplified Chinese" if cls == "simplified" else "Traditional Chinese"),
+                    "script: %s" % yq(script),
+                    "chinese_register: %s" % yq(register),
                     "file_type: translation",
                     "lang_tag: %s" % yq(tag),
                     "edition_class: %s" % yq(cls),
@@ -440,7 +489,8 @@ def stage_write(plan, records, manifest, vault="."):
                     "status: draft",
                     "---", ""]
             zbody = ["# %s" % zh_title, ""]
-            rendered = render_text(parts, zr, heading_zh, transclude_root=transclude, gaps=gaps)
+            rendered = render_text(parts, zr, heading_zh, transclude_root=transclude,
+                                   gaps=gaps, drop_empty=True)
             if gaps:
                 zbody += ["> [Ed: %d segment(s) have no counterpart in the Tibetan and carry "
                           "no transclusion: %s. The two witnesses disagree on segmentation — "

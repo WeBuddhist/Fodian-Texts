@@ -27,7 +27,7 @@ sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_rows: [33]
 parts: [toh555-tai665]
 promoted_from: [toh555-tai665-bo]
-promoted: 2026-09-18
+promoted: 2026-09-21
 status: draft
 ---
 

@@ -996,6 +996,40 @@ def build_frontmatter(rec, body_status, retrieved, seg=None):
     return "\n".join(f)
 
 
+SEG_FULL_RE = re.compile(
+    r"^[ \t]*(?:\d{1,5}\.)?[ \t]*(?P<text>.*?)[ \t]*\^s(?P<id>[0-9a-z-]+)[ \t]*$")
+FOOTNOTE_DEF_RE = re.compile(r"^\[\^\d+\]: ")
+
+
+def clean_segments(text):
+    """Strip the segment markup, keeping one segment per line.
+
+    The inbox file is what a human proofreader reads and corrects, so it
+    carries the text and nothing else — no leading segment number, no
+    trailing `^sN` anchor. Segment identity survives as **line position**:
+    line N of the Text section is segment N, and an empty segment is an
+    empty line. That is why no blank lines are inserted between segments —
+    adding or removing a line here silently renumbers everything after it.
+    """
+    seg_lines, notes, plain = [], [], []
+    for line in (text or "").split("\n"):
+        if FOOTNOTE_DEF_RE.match(line):
+            notes.append(line)
+            continue
+        m = SEG_FULL_RE.match(line)
+        if m:
+            # One segment occupies exactly one line, because line position is
+            # the only thing carrying segment identity now. A `<w:br/>` inside
+            # a Word paragraph would otherwise split one segment across two
+            # lines and renumber everything after it.
+            seg_lines.append(re.sub(r"\s*\n\s*", " ", m.group("text")).strip())
+        else:
+            plain.append(line)
+    if not seg_lines:
+        return None, notes, "\n".join(plain).strip()
+    return seg_lines, notes, None
+
+
 def build_body(rec, text, body_status):
     title = rec["name_long"] or rec["name_short"] or rec["name_en"] or rec["slug"]
     out = ["", "# %s" % title, ""]
@@ -1018,7 +1052,13 @@ def build_body(rec, text, body_status):
 
     out += ["## Text", ""]
     if text is not None:
-        out += [text.rstrip(), ""]
+        segs, notes, plain = clean_segments(text)
+        if segs is not None:
+            out += ["\n".join(segs), ""]
+        else:
+            out += [plain, ""]
+        if notes:
+            out += notes + [""]
     else:
         out += ["> [Ed: body not retrieved — `ingest_status: %s`. "
                 "Re-run the `fetch-docs` stage once the document is readable.]" % body_status, ""]
@@ -1045,6 +1085,7 @@ def stage_build(records_path, cachedir, inboxdir, retrieved=None):
 
     counts = {"with-body": 0, "link-restricted": 0, "no-link": 0}
     manifest = []
+    pending = []
 
     # First pass: resolve every body, so a record's segment count can be
     # compared against its aligned peers in the second pass.
@@ -1096,6 +1137,21 @@ def stage_build(records_path, cachedir, inboxdir, retrieved=None):
             if reason == "not-fetched":
                 body_status = "not-fetched"
         counts[body_status] = counts.get(body_status, 0) + 1
+
+        # The language folders hold texts to proofread. A record with no body
+        # is not a text — it is a gap in the sheet, and it is recorded in
+        # _pending.md instead of leaving an empty file to open.
+        if body_status != "with-body":
+            pending.append({"slug": rec["slug"], "lang_tag": rec["lang_tag"],
+                            "sheet_row": rec["sheet_row"], "work_id": rec["work_id"],
+                            "reason": body_status,
+                            "doc_title": rec["doc_title"], "doc_url": rec["doc_url"]})
+            manifest.append({"slug": rec["slug"], "path": "", "folder": "",
+                             "sheet_row": rec["sheet_row"], "work_id": rec["work_id"],
+                             "lang_tag": rec["lang_tag"], "ingest_status": body_status,
+                             "aligned_with": rec["aligned_with"], "segment_count": 0,
+                             "segments_aligned": False})
+            continue
 
         folder = language_folder(rec["lang_tag"])
         os.makedirs(os.path.join(inboxdir, folder), exist_ok=True)
@@ -1162,6 +1218,20 @@ def stage_build(records_path, cachedir, inboxdir, retrieved=None):
                              "ingest_status": "with-body", "aligned_with": [],
                              "sheet_row_missing": True})
             counts["no-sheet-row"] = counts.get("no-sheet-row", 0) + 1
+
+    if pending:
+        lines = ["# Pending — sheet rows with no text yet", "",
+                 "These rows exist in the Pecha Upload List but have no document body,",
+                 "so they have no file in `tibetan/` or `chinese/`. Nothing to proofread",
+                 "here — this is the list of what the sheet still owes.", "",
+                 "| sheet row | slug | lang | reason | document |", "|---|---|---|---|---|"]
+        for p_ in sorted(pending, key=lambda x: x["sheet_row"] or 0):
+            doc = ("[%s](%s)" % (p_["doc_title"] or "link", p_["doc_url"])) if p_["doc_url"] else "—"
+            lines.append("| %s | `%s` | %s | %s | %s |"
+                         % (p_["sheet_row"], p_["slug"], p_["lang_tag"], p_["reason"], doc))
+        lines.append("")
+        with open(os.path.join(inboxdir, "_pending.md"), "w", encoding="utf-8") as fh:
+            fh.write("\n".join(lines))
 
     mpath = os.path.join(inboxdir, "_manifest.json")
     with open(mpath, "w", encoding="utf-8") as fh:
@@ -1329,7 +1399,7 @@ def main(argv=None):
                            archive=not args.no_archive)
     if args.stage in ("build", "all"):
         stage_build(records, cachedir, args.inbox)
-    if args.stage in ("align", "all"):
+    if args.stage == "align":
         stage_align(records, args.inbox)
     return 0
 

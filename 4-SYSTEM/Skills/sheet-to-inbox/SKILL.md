@@ -30,7 +30,8 @@ If the sheet's column order has changed, stop and update `reference/sheet-schema
 | `0-INBOX/texts/tibetan/<slug>.md` | Tibetan witnesses. `<slug>` = `<work-id>-<lang-tag>[-variant]`. |
 | `0-INBOX/texts/chinese/<slug>.md` | Chinese witnesses, all scripts and variants. |
 | `0-INBOX/texts/unsorted/<slug>.md` | Files with no language of their own (e.g. imported documents with no sheet row). |
-| `0-INBOX/texts/aligned/<work-id>.md` | One bilingual table per work, pairing segments by `^sN` id. |
+| `0-INBOX/texts/_pending.md` | Sheet rows with no document body — no file to proofread, listed so the gap stays visible. |
+| `0-INBOX/texts/aligned/<work-id>.md` | Only from the optional `align` stage; superseded by the transclusions `inbox-to-sources` writes. |
 | `0-INBOX/texts/_manifest.json` | Every slug with its sheet row, work ID, language, ingest status, and aligned peers. |
 | `0-INBOX/raw-data/pecha-sheet/pecha-upload.xlsx` | The downloaded sheet. |
 | `0-INBOX/raw-data/pecha-sheet/records.json` | Parsed records — the intermediate the build stage reads. |
@@ -130,12 +131,28 @@ status: draft
 
 ## Text
 
-1. <segment one> ^s1
-2. <segment two, carrying a footnote>[^1] ^s2
-3. <segment three, with ==flagged text==> ^s3
+<segment one>
+<segment two, carrying a footnote>[^1]
+<segment three, with ==flagged text==>
 
 [^1]: <footnote text>
 ```
+
+**The body carries the text and nothing else** — no segment number in front, no
+`^sN` anchor behind. The inbox is what a human proofreader reads and corrects,
+and those markers are noise to that job.
+
+Segment identity survives as **line position**: line *N* of the `## Text`
+section is segment *N*, and an empty segment is an empty line. Two consequences
+follow, and both matter:
+
+- No blank lines are written between segments, and every segment is flattened
+  to exactly one line (a `<w:br/>` inside a Word paragraph becomes a space).
+  Otherwise one segment would occupy two lines and renumber everything after it.
+- **Adding or removing a line silently renumbers every segment below it.**
+  Correct the text on a line freely; do not split, merge, or delete lines.
+  `segment_count:` in the frontmatter is the check — `inbox-to-sources` reads
+  exactly that many lines.
 
 When the body could not be retrieved, the `## Text` section holds a single editorial note instead:
 
@@ -360,6 +377,9 @@ The alternative, when only a few documents are restricted, is to open each in a 
 - [ ] Bodies retain segment numbering (`^sN`), footnotes and highlighting — never `<w:t>` text alone
 - [ ] Every aligned pair with bodies on both sides is `segments_aligned: true`, or the mismatch is reported
 - [ ] Any locally imported files reported: matched, ambiguous, text-conflicting, unreadable, and without a sheet row
+- [ ] Inbox bodies carry text only — no segment numbers, no `^sN` anchors
+- [ ] Every inbox body has exactly `segment_count` lines in its `## Text` section
+- [ ] Records with no body are listed in `_pending.md`, not written as empty files
 - [ ] Source `.docx` archived under `documents/original/`
 - [ ] Every record filed under `tibetan/`, `chinese/` or `unsorted/` by its `lang_tag`
 - [ ] An alignment file written for every work with a segment-bearing Tibetan and Chinese witness, and every count disagreement carrying its editorial note
