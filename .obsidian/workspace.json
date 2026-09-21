@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/zh-modern-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md",
+                "file": "0-INBOX/texts/tibetan/toh0040-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zh-modern-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother"
+              "title": "toh0040-bo"
             }
           }
         ]
@@ -199,6 +199,10 @@
   },
   "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
+    "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-2.md",
+    "0-INBOX/texts/tibetan/toh16-bo.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310002003005006008-zh.md",
+    "1-SOURCES/Translations/zh-modern-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md",
     "1-SOURCES/Text/bo-toh16-the-sutra-of-the-great-vehicle-called-the-diamond-cutter.md",
     "0-INBOX/texts/chinese/toh0028-zh.md",
     "0-INBOX/texts/tibetan/toh56to57-tai310002003005006008-bo-14.md",
@@ -222,10 +226,6 @@
     "1-SOURCES/Translations/zh-toh3877-commentary-on-the-difficult-points-of-the-wisdom-and-dedicat.md",
     "1-SOURCES/Text/bo-toh3877-commentary-on-the-difficult-points-of-the-wisdom-and-dedicat.md",
     "1-SOURCES/Translations/zh-toh3822-the-meaning-of-the-heart-sutra-of-the-perfection-of-wisdom-t.md",
-    "1-SOURCES/Text/bo-toh3822-the-meaning-of-the-heart-sutra-of-the-perfection-of-wisdom-t.md",
-    "1-SOURCES/Translations/zh-toh16-the-sutra-of-the-great-vehicle-called-the-diamond-cutter.md",
-    "1-SOURCES/Translations/zh-toh1164-praise-to-the-five-tathgatas.md",
-    "1-SOURCES/Text/bo-toh1164-praise-to-the-five-tathgatas.md",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__/inbox_to_sources.cpython-314.pyc",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__",
     "0-INBOX/raw-data/pecha-sheet/sources-plan.json",
