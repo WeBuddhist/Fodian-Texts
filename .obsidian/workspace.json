@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.9637451171875
+    "width": 310.046875
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -197,7 +197,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "be9f9ab9544b48fb",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
     "0-INBOX/texts/tibetan/toh1124-bo.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
