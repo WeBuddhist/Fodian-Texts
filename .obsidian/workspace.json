@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/tibetan/toh16-bo.md",
+                "file": "0-INBOX/texts/chinese/toh16-zh-hant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh16-bo"
+              "title": "toh16-zh-hant"
             }
           }
         ]
@@ -197,15 +197,15 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "be9f9ab9544b48fb",
   "lastOpenFiles": [
+    "0-INBOX/texts/tibetan/toh16-bo.md",
     "0-INBOX/texts/tibetan/toh1124-bo.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "0-INBOX/texts/unsorted/toh0215_kp0019_-_zh_without-footnot.md",
-    "0-INBOX/texts/tibetan/toh16-bo.md",
     "0-INBOX/texts/tibetan/toh0020-kp0001-bo.md",
     "0-INBOX/texts/tibetan/toh0021-bo.md",
     "0-INBOX/texts/tibetan/toh0040-bo.md",
