@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/chinese/toh16-zh-hant.md",
+                "file": "0-INBOX/texts/tibetan/toh16-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh16-zh-hant"
+              "title": "toh16-bo"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "be9f9ab9544b48fb",
   "lastOpenFiles": [
+    "0-INBOX/texts/chinese/toh16-zh-hant.md",
     "0-INBOX/texts/tibetan/toh16-bo.md",
     "0-INBOX/texts/tibetan/toh1124-bo.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
@@ -230,7 +231,6 @@
     "1-SOURCES/Translations/zh-hant-toh4049-the-compendium-of-abhidharma.md",
     "1-SOURCES/Translations/zh-hant-toh4045-explanation-of-the-bodhisattva-precepts.md",
     "1-SOURCES/Translations/zh-hant-toh3877-commentary-on-the-difficult-points-of-the-wisdom-and-dedicat.md",
-    "1-SOURCES/Translations/zh-hant-toh3822-the-meaning-of-the-heart-sutra-of-the-perfection-of-wisdom-t.md",
     "0-INBOX/raw-data/pecha-sheet/sources-write-report.json",
     "0-INBOX/raw-data/pecha-sheet/sources-plan.json",
     "4-SYSTEM/Skills/inbox-to-sources/inbox_to_sources.py",
