@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8d7fb3761e1ebbb3",
+        "id": "ec654b1c90399443",
         "type": "tabs",
         "children": [
           {
-            "id": "44ce4be8da72f5d9",
+            "id": "6972ffdbe1a94f2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Skills/SKILLS-CATALOG.md",
+                "file": "0-INBOX/texts/chinese/toh16-zh-hans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILLS-CATALOG"
+              "title": "toh16-zh-hans"
             }
           }
         ]
@@ -55,8 +55,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tibet",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -76,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "0-INBOX/texts/chinese/toh16-zh-hans.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -189,12 +188,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,18 +207,19 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "44ce4be8da72f5d9",
+  "active": "6972ffdbe1a94f2f",
   "lastOpenFiles": [
+    "0-INBOX/texts/tibetan/toh16-bo.md",
+    "0-INBOX/texts/chinese/toh16-zh-hans.md",
+    "0-INBOX/texts/chinese/toh0026-zh-hans-without-footnote.md",
+    "0-INBOX/texts/chinese/toh0040-zh-hans.md",
     "0-INBOX/texts/chinese/toh0021-zh-hant.md",
     "0-INBOX/texts/_pending.md",
+    "4-SYSTEM/Skills/SKILLS-CATALOG.md",
     "0-INBOX/texts/chinese/toh0021-zh-modern.md",
-    "0-INBOX/texts/chinese/toh0026-zh-hans-without-footnote.md",
     "0-INBOX/texts/chinese/toh0026-zh-without-footnote.md",
     "Untitled.canvas",
     "2026-09-25.md",
-    "0-INBOX/texts/chinese/toh0040-zh-hans.md",
-    "0-INBOX/texts/tibetan/toh16-bo.md",
-    "0-INBOX/texts/chinese/toh16-zh-hans.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
@@ -241,7 +240,6 @@
     "1-SOURCES/Commentaries/bo-toh4045-explanation-of-the-bodhisattva-precepts.md",
     "1-SOURCES/Commentaries/zh-hant-toh3877-commentary-on-the-difficult-points-of-the-wisdom-and-dedicat.md",
     "1-SOURCES/Commentaries/bo-toh3877-commentary-on-the-difficult-points-of-the-wisdom-and-dedicat.md",
-    "1-SOURCES/Commentaries/zh-hant-toh3822-the-meaning-of-the-heart-sutra-of-the-perfection-of-wisdom-t.md",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__/inbox_to_sources.cpython-314.pyc",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__",
     "0-INBOX/raw-data/pecha-sheet/sources-write-report.json",
