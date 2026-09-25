@@ -11,13 +11,32 @@
             "id": "f27ffc7267a9b41f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/texts/tibetan/toh16-bo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "toh16-bo"
+            }
+          },
+          {
+            "id": "166123502f891d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/texts/tibetan/toh16-bo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "toh16-bo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +212,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "166123502f891d55",
   "lastOpenFiles": [
-    "0-INBOX/texts/chinese/toh16-zh-hant.md",
+    "conflict-files-obsidian-git.md",
     "0-INBOX/texts/tibetan/toh16-bo.md",
+    "0-INBOX/texts/chinese/toh16-zh-hant.md",
     "0-INBOX/texts/tibetan/toh1124-bo.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
@@ -226,7 +246,6 @@
     "1-SOURCES/Translations/zh-hant-toh4054-commentary-on-the-compendium-of-abhidharma.md",
     "1-SOURCES/Translations/zh-hant-toh4049-the-compendium-of-abhidharma.md",
     "1-SOURCES/Translations/zh-hant-toh4045-explanation-of-the-bodhisattva-precepts.md",
-    "1-SOURCES/Translations/zh-hant-toh3877-commentary-on-the-difficult-points-of-the-wisdom-and-dedicat.md",
     "0-INBOX/raw-data/pecha-sheet/sources-write-report.json",
     "0-INBOX/raw-data/pecha-sheet/sources-plan.json",
     "4-SYSTEM/Skills/inbox-to-sources/inbox_to_sources.py",
