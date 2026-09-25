@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "270073d5937bbda1",
+        "id": "2fbb6a2481885367",
         "type": "tabs",
         "children": [
           {
-            "id": "be9f9ab9544b48fb",
+            "id": "f27ffc7267a9b41f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/texts/tibetan/toh16-bo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "toh16-bo"
+              "title": "New tab"
             }
           }
         ]
@@ -197,7 +193,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "be9f9ab9544b48fb",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
     "0-INBOX/texts/chinese/toh16-zh-hant.md",
     "0-INBOX/texts/tibetan/toh16-bo.md",
