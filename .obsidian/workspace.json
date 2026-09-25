@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "0-INBOX/texts/chinese/toh16-zh-hant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "toh16-zh-hant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a573e0391caf3b40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34b5f5f01716f55d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/texts/chinese/toh16-zh-hans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "toh16-zh-hans"
             }
           }
         ]
@@ -158,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "0-INBOX/texts/chinese/toh16-zh-hant.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,8 +229,9 @@
   },
   "active": "a1d02a52706af8eb",
   "lastOpenFiles": [
-    "Untitled.md",
     "0-INBOX/texts/chinese/toh16-zh-hans.md",
+    "0-INBOX/texts/chinese/toh16-zh-hant.md",
+    "Untitled.md",
     "0-INBOX/texts/tibetan/toh16-bo.md",
     "0-INBOX/texts/chinese/toh0026-zh-hans-without-footnote.md",
     "0-INBOX/texts/chinese/toh0040-zh-hans.md",
@@ -226,7 +247,6 @@
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "0-INBOX/texts/chinese/toh0021-zh-hans-modern.md",
-    "0-INBOX/texts/chinese/toh16-zh-hant.md",
     "1-SOURCES/Text/bo-toh16-the-sutra-of-the-great-vehicle-called-the-diamond-cutter.md",
     "conflict-files-obsidian-git.md",
     "0-INBOX/texts/tibetan/toh1124-bo.md",
