@@ -22,26 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ff5c901f918f824f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df194f320e307a6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/texts/tibetan/toh16-bo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "toh16-bo"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -220,8 +200,9 @@
   },
   "active": "3243d3ed447ebbef",
   "lastOpenFiles": [
-    "0-INBOX/texts/chinese/toh16-zh-hans.md",
     "0-INBOX/texts/tibetan/toh16-bo.md",
+    "0-INBOX/texts/chinese/toh16-zh-hant.md",
+    "0-INBOX/texts/chinese/toh16-zh-hans.md",
     "3-TRANSFORMATIONS/Plans/About Plans.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
@@ -250,7 +231,6 @@
     "0-INBOX/texts/chinese/toh4054-tai1606-3-zh-hans.md",
     "0-INBOX/texts/chinese/toh4054-tai1606-2-zh-hans.md",
     "0-INBOX/texts/chinese/toh4054-tai1606-1-zh-hans.md",
-    "0-INBOX/texts/chinese/toh4049-tai1605-5-zh-hans.md",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__/inbox_to_sources.cpython-314.pyc",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__",
     "0-INBOX/raw-data/pecha-sheet/sources-write-report.json",
