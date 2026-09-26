@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/tibetan/toh16-bo.md",
+                "file": "3-TRANSFORMATIONS/Plans/About Plans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh16-bo"
+              "title": "About Plans"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "3243d3ed447ebbef",
   "lastOpenFiles": [
+    "0-INBOX/texts/tibetan/toh16-bo.md",
     "1-SOURCES/Text/bo-toh16-the-sutra-of-the-great-vehicle-called-the-diamond-cutter.md",
     "Untitled.md",
     "Untitled.canvas",
@@ -225,7 +226,6 @@
     "0-INBOX/texts/chinese/toh4049-tai1605-5-zh-hans.md",
     "0-INBOX/texts/chinese/toh4049-tai1605-4-zh-hans.md",
     "0-INBOX/texts/chinese/toh4049-tai1605-3-zh-hans.md",
-    "0-INBOX/texts/chinese/toh4049-tai1605-2-zh-hans.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
