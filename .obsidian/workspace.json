@@ -219,10 +219,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "3243d3ed447ebbef",
+  "active": "1574e2ef2d629499",
   "lastOpenFiles": [
-    "0-INBOX/texts/tibetan/toh16-bo.md",
     "0-INBOX/texts/chinese/toh16-zh-hant.md",
+    "0-INBOX/texts/tibetan/toh16-bo.md",
     "0-INBOX/texts/chinese/toh16-zh-hans.md",
     "3-TRANSFORMATIONS/Plans/About Plans.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
