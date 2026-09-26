@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/chinese/toh16-zh-hans.md",
+                "file": "0-INBOX/texts/tibetan/toh16-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh16-zh-hans"
+              "title": "toh16-bo"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "9e68b8987896ea03",
   "lastOpenFiles": [
-    "0-INBOX/texts/chinese/toh16-zh-hant.md",
     "0-INBOX/texts/chinese/toh16-zh-hans.md",
+    "0-INBOX/texts/chinese/toh16-zh-hant.md",
     "0-INBOX/texts/tibetan/toh16-bo.md",
     "Untitled.md",
     "0-INBOX/texts/chinese/toh0026-zh-hans-without-footnote.md",
