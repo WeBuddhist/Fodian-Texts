@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/chinese/toh16-zh-hans.md",
+                "file": "0-INBOX/texts/chinese/toh16-zh-hant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh16-zh-hans"
+              "title": "toh16-zh-hant"
             }
           }
         ]
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -221,8 +220,8 @@
   },
   "active": "3243d3ed447ebbef",
   "lastOpenFiles": [
-    "0-INBOX/texts/tibetan/toh16-bo.md",
     "0-INBOX/texts/chinese/toh16-zh-hans.md",
+    "0-INBOX/texts/tibetan/toh16-bo.md",
     "3-TRANSFORMATIONS/Plans/About Plans.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
