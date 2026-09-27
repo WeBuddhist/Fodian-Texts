@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: 金剛般若波羅密多經
 title_short: 金剛經
 title_long: 金剛般若波羅密多經
@@ -9,51 +8,39 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh-hant
 edition_variant: traditional
-
-# --- catalogue ids ---
 toh: toh16
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: ""
 pecha_no: ""
-
-# --- authorship ---
 author: 佛世尊
 author_en: ""
-
-# --- classification ---
 category: 2.1 般若經與相關釋論
 category_code: "2.1"
 category_en: 2.1 Discourses on the Perfection of Wisdom
 category_bo: 2.1 ཤེར་ཕྱིན་གྱི་མདོ།
 category_lzh: 2.1 般若經與相關釋論
-
-# --- segmentation ---
 segment_count: 430
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh16-bo: 430
-  toh16-zh-modern: null
+  toh16-zh-modern:
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh16-bo, toh16-zh-modern]
+aligned_with:
+  - toh16-bo
+  - toh16-zh-modern
 work_group: zhengchi
 cluster_id: toh16
 toh_column_raw: Toh 16
-
-# --- provenance ---
 source_description: CBETA
 source_url: ""
-document_link: "https://docs.google.com/document/d/1pQNcHjE9Kb4xO2bcRnKtzC9fVVF3yJSgo0ZW-nr1fAI/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/1pQNcHjE9Kb4xO2bcRnKtzC9fVVF3yJSgo0ZW-nr1fAI/edit?tab=t.0
 document_title: 金剛般若波羅蜜經-zh-Traditional Chinese -align for Foden
 google_doc_id: 1pQNcHjE9Kb4xO2bcRnKtzC9fVVF3yJSgo0ZW-nr1fAI
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 255
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: Staging
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -61,7 +48,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status:
 ---
 金刚般若波罗蜜经
 
