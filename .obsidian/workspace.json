@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/tibetan/toh16-bo.md",
+                "file": "0-INBOX/texts/tibetan/toh555-tai665-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh16-bo"
+              "title": "toh555-tai665-bo"
             }
           }
         ]
@@ -200,8 +200,11 @@
   },
   "active": "486ada526d259bb3",
   "lastOpenFiles": [
-    "0-INBOX/texts/chinese/toh16-zh-hant.md",
+    "Untitled.md",
+    "0-INBOX/texts/tibetan/toh0215-kp0019-bo.md",
+    "Untitled.canvas",
     "0-INBOX/texts/tibetan/toh16-bo.md",
+    "0-INBOX/texts/chinese/toh16-zh-hant.md",
     "0-INBOX/texts/chinese/toh16-zh-hans.md",
     "3-TRANSFORMATIONS/Plans/About Plans.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
@@ -209,8 +212,6 @@
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Text/bo-toh16-the-sutra-of-the-great-vehicle-called-the-diamond-cutter.md",
-    "Untitled.md",
-    "Untitled.canvas",
     "2026-09-25.md",
     "0-INBOX/texts/chinese/toh56to57-tai310-008-zh-hans.md",
     "0-INBOX/texts/chinese/toh56to57-tai310-006-zh-hans.md",
@@ -229,8 +230,6 @@
     "0-INBOX/texts/chinese/toh4054-tai1606-5-zh-hans.md",
     "0-INBOX/texts/chinese/toh4054-tai1606-4-zh-hans.md",
     "0-INBOX/texts/chinese/toh4054-tai1606-3-zh-hans.md",
-    "0-INBOX/texts/chinese/toh4054-tai1606-2-zh-hans.md",
-    "0-INBOX/texts/chinese/toh4054-tai1606-1-zh-hans.md",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__/inbox_to_sources.cpython-314.pyc",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__",
     "0-INBOX/raw-data/pecha-sheet/sources-write-report.json",
