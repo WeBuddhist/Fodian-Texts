@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "390a155dfee971d4",
+        "id": "66fd7c170b9debb8",
         "type": "tabs",
         "children": [
           {
-            "id": "9424406429b51bb8",
+            "id": "486ada526d259bb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "0-INBOX/texts/chinese/toh16-zh-hant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "toh16-zh-hant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c9b5966f2a7ac063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78535212e2adbf3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/texts/tibetan/toh16-bo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "toh16-bo"
             }
           }
         ]
@@ -80,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -198,10 +219,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "9424406429b51bb8",
+  "active": "78535212e2adbf3b",
   "lastOpenFiles": [
-    "0-INBOX/texts/tibetan/toh16-bo.md",
     "0-INBOX/texts/chinese/toh16-zh-hant.md",
+    "0-INBOX/texts/tibetan/toh16-bo.md",
     "0-INBOX/texts/chinese/toh16-zh-hans.md",
     "0-INBOX/texts/tibetan/toh555-tai665-bo.md",
     "0-INBOX/texts/chinese/toh555-tai665-zh-hans.md",
