@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c70c7cea1db52ed3",
+        "id": "66fd7c170b9debb8",
         "type": "tabs",
         "children": [
           {
-            "id": "94c6eaa25b350a6a",
+            "id": "486ada526d259bb3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/texts/chinese/toh16-zh-hans.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "toh16-zh-hans"
             }
           }
         ]
@@ -193,23 +197,23 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "94c6eaa25b350a6a",
+  "active": "486ada526d259bb3",
   "lastOpenFiles": [
-    "0-INBOX/texts/tibetan/toh16-bo.md",
-    "0-INBOX/texts/chinese/རྒྱ་ཡིག.md",
-    "0-INBOX/texts/chinese/toh16-zh-hans.md",
     "0-INBOX/texts/chinese/toh16-zh-hant.md",
     "0-INBOX/texts/tibetan/བོད་ཡིག.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
+    "0-INBOX/texts/chinese/རྒྱ་ཡིག.md",
+    "0-INBOX/texts/tibetan/toh16-bo.md",
+    "0-INBOX/texts/chinese/toh16-zh-hans.md",
     "0-INBOX/texts/tibetan/toh555-tai665-bo.md",
     "0-INBOX/texts/chinese/toh555-tai665-zh-hans.md",
     "Untitled.md",
     "0-INBOX/texts/tibetan/toh0215-kp0019-bo.md",
     "Untitled.canvas",
     "3-TRANSFORMATIONS/Plans/About Plans.md",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Text/bo-toh16-the-sutra-of-the-great-vehicle-called-the-diamond-cutter.md",
     "2026-09-25.md",
     "0-INBOX/texts/chinese/toh56to57-tai310-008-zh-hans.md",
