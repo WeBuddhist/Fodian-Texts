@@ -11,14 +11,10 @@
             "id": "140636157fd0f8dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tibetan.css.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "tibetan.css"
+              "title": "New tab"
             }
           }
         ]
@@ -197,8 +193,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "140636157fd0f8dd",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "tibetan.css",
+    "tibetan.md",
     "0-INBOX/texts/chinese/toh0027-zh.md",
     "tibetan.css.md",
     "0-INBOX/texts/tibetan/toh0027-bo.md",
@@ -228,8 +226,6 @@
     "2026-09-25.md",
     "0-INBOX/texts/chinese/toh56to57-tai310-008-zh-hans.md",
     "0-INBOX/texts/chinese/toh56to57-tai310-006-zh-hans.md",
-    "0-INBOX/texts/chinese/toh56to57-tai310-006-zh-hans-2.md",
-    "0-INBOX/texts/chinese/toh56to57-tai310-005-zh-hans.md",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__/inbox_to_sources.cpython-314.pyc",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__",
     "0-INBOX/raw-data/pecha-sheet/sources-write-report.json",
