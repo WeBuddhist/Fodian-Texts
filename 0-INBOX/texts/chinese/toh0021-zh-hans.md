@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: 薄伽梵母般若波罗蜜多心经
 title_short: 般若波罗密多心经
 title_long: 薄伽梵母般若波罗蜜多心经
@@ -9,51 +8,39 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh-hans
 edition_variant: simplified
-
-# --- catalogue ids ---
 toh: toh0021
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: ""
 pecha_no: ""
-
-# --- authorship ---
 author: 佛世尊
 author_en: ""
-
-# --- classification ---
 category: 2.1 般若经与相关释论
 category_code: "2.1"
 category_en: 2.1 Discourses on the Perfection of Wisdom
 category_bo: 2.1 ཤེར་ཕྱིན་གྱི་མདོ།
 category_lzh: 2.1 般若经与相关释论
-
-# --- segmentation ---
 segment_count: 32
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0021-bo: 32
   toh0021-zh-modern: 32
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0021-bo, toh0021-zh-modern]
+aligned_with:
+  - toh0021-bo
+  - toh0021-zh-modern
 work_group: zhengchi
 cluster_id: Toh0021
 toh_column_raw: Toh0021
-
-# --- provenance ---
 source_description: CBETA
 source_url: ""
-document_link: "https://docs.google.com/document/d/1QvGM4Z_asK2w8K9QaSghebzxkVY1VbJv/edit"
+document_link: https://docs.google.com/document/d/1QvGM4Z_asK2w8K9QaSghebzxkVY1VbJv/edit
 document_title: 般若波羅蜜多心經－Zh-Traditional Chinese align for Fodenn
 google_doc_id: 1QvGM4Z_asK2w8K9QaSghebzxkVY1VbJv
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 243
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: Staging
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -61,7 +48,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # 薄伽梵母般若波罗蜜多心经
