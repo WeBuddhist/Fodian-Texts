@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/tibetan/toh0027-bo.md",
+                "file": "0-INBOX/texts/chinese/toh0027-zh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh0027-bo"
+              "title": "toh0027-zh"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -200,8 +199,8 @@
   },
   "active": "f6becdd23a92de73",
   "lastOpenFiles": [
-    "0-INBOX/texts/chinese/toh0027-zh.md",
     "0-INBOX/texts/tibetan/toh0027-bo.md",
+    "0-INBOX/texts/chinese/toh0027-zh.md",
     "cjk-tibetan.css.md",
     "cjk-tibetan.css",
     "tibetan.css.md",

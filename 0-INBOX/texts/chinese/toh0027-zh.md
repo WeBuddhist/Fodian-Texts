@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: 聖般若波羅蜜多月藏大乘經
 title_short: 月藏經
 title_long: 聖般若波羅蜜多月藏大乘經
@@ -9,50 +8,37 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh0027
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: I2582A0D9
 pecha_no: I2582A0D9 - 月藏經
-
-# --- authorship ---
 author: 佛世尊
 author_en: ""
-
-# --- classification ---
 category: 2.1 般若經與相關釋論
 category_code: "2.1"
 category_en: 2.1 Discourses on the Perfection of Wisdom
 category_bo: 2.1 ཤེར་ཕྱིན་གྱི་མདོ།
 category_lzh: 2.1 般若經與相關釋論
-
-# --- segmentation ---
 segment_count: 85
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0027-bo: 85
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0027-bo]
+aligned_with:
+  - toh0027-bo
 work_group: kangyur-translations
 cluster_id: Toh0027
 toh_column_raw: Toh0027
-
-# --- provenance ---
-source_description: "https://buddha.now/toh0027-2/"
-source_url: "https://buddha.now/toh0027-2/"
-document_link: "https://docs.google.com/document/d/12qblWNDoqXAkANdomPbVkuoGty8mb4FWFs9rAduo6-Y/edit?tab=t.0"
+source_description: https://buddha.now/toh0027-2/
+source_url: https://buddha.now/toh0027-2/
+document_link: https://docs.google.com/document/d/12qblWNDoqXAkANdomPbVkuoGty8mb4FWFs9rAduo6-Y/edit?tab=t.0
 document_title: Toh0027《聖般若波羅蜜多月藏大乘經》v.1_zh
 google_doc_id: 12qblWNDoqXAkANdomPbVkuoGty8mb4FWFs9rAduo6-Y
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 197
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: Staging
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -60,7 +46,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # 聖般若波羅蜜多月藏大乘經
