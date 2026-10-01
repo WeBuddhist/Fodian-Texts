@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལག་ན་རྡོ་རྗེའི་མདོ་ཐེག་པ་ཆེན་པོ།
 title_short: ཤེས་ཕྱིན་ལག་ན་རྡོ་རྗེའི་མདོ་ཐེག་པ་ཆེན་པོ།
 title_long: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལག་ན་རྡོ་རྗེའི་མདོ་ཐེག་པ་ཆེན་པོ།
@@ -9,58 +8,45 @@ file_type: root-text
 language: Tibetan
 lang_tag: bo
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh0029
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: WA0RK0029
 pecha_id: I8C894EB0
 pecha_no: I8C894EB0 - ཤེས་ཕྱིན་ལག་ན་རྡོ་རྗེའི་མདོ་ཐེག་པ་ཆེན་པོ།
-
-# --- authorship ---
 author: སངས་རྒྱས་བཅོམ་ལྡན་འདས།
 author_en: Buddha Bhagavan
-
-# --- classification ---
 category: 2.1 般若經與相關釋論
 category_code: "2.1"
 category_en: 2.1 Discourses on the Perfection of Wisdom
 category_bo: 2.1 ཤེར་ཕྱིན་གྱི་མདོ།
 category_lzh: 2.1 般若經與相關釋論
-
-# --- segmentation ---
 segment_count: 37
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0029-zh: 37
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0029-zh]
+aligned_with:
+  - toh0029-zh
 work_group: kangyur-translations
 cluster_id: Toh0029
 toh_column_raw: Toh0029
-
-# --- provenance ---
 source_description: བཀའ་འགྱུར།
 source_url: ""
-document_link: "https://docs.google.com/document/d/1MT224NCfOazA5-7Jraics7_HAkXoIdIOCz04P43dLvc/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/1MT224NCfOazA5-7Jraics7_HAkXoIdIOCz04P43dLvc/edit?tab=t.0
 document_title: Toh0029《聖般若波羅蜜多金剛手大乘經》v.1_bo
 google_doc_id: 1MT224NCfOazA5-7Jraics7_HAkXoIdIOCz04P43dLvc
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 202
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: Staging
 alignment_status: Alignment Checking
-alignment_file: "https://docs.google.com/spreadsheets/d/1nJ6OL91IoBcucf4JyekqxMmAJ5wBiSYf/edit?gid=1126208162#gid=1126208162"
-alignment_file_url: "https://docs.google.com/spreadsheets/d/1nJ6OL91IoBcucf4JyekqxMmAJ5wBiSYf/edit?gid=1126208162"
+alignment_file: https://docs.google.com/spreadsheets/d/1nJ6OL91IoBcucf4JyekqxMmAJ5wBiSYf/edit?gid=1126208162#gid=1126208162
+alignment_file_url: https://docs.google.com/spreadsheets/d/1nJ6OL91IoBcucf4JyekqxMmAJ5wBiSYf/edit?gid=1126208162
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལག་ན་རྡོ་རྗེའི་མདོ་ཐེག་པ་ཆེན་པོ།
