@@ -2,7 +2,7 @@
   "baseFontSize": 16,
   "interfaceFontFamily": "Monlam Uni Dutsa1,Monlam Uni OuChan5,Monlam Uni OuChan4,Monlam Uni OuChan3,Monlam Uni OuChan1,Monlam Uni Choukmatik,Monlam Uni OuChan2",
   "enabledCssSnippets": [
-    "cjk-tibetan",
-    "tibetan"
+    "tibetan",
+    "cjk-tibetan"
   ]
 }
