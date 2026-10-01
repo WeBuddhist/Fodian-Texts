@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/tibetan/toh0028-bo.md",
+                "file": "0-INBOX/texts/tibetan/toh0029-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh0028-bo"
+              "title": "toh0029-bo"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4dac3bcb4e2f180e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f312e4c64f0fee02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/texts/chinese/toh0029-zh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "toh0029-zh"
             }
           }
         ]
@@ -183,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +219,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "f6becdd23a92de73",
+  "active": "f312e4c64f0fee02",
   "lastOpenFiles": [
-    "0-INBOX/texts/chinese/toh0028-zh.md",
+    "0-INBOX/texts/tibetan/toh0029-bo.md",
     "0-INBOX/texts/tibetan/toh0028-bo.md",
+    "0-INBOX/texts/chinese/toh0028-zh.md",
     "0-INBOX/texts/chinese/toh0026-zh-hans-without-footnote.md",
     "0-INBOX/texts/tibetan/toh0026-bo.md",
     "0-INBOX/texts/chinese/toh0027-zh.md",
@@ -232,7 +254,6 @@
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Text/bo-toh16-the-sutra-of-the-great-vehicle-called-the-diamond-cutter.md",
-    "2026-09-25.md",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__/inbox_to_sources.cpython-314.pyc",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__",
     "0-INBOX/raw-data/pecha-sheet/sources-write-report.json",
