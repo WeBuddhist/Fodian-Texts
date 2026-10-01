@@ -1,0 +1,23 @@
+{
+  "CJK Unified Ideographs": true,
+  "CJK Unified Ideographs Extension A": false,
+  "CJK Unified Ideographs Extension B": false,
+  "CJK Unified Ideographs Extension C": false,
+  "CJK Unified Ideographs Extension D": false,
+  "CJK Unified Ideographs Extension E": false,
+  "CJK Unified Ideographs Extension F": false,
+  "CJK Unified Ideographs Extension G": false,
+  "CJK Unified Ideographs Extension H": false,
+  "CJK Unified Ideographs Extension I": false,
+  "CJK Compatibility Ideographs": false,
+  "Hiragana": true,
+  "Katakana": true,
+  "Half-width Katakana": false,
+  "Katakana Phonetic Extensions": true,
+  "Japanese Punctuation": true,
+  "Hangul Jamo": true,
+  "Hangul Jamo Extended-A": true,
+  "Hangul Jamo Extended-B": true,
+  "Hangul Compatibility Jamo": true,
+  "Hangul Syllables": true
+}

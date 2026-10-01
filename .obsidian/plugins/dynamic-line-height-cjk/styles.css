@@ -1,0 +1,25 @@
+/* @settings
+
+name: Dynamic Line Height for CJK
+id: dynamic-line-height-cjk
+settings:
+    - 
+        id: line-height-cjk
+        title: Line height for CJK lines and paragraphs
+        description: "Note: As for the default theme, the line height is set to 1.5 by default, defined as a CSS variable --line-height-normal."
+        type: variable-number-slider
+        min: 1.0
+        max: 3.0
+        step: 0.01
+        default: 1.65
+*/
+
+:root {
+    --line-height-cjk: 1.65;
+}
+
+.view-content .markdown-preview-view .cjk,
+.markdown-source-view.mod-cm6 .cjk > :not(.cm-hmd-codeblock):not(.cm-math),
+.markdown-source-view.mod-cm6 .cjk:not(:has(> .cm-hmd-codeblock)):not(:has(> .cm-math)) {
+    line-height: var(--line-height-cjk);
+}
