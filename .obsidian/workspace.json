@@ -222,6 +222,7 @@
   "active": "f312e4c64f0fee02",
   "lastOpenFiles": [
     "0-INBOX/texts/tibetan/toh0029-bo.md",
+    "0-INBOX/texts/chinese/toh0029-zh.md",
     "0-INBOX/texts/tibetan/toh0028-bo.md",
     "0-INBOX/texts/chinese/toh0028-zh.md",
     "0-INBOX/texts/chinese/toh0026-zh-hans-without-footnote.md",
@@ -253,7 +254,6 @@
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
-    "1-SOURCES/Text/bo-toh16-the-sutra-of-the-great-vehicle-called-the-diamond-cutter.md",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__/inbox_to_sources.cpython-314.pyc",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__",
     "0-INBOX/raw-data/pecha-sheet/sources-write-report.json",
