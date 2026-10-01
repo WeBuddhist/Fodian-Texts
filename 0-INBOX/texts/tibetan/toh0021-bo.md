@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ།
 title_short: བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ།
 title_long: བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ།
@@ -9,51 +8,39 @@ file_type: root-text
 language: Tibetan
 lang_tag: bo
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh0021
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: WA0RK0529
 pecha_id: ""
 pecha_no: ""
-
-# --- authorship ---
 author: སངས་རྒྱས་བཅོམ་ལྡན་འདས།
 author_en: ""
-
-# --- classification ---
 category: 2.1 般若經與相關釋論
 category_code: "2.1"
 category_en: 2.1 Discourses on the Perfection of Wisdom
 category_bo: 2.1 ཤེར་ཕྱིན་གྱི་མདོ།
 category_lzh: 2.1 般若經與相關釋論
-
-# --- segmentation ---
 segment_count: 32
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0021-zh-hant: 32
   toh0021-zh-modern: 32
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0021-zh-hant, toh0021-zh-modern]
+aligned_with:
+  - toh0021-zh-hant
+  - toh0021-zh-modern
 work_group: zhengchi
 cluster_id: Toh0021
 toh_column_raw: Toh0021
-
-# --- provenance ---
 source_description: བཀའ་འགྱུར།
 source_url: ""
-document_link: "https://docs.google.com/document/d/1lE4YXF3XyR_6pZoTuQ-pxS5Qa9F2jckANqm6GIUvHY8/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/1lE4YXF3XyR_6pZoTuQ-pxS5Qa9F2jckANqm6GIUvHY8/edit?tab=t.0
 document_title: M29C34F4A ཤེས་རབ་སྙིང་པོ། Tibetan- Sanskrit
 google_doc_id: 1lE4YXF3XyR_6pZoTuQ-pxS5Qa9F2jckANqm6GIUvHY8
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 242
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: Staging
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -61,7 +48,7 @@ alignment_file_url: ""
 data_prep: 宛真
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ།
