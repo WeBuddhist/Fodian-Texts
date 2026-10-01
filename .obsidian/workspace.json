@@ -203,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +218,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "f6becdd23a92de73",
+  "active": "ddf709110dbdece9",
   "lastOpenFiles": [
-    "0-INBOX/texts/chinese/toh0027-zh.md",
     "0-INBOX/texts/tibetan/toh0027-bo.md",
+    "0-INBOX/texts/chinese/toh0027-zh.md",
     "cjk-tibetan.css.md",
     "cjk-tibetan.css",
     "tibetan.css.md",
