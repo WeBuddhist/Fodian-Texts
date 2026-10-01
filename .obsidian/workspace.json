@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f1440f85d12d6376",
+        "id": "e30afadfb0d6270f",
         "type": "tabs",
         "children": [
           {
-            "id": "140636157fd0f8dd",
+            "id": "27f184a61b4e34f7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -193,12 +193,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
+    "tibetan.css.md",
     "tibetan.css",
     "tibetan.md",
     "0-INBOX/texts/chinese/toh0027-zh.md",
-    "tibetan.css.md",
     "0-INBOX/texts/tibetan/toh0027-bo.md",
     "0-INBOX/texts/chinese/toh0026-zh-hans-without-footnote.md",
     "0-INBOX/texts/tibetan/toh0026-bo.md",
@@ -230,7 +230,6 @@
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__",
     "0-INBOX/raw-data/pecha-sheet/sources-write-report.json",
     "0-INBOX/raw-data/pecha-sheet/sources-plan.json",
-    "4-SYSTEM/Skills/inbox-to-sources/inbox_to_sources.py",
-    "4-SYSTEM/Skills/inbox-to-sources"
+    "4-SYSTEM/Skills/inbox-to-sources/inbox_to_sources.py"
   ]
 }
