@@ -11,14 +11,10 @@
             "id": "65e06e30ced45029",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cjk-tibetan.css.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "cjk-tibetan.css"
+              "title": "New tab"
             }
           }
         ]
@@ -200,6 +196,7 @@
   "active": "65e06e30ced45029",
   "lastOpenFiles": [
     "cjk-tibetan.css.md",
+    "cjk-tibetan.css",
     "0-INBOX/texts/tibetan/toh0027-bo.md",
     "0-INBOX/texts/chinese/toh0027-zh.md",
     "tibetan.css.md",
@@ -230,11 +227,9 @@
     "1-SOURCES/Text/bo-toh16-the-sutra-of-the-great-vehicle-called-the-diamond-cutter.md",
     "2026-09-25.md",
     "0-INBOX/texts/chinese/toh56to57-tai310-008-zh-hans.md",
-    "0-INBOX/texts/chinese/toh56to57-tai310-006-zh-hans.md",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__/inbox_to_sources.cpython-314.pyc",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__",
     "0-INBOX/raw-data/pecha-sheet/sources-write-report.json",
-    "0-INBOX/raw-data/pecha-sheet/sources-plan.json",
-    "4-SYSTEM/Skills/inbox-to-sources/inbox_to_sources.py"
+    "0-INBOX/raw-data/pecha-sheet/sources-plan.json"
   ]
 }
