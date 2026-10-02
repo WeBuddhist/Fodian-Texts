@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་རྒྱལ་མཚན་གྱི་མདོ་ཐེག་པ་ཆེན་པོ
 title_short: ཤེས་ཕྱིན་རྡོ་རྗེ་རྒྱལ་མཚན་གྱི་མདོ་ཐེག་པ་ཆེན་པོ
 title_long: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་རྒྱལ་མཚན་གྱི་མདོ་ཐེག་པ་ཆེན་པོ
@@ -9,58 +8,45 @@ file_type: root-text
 language: Tibetan
 lang_tag: bo
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh0030
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: WA0RK0030
 pecha_id: I0DDFF75B
 pecha_no: I0DDFF75B - ཤེས་ཕྱིན་རྡོ་རྗེ་རྒྱལ་མཚན་གྱི་མདོ་ཐེག་པ་ཆེན་པོ
-
-# --- authorship ---
 author: སངས་རྒྱས་བཅོམ་ལྡན་འདས།
 author_en: Buddha Bhagavan
-
-# --- classification ---
 category: 2.1 般若經與相關釋論
 category_code: "2.1"
 category_en: 2.1 Discourses on the Perfection of Wisdom
 category_bo: 2.1 ཤེར་ཕྱིན་གྱི་མདོ།
 category_lzh: 2.1 般若經與相關釋論
-
-# --- segmentation ---
 segment_count: 39
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0030-zh: 39
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0030-zh]
+aligned_with:
+  - toh0030-zh
 work_group: kangyur-translations
 cluster_id: Toh0030
 toh_column_raw: Toh0030
-
-# --- provenance ---
 source_description: བཀའ་འགྱུར།
 source_url: ""
-document_link: "https://docs.google.com/document/d/16RoRhNLwsk3uksuBkd7UcVokLUdqNIfSp4gOkhkG-Zk/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/16RoRhNLwsk3uksuBkd7UcVokLUdqNIfSp4gOkhkG-Zk/edit?tab=t.0
 document_title: Toh0030《聖般若波羅蜜多金剛幢大乘經》v.1_bo
 google_doc_id: 16RoRhNLwsk3uksuBkd7UcVokLUdqNIfSp4gOkhkG-Zk
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 205
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: Staging
 alignment_status: Alignment Checking
-alignment_file: "https://docs.google.com/spreadsheets/d/1GHC2GRtyx4Oo9uqfz2NWmkwaZyQbbsZi/edit?gid=791846507#gid=791846507"
-alignment_file_url: "https://docs.google.com/spreadsheets/d/1GHC2GRtyx4Oo9uqfz2NWmkwaZyQbbsZi/edit?gid=791846507"
+alignment_file: https://docs.google.com/spreadsheets/d/1GHC2GRtyx4Oo9uqfz2NWmkwaZyQbbsZi/edit?gid=791846507#gid=791846507
+alignment_file_url: https://docs.google.com/spreadsheets/d/1GHC2GRtyx4Oo9uqfz2NWmkwaZyQbbsZi/edit?gid=791846507
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་རྒྱལ་མཚན་གྱི་མདོ་ཐེག་པ་ཆེན་པོ
