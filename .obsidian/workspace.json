@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/tibetan/toh0029-bo.md",
+                "file": "0-INBOX/texts/chinese/toh0030-zh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh0029-bo"
+              "title": "toh0030-zh"
+            }
+          }
+        ]
+      },
+      {
+        "id": "77faf80383326557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b4afe9bea3f8c67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/texts/tibetan/toh0030-bo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "toh0030-bo"
             }
           }
         ]
@@ -183,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +221,10 @@
   },
   "active": "f6becdd23a92de73",
   "lastOpenFiles": [
-    "0-INBOX/texts/chinese/toh0029-zh.md",
+    "0-INBOX/texts/tibetan/toh0030-bo.md",
+    "0-INBOX/texts/chinese/toh0030-zh.md",
     "0-INBOX/texts/tibetan/toh0029-bo.md",
+    "0-INBOX/texts/chinese/toh0029-zh.md",
     "0-INBOX/texts/tibetan/toh0028-bo.md",
     "0-INBOX/texts/chinese/toh0028-zh.md",
     "0-INBOX/texts/chinese/toh0026-zh-hans-without-footnote.md",
@@ -226,9 +249,7 @@
     "0-INBOX/texts/tibetan/toh555-tai665-bo.md",
     "0-INBOX/texts/chinese/toh555-tai665-zh-hans.md",
     "Untitled.md",
-    "0-INBOX/texts/tibetan/toh0215-kp0019-bo.md",
     "Untitled.canvas",
-    "3-TRANSFORMATIONS/Plans/About Plans.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
