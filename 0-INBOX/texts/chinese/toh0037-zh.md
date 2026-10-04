@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: 五戒功德經
 title_short: 五戒功德經
 title_long: 五戒功德經
@@ -9,50 +8,37 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh0037
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: I44441487
 pecha_no: I44441487 - 五戒功德經
-
-# --- authorship ---
 author: 佛世尊
 author_en: ""
-
-# --- classification ---
 category: 2.1 般若經與相關釋論
 category_code: "2.1"
 category_en: 2.1 Discourses on the Perfection of Wisdom
 category_bo: 2.1 ཤེར་ཕྱིན་གྱི་མདོ།
 category_lzh: 2.1 般若經與相關釋論
-
-# --- segmentation ---
 segment_count: 425
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0037-bo: 425
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0037-bo]
+aligned_with:
+  - toh0037-bo
 work_group: kangyur-translations
 cluster_id: Toh0037
 toh_column_raw: Toh0037
-
-# --- provenance ---
-source_description: "https://buddha.now/toh0037/"
-source_url: "https://buddha.now/toh0037/"
-document_link: "https://docs.google.com/document/d/1E5D5-t9x-jNfGQZnV3X9wKRNYDynjWRLroMpZxRrHOY/edit?tab=t.0"
+source_description: https://buddha.now/toh0037/
+source_url: https://buddha.now/toh0037/
+document_link: https://docs.google.com/document/d/1E5D5-t9x-jNfGQZnV3X9wKRNYDynjWRLroMpZxRrHOY/edit?tab=t.0
 document_title: Toh0037《五戒功德經》v.1_zh
 google_doc_id: 1E5D5-t9x-jNfGQZnV3X9wKRNYDynjWRLroMpZxRrHOY
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 209
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: Staging
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -60,7 +46,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # 五戒功德經
