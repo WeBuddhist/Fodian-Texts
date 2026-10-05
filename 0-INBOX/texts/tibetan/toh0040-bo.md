@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: འོད་སྲུང་ཆེན་པོའི་མདོ།
 title_short: འོད་སྲུང་ཆེན་པོའི་མདོ།
 title_long: འོད་སྲུང་ཆེན་པོའི་མདོ།
@@ -9,58 +8,45 @@ file_type: root-text
 language: Tibetan
 lang_tag: bo
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh0040
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: WA0RK0040
 pecha_id: IEC1AA269
 pecha_no: IEC1AA269 - འོད་སྲུང་ཆེན་པོའི་མདོ།
-
-# --- authorship ---
 author: སངས་རྒྱས་བཅོམ་ལྡན་འདས།
 author_en: Buddha Bhagavan
-
-# --- classification ---
 category: 2.1 般若經與相關釋論
 category_code: "2.1"
 category_en: 2.1 Discourses on the Perfection of Wisdom
 category_bo: 2.1 ཤེར་ཕྱིན་གྱི་མདོ།
 category_lzh: 2.1 般若經與相關釋論
-
-# --- segmentation ---
 segment_count: 45
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0040-zh: 45
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0040-zh]
+aligned_with:
+  - toh0040-zh
 work_group: kangyur-translations
 cluster_id: Toh0040
 toh_column_raw: Toh0040
-
-# --- provenance ---
 source_description: བཀའ་འགྱུར།
 source_url: ""
-document_link: "https://docs.google.com/document/d/1K_F6S4H62FICTkv8ZGpCVBh-PBD3KhKZubgk_cTKHvM/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/1K_F6S4H62FICTkv8ZGpCVBh-PBD3KhKZubgk_cTKHvM/edit?tab=t.0
 document_title: Toh0040《大迦葉經》v.1_bo
 google_doc_id: 1K_F6S4H62FICTkv8ZGpCVBh-PBD3KhKZubgk_cTKHvM
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 211
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: Staging
 alignment_status: Alignment Checking
-alignment_file: "https://docs.google.com/spreadsheets/d/1JMmuMVQO_wf3mAN2fOiT9CkT9Oo9Ovro/edit?gid=2006100495#gid=2006100495"
-alignment_file_url: "https://docs.google.com/spreadsheets/d/1JMmuMVQO_wf3mAN2fOiT9CkT9Oo9Ovro/edit?gid=2006100495"
+alignment_file: https://docs.google.com/spreadsheets/d/1JMmuMVQO_wf3mAN2fOiT9CkT9Oo9Ovro/edit?gid=2006100495#gid=2006100495
+alignment_file_url: https://docs.google.com/spreadsheets/d/1JMmuMVQO_wf3mAN2fOiT9CkT9Oo9Ovro/edit?gid=2006100495
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # འོད་སྲུང་ཆེན་པོའི་མདོ།
