@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/chinese/toh0040-zh.md",
+                "file": "0-INBOX/texts/tibetan/toh44a-tai278-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh0040-zh"
+              "title": "toh44a-tai278-bo"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7e959e40a6569166",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95de0ed5ac54df64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/texts/chinese/toh44a-tai278-zh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "toh44a-tai278-zh"
             }
           }
         ]
@@ -183,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +219,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "95de0ed5ac54df64",
   "lastOpenFiles": [
-    "0-INBOX/texts/tibetan/toh0040-bo.md",
+    "0-INBOX/texts/tibetan/toh44a-tai278-bo.md",
+    "0-INBOX/texts/chinese/toh44a-tai278-zh.md",
     "0-INBOX/texts/chinese/toh0040-zh.md",
+    "0-INBOX/texts/tibetan/toh0040-bo.md",
     "0-INBOX/texts/chinese/toh0037-zh.md",
     "0-INBOX/texts/chinese/toh0030-zh.md",
     "0-INBOX/texts/chinese/toh0029-zh.md",
@@ -226,8 +249,6 @@
     "0-INBOX/texts/tibetan/toh0021-bo.md",
     "0-INBOX/texts/chinese/toh0020-kp0001-zh-hans.md",
     "0-INBOX/texts/chinese/toh16-zh-hant.md",
-    "0-INBOX/texts/tibetan/toh16-bo.md",
-    "0-INBOX/texts/tibetan/བོད་ཡིག.md",
     "Untitled.canvas",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
