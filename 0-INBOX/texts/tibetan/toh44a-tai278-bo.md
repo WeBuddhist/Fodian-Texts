@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: སངས་རྒྱས་ཕལ་པོ་ཆེ་ཞེས་བྱ་བ་ཤིན་ཏུ་རྒྱས་པ་ཆེན་པོའི་མདོ།
 title_short: སངས་རྒྱས་ཕལ་པོ་ཆེ་ཞེས་བྱ་བ་ཤིན་ཏུ་རྒྱས་པ་ཆེན་པོའི་མདོ།
 title_long: སངས་རྒྱས་ཕལ་པོ་ཆེ་ཞེས་བྱ་བ་ཤིན་ཏུ་རྒྱས་པ་ཆེན་པོའི་མདོ།
@@ -9,50 +8,37 @@ file_type: root-text
 language: Tibetan
 lang_tag: bo
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh44
 taisho: tai278
 bdrc_work_id: ""
 root_bdrc_work_id: WA0RK0044
 pecha_id: I83E829AF
 pecha_no: I83E829AF - སངས་རྒྱས་ཕལ་པོ་ཆེ་ཞེས་བྱ་བ་ཤིན་ཏུ་རྒྱས་པ་ཆེན་པོའི་མདོ།
-
-# --- authorship ---
 author: སངས་རྒྱས་བཅོམ་ལྡན་འདས།
 author_en: Buddha Bhagavan
-
-# --- classification ---
 category: 1. 經部
 category_code: "1"
 category_en: 1 Discourses
 category_bo: 1 མདོ་སྡེ།
 category_lzh: 1. 經部
-
-# --- segmentation ---
 segment_count: 232
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh44a-tai278-zh: 232
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh44a-tai278-zh]
+aligned_with:
+  - toh44a-tai278-zh
 work_group: gold-standard
 cluster_id: Toh44a-Tai278
 toh_column_raw: toh44
-
-# --- provenance ---
 source_description: Esukhia
 source_url: ""
-document_link: "https://docs.google.com/document/d/1vEEzzRq9kxNw2k10VqVCiXLd4r70KYaXTm4Yzo5PUkU/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/1vEEzzRq9kxNw2k10VqVCiXLd4r70KYaXTm4Yzo5PUkU/edit?tab=t.0
 document_title: 《大方廣佛華嚴經》〈淨行品〉 toh44a-tai278_bo
 google_doc_id: 1vEEzzRq9kxNw2k10VqVCiXLd4r70KYaXTm4Yzo5PUkU
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 28
 work_id_source: doc-title
-
-# --- workflow status ---
 pecha_status: fodian.org
 alignment_status: Ready
 alignment_file: ""
@@ -60,7 +46,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # སངས་རྒྱས་ཕལ་པོ་ཆེ་ཞེས་བྱ་བ་ཤིན་ཏུ་རྒྱས་པ་ཆེན་པོའི་མདོ།

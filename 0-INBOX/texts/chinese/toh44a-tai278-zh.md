@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: 《大方廣佛華嚴經》〈淨行品〉(佛馱跋陀羅譯)
 title_short: 《華嚴經》〈淨行品〉(佛馱跋陀羅譯)
 title_long: 《大方廣佛華嚴經》〈淨行品〉(佛馱跋陀羅譯)
@@ -9,50 +8,37 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh44
 taisho: tai278
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: I5F8259F8
 pecha_no: I5F8259F8 - 《華嚴經》〈淨行品〉(佛馱跋陀羅譯)
-
-# --- authorship ---
 author: 佛世尊
 author_en: ""
-
-# --- classification ---
 category: 1. 經部
 category_code: "1"
 category_en: 1 Discourses
 category_bo: 1 མདོ་སྡེ།
 category_lzh: 1. 經部
-
-# --- segmentation ---
 segment_count: 232
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh44a-tai278-bo: 232
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh44a-tai278-bo]
+aligned_with:
+  - toh44a-tai278-bo
 work_group: gold-standard
 cluster_id: Toh44a-Tai278
 toh_column_raw: toh44
-
-# --- provenance ---
 source_description: CBETA
 source_url: ""
-document_link: "https://docs.google.com/document/d/1oPkKiyD0Gv3073AxQ6iKojJJrqW6de00tPwR73uEf0s/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/1oPkKiyD0Gv3073AxQ6iKojJJrqW6de00tPwR73uEf0s/edit?tab=t.0
 document_title: 《大方廣佛華嚴經》〈淨行品〉（佛馱跋陀羅譯）toh44a-tai278_zh
 google_doc_id: 1oPkKiyD0Gv3073AxQ6iKojJJrqW6de00tPwR73uEf0s
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 29
 work_id_source: doc-title
-
-# --- workflow status ---
 pecha_status: fodian.org
 alignment_status: Ready
 alignment_file: ""
@@ -60,7 +46,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # 《大方廣佛華嚴經》〈淨行品〉(佛馱跋陀羅譯)
