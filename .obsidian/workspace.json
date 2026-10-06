@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d1de612917e13dfd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7602f4e744419f62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/texts/chinese/toh46-tai310-02-zh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "toh46-tai310-02-zh"
-            }
-          }
-        ]
-      },
-      {
         "id": "80d0e0cc42e55d14",
         "type": "tabs",
         "children": [
@@ -33,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/chinese/toh56to57-tai310-002-zh.md",
+                "file": "0-INBOX/texts/tibetan/toh56to57-tai310-002-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh56to57-tai310-002-zh"
+              "title": "toh56to57-tai310-002-bo"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d8a520d4829edde7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f056999d5efa9983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/texts/chinese/toh56to57-tai310-002-zh-hans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "toh56to57-tai310-002-zh-hans"
             }
           }
         ]
@@ -218,34 +218,34 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "b43c511bb585b31e",
+  "active": "f056999d5efa9983",
   "lastOpenFiles": [
+    "0-INBOX/texts/chinese/toh56to57-tai310-005-zh-hans.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-005-zh.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-003-zh-hans.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-003-zh.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-002-zh-hans.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-002-zh.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-00401-zh-hans.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-00401-zh.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-00103-zh-hans.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-00103-zh.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-00102-zh-hans.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-00102-zh.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-00101-zh-hans.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-00101-zh.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-008-zh-hans.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-008-zh.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-006-zh-hans-2.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-006-zh-hans.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-006-zh-2.md",
+    "0-INBOX/texts/chinese/toh56to57-tai310-006-zh.md",
     "0-INBOX/texts/tibetan/toh56to57-tai310-002-bo.md",
     "0-INBOX/texts/tibetan/toh46-tai310-02-bo.md",
     "0-INBOX/texts/chinese/toh46-tai310-02-zh.md",
     "0-INBOX/texts/chinese/toh44a-tai278-zh.md",
     "0-INBOX/texts/tibetan/toh44a-tai278-bo.md",
     "0-INBOX/texts/tibetan/toh0040-bo.md",
-    "0-INBOX/texts/tibetan/toh56to57-tai310-00401-bo.md",
-    "0-INBOX/texts/tibetan/toh56to57-tai310-00103-bo.md",
-    "0-INBOX/texts/tibetan/toh56to57-tai310-00102-bo.md",
-    "0-INBOX/texts/tibetan/toh56to57-tai310-00101-bo.md",
-    "0-INBOX/texts/tibetan/toh56to57-tai310-008-bo.md",
-    "0-INBOX/texts/tibetan/toh56to57-tai310-006-bo-2.md",
-    "0-INBOX/texts/tibetan/toh56to57-tai310-006-bo.md",
-    "0-INBOX/texts/tibetan/toh56to57-tai310-005-bo.md",
-    "0-INBOX/texts/tibetan/toh56to57-tai310-003-bo.md",
-    "0-INBOX/texts/tibetan/toh4054-tai1606-1-bo.md",
-    "0-INBOX/texts/tibetan/toh1164-kp0031-bo.md",
-    "0-INBOX/texts/tibetan/toh3822-kp0032-bo.md",
-    "0-INBOX/texts/tibetan/toh3877-kp0034-bo.md",
-    "0-INBOX/texts/tibetan/toh4045-kp0040-bo.md",
-    "0-INBOX/texts/tibetan/toh4049-tai1605-5-bo.md",
-    "0-INBOX/texts/tibetan/toh4054-tai1606-2-bo.md",
-    "0-INBOX/texts/tibetan/toh4054-tai1606-3-bo.md",
-    "0-INBOX/texts/tibetan/toh4054-tai1606-4-bo.md",
-    "0-INBOX/texts/tibetan/toh4054-tai1606-5-bo.md",
-    "0-INBOX/texts/chinese/toh0040-zh.md",
     "cjk-tibetan.css",
     "tibetan.css",
     "Untitled.canvas",
