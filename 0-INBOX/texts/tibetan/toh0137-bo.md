@@ -62,7 +62,6 @@ status: done
 
 
 
-
 # འཕགས་པ་ཏིང་ངེ་འཛིན་མཆོག་དམ་པ།
 
 *The Holy Sutra of the Supreme and Wondrous Samadhi*
