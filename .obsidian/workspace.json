@@ -203,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +218,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "cabe357725198b07",
+  "active": "b23478430dd6bacd",
   "lastOpenFiles": [
-    "0-INBOX/texts/tibetan/toh0150-bo.md",
     "0-INBOX/texts/chinese/toh0150-zh.md",
+    "0-INBOX/texts/tibetan/toh0150-bo.md",
     "0-INBOX/texts/chinese/toh0150-zh-hans.md",
     "0-INBOX/texts/chinese/toh0137-zh.md",
     "0-INBOX/texts/tibetan/toh0137-bo.md",

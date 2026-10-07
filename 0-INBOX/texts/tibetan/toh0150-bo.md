@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཞུས་པ་ཆོས་བདུན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
 title_short: འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཞུས་པ་ཆོས་བདུན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
 title_long: འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཞུས་པ་ཆོས་བདུན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
@@ -9,58 +8,45 @@ file_type: root-text
 language: Tibetan
 lang_tag: bo
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh0150
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: WA0RK0150
 pecha_id: I9C68318D
 pecha_no: I9C68318D - འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཞུས་པ་ཆོས་བདུན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
-
-# --- authorship ---
 author: སངས་རྒྱས་བཅོམ་ལྡན་འདས།
 author_en: Buddha Bhagavan
-
-# --- classification ---
 category: 1. 經部
 category_code: "1"
 category_en: 1 Discourses
 category_bo: 1 མདོ་སྡེ།
 category_lzh: 1. 經部
-
-# --- segmentation ---
 segment_count: 43
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0150-zh: 43
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0150-zh]
+aligned_with:
+  - toh0150-zh
 work_group: kangyur-translations
 cluster_id: Toh0150
 toh_column_raw: Toh0150
-
-# --- provenance ---
 source_description: བཀའ་འགྱུར།
 source_url: ""
-document_link: "https://docs.google.com/document/d/1RHfugGSVsnjNdiQF4UpAx48dzooXHuqdJHV4rqyyko4/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/1RHfugGSVsnjNdiQF4UpAx48dzooXHuqdJHV4rqyyko4/edit?tab=t.0
 document_title: Toh0150《聖觀自在菩薩所問七法大乘經》v.1_bo
 google_doc_id: 1RHfugGSVsnjNdiQF4UpAx48dzooXHuqdJHV4rqyyko4
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 217
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: fodian.org
 alignment_status: Alignment Checking
-alignment_file: "https://docs.google.com/spreadsheets/d/1Sz5Mt0tre4XwCLHyvl8rb-FXp_uUy3nu/edit?gid=271710980#gid=271710980"
-alignment_file_url: "https://docs.google.com/spreadsheets/d/1Sz5Mt0tre4XwCLHyvl8rb-FXp_uUy3nu/edit?gid=271710980"
+alignment_file: https://docs.google.com/spreadsheets/d/1Sz5Mt0tre4XwCLHyvl8rb-FXp_uUy3nu/edit?gid=271710980#gid=271710980
+alignment_file_url: https://docs.google.com/spreadsheets/d/1Sz5Mt0tre4XwCLHyvl8rb-FXp_uUy3nu/edit?gid=271710980
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཞུས་པ་ཆོས་བདུན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
