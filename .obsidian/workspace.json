@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "80d0e0cc42e55d14",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b43c511bb585b31e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/texts/chinese/toh0137-zh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "toh0137-zh"
-            }
-          }
-        ]
-      },
-      {
         "id": "4755c223d6788556",
         "type": "tabs",
         "children": [
@@ -100,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -202,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
