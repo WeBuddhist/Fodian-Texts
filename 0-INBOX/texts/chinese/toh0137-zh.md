@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: 聖三昧最上妙經
 title_short: 聖三昧最上妙經
 title_long: 聖三昧最上妙經
@@ -9,50 +8,37 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh0137
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: I91435FE4
 pecha_no: I91435FE4 - 聖三昧最上妙經
-
-# --- authorship ---
 author: 佛世尊
 author_en: ""
-
-# --- classification ---
 category: 1. 經部
 category_code: "1"
 category_en: 1 Discourses
 category_bo: 1 མདོ་སྡེ།
 category_lzh: 1. 經部
-
-# --- segmentation ---
 segment_count: 700
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0137-bo: 700
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0137-bo]
+aligned_with:
+  - toh0137-bo
 work_group: kangyur-translations
 cluster_id: Toh0137
 toh_column_raw: Toh0137
-
-# --- provenance ---
-source_description: "https://buddha.now/toh0137/"
-source_url: "https://buddha.now/toh0137/"
-document_link: "https://docs.google.com/document/d/1Lcz6ECdblwZuFULTrmm9rAiE2O5yEmJ2o7b6_wftmoA/edit?tab=t.0"
+source_description: https://buddha.now/toh0137/
+source_url: https://buddha.now/toh0137/
+document_link: https://docs.google.com/document/d/1Lcz6ECdblwZuFULTrmm9rAiE2O5yEmJ2o7b6_wftmoA/edit?tab=t.0
 document_title: Toh0137《聖三昧最上妙經》v.1_zh
 google_doc_id: 1Lcz6ECdblwZuFULTrmm9rAiE2O5yEmJ2o7b6_wftmoA
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 215
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: fodian.org
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -60,7 +46,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # 聖三昧最上妙經
