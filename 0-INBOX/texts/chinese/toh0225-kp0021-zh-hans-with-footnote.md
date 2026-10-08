@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: toh0225-kp0021
 title_short: ""
 title_long: ""
@@ -9,52 +8,41 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh-hans
 edition_variant: with-footnote
-
-# --- catalogue ids ---
 toh: toh0225
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: ""
 pecha_no: ""
-
-# --- authorship ---
 author: ""
 author_en: ""
-
-# --- classification ---
 category: ""
 category_code: ""
 category_en: ""
 category_bo: ""
 category_lzh: ""
-
-# --- segmentation ---
 segment_count: 55
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0225-kp0021-bo: 55
-  toh0225-kp0021-zh-hans: null
+  toh0225-kp0021-zh-hans:
   toh0225-kp0021-zh-without-footnote: 55
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0225-kp0021-bo, toh0225-kp0021-zh-without-footnote, toh0225-kp0021-zh-hans]
+aligned_with:
+  - toh0225-kp0021-bo
+  - toh0225-kp0021-zh-without-footnote
+  - toh0225-kp0021-zh-hans
 work_group: kumarajiva
 cluster_id: Toh0225_kp
 toh_column_raw: ""
-
-# --- provenance ---
 source_description: ""
 source_url: ""
-document_link: "https://docs.google.com/document/d/1cVkMOcVAYjI9Gz3KrtLePy4HHz-bASj98E_lTCPXZJU/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/1cVkMOcVAYjI9Gz3KrtLePy4HHz-bASj98E_lTCPXZJU/edit?tab=t.0
 document_title: Toh0225_kp0021_聖三歸依大乘經_zh_with footnote
 google_doc_id: 1cVkMOcVAYjI9Gz3KrtLePy4HHz-bASj98E_lTCPXZJU
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 159
 work_id_source: doc-title
-
-# --- workflow status ---
 pecha_status: ""
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -62,7 +50,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # toh0225-kp0021-zh-hans-with-footnote
@@ -82,8 +70,7 @@ status: draft
 
 顶礼三宝。
 
-如是我闻：一时，世尊在舍卫城祇树给孤独园，
-与大比丘僧千二百五十人俱。
+如是我闻：一时，世尊在舍卫城祇树给孤独园，与大比丘僧千二百五十人俱。
 
 尔时，具寿舍利子独居静处，心生是念：「善逝法主[^1]，导师今在，我当前往，问此等义：若具信善男子、善女人，归[^2]于佛，归依于法，及比丘僧，是人得福，当有几许[^3]？」
 
@@ -97,25 +84,18 @@ status: draft
 
 [14]平正如掌；复以七宝建塔，所谓：金、银、琉璃、玻璃、赤珠、玛瑙、砗磲[^13]，量等瞻洲，积至梵世；复以天香、天华[^14]、天鬘、天盖、幢幡，供养彼塔。是人复具如是神力：能移四大海水，至他方世界，［复以］摩鲁迦[^15]麻油满盛，如四大海，中立灯炷，量等须弥，如是旷劫，燃灯不绝。舍利子！于意云何？是人以此，得福多不？」
 
-白言：「甚多，世尊！甚多，善逝！
-出过一切声闻、独觉。
-世尊！此乃如来[^16]境界。
-善逝！此乃如来境界。」
-告曰：「舍利子！是人[^17]所得福蕴，比善男子、善女人，归依于佛，归依于法，归依于僧，所得福蕴，百分不及一，千分不及一，
-百千分、数分、计分乃至优波尼沙陀分，亦不及一。」
-说是法门时，三千大千世界动，遍动，等遍动；
-震，遍震，等遍震；
-涌，遍涌，等遍涌。
-[^18]尔时，空中出大电光，
-诸天亦出鼓声。
-具寿阿难即白佛言：
-「世尊！当何名此法门？云何受持？」
-世尊告曰：
-「阿难！是名『无边门成就』法门[^19]，以是名字，汝当受持。
-汝[^20]于此义，应如是见，如是受持。」
-世尊说是语已，
-具寿舍利子及诸比丘，[^21]于佛所说，称扬赞叹。
+白言：「甚多，世尊！甚多，善逝！出过一切声闻、独觉。世尊！此乃如来[^16]境界。善逝！此乃如来境界。」
+
+告曰：「舍利子！是人[^17]所得福蕴，比善男子、善女人，归依于佛，归依于法，归依于僧，所得福蕴，百分不及一，千分不及一，百千分、数分、计分乃至优波尼沙陀分，亦不及一。」
+
+说是法门时，三千大千世界动，遍动，等遍动；震，遍震，等遍震；涌，遍涌，等遍涌。[^18]尔时，空中出大电光，诸天亦出鼓声。
+
+具寿阿难即白佛言：「世尊！当何名此法门？云何受持？」世尊告曰：「阿难！是名『无边门成就』法门[^19]，以是名字，汝当受持。汝[^20]于此义，应如是见，如是受持。」
+
+世尊说是语已，具寿舍利子及诸比丘，[^21]于佛所说，称扬赞叹。
+
 圣三归依大乘经。
+
 印度亲教师一切智天与主校译师佛僧白则（吉祥积）翻译、校订、抉择。
 
 [^0]: 【初稿译者原有脚注】圣三归依：此处亦可解为「归依三圣」，而从梵藏语词的相互参照来看，三圣（āryatri/འཕགས་པ་གསུམ）的意思即是三宝，所以归依三圣，即为归依三宝。因此，译为圣三归依或归依三圣，意义皆相同。
