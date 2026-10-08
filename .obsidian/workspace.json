@@ -6,6 +6,7 @@
       {
         "id": "c5fd7d04c661cade",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "5780c84e703c8f15",
@@ -26,6 +27,7 @@
       {
         "id": "9550acb3f62adda6",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "b335d6fb031dd1a3",
