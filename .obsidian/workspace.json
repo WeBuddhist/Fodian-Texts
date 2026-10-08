@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5fd7d04c661cade",
+        "id": "02cad318f0d71c04",
         "type": "tabs",
         "children": [
           {
-            "id": "5780c84e703c8f15",
+            "id": "6c403eea408f3c1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/chinese/toh0212-zh.md",
+                "file": "0-INBOX/texts/tibetan/toh0215-kp0019-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh0212-zh"
+              "title": "toh0215-kp0019-bo"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -198,10 +199,14 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "5780c84e703c8f15",
+  "active": "6c403eea408f3c1e",
   "lastOpenFiles": [
-    "0-INBOX/texts/tibetan/toh0212-bo.md",
+    "0-INBOX/texts/chinese/toh0215-kp0019-zh-hans.md",
+    "0-INBOX/texts/chinese/toh0215-kp0019-zh-hans-with-footnote.md",
+    "0-INBOX/texts/chinese/toh0215-kp0019-zh.md",
+    "0-INBOX/texts/tibetan/toh0215-kp0019-bo.md",
     "0-INBOX/texts/chinese/toh0212-zh.md",
+    "0-INBOX/texts/tibetan/toh0212-bo.md",
     "0-INBOX/texts/chinese/toh0198-kp0016-zh-hans-with-footnote.md",
     "0-INBOX/texts/chinese/toh0158-kp0013-zh-hans-with-footnote.md",
     "0-INBOX/texts/chinese/toh0150-zh.md",
@@ -222,10 +227,6 @@
     "0-INBOX/texts/chinese/toh56to57-tai310-003-zh.md",
     "0-INBOX/texts/chinese/toh56to57-tai310-002-zh.md",
     "0-INBOX/texts/chinese/toh56to57-tai310-00401-zh-hans.md",
-    "0-INBOX/texts/chinese/toh56to57-tai310-00401-zh.md",
-    "0-INBOX/texts/chinese/toh56to57-tai310-00103-zh-hans.md",
-    "0-INBOX/texts/chinese/toh56to57-tai310-00103-zh.md",
-    "0-INBOX/texts/chinese/toh56to57-tai310-00102-zh-hans.md",
     "cjk-tibetan.css",
     "tibetan.css",
     "Untitled.canvas",
