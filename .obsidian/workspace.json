@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "9331318c7e8deddd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f59f78d8bff293d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/texts/tibetan/toh0215-kp0019-bo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "toh0215-kp0019-bo"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -182,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
