@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: 聖緣起大乘經
 title_short: 聖緣起大乘經
 title_long: 聖緣起大乘經
@@ -9,50 +8,37 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh0212
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: I1DCBAFCA
 pecha_no: I1DCBAFCA - 聖緣起大乘經
-
-# --- authorship ---
 author: 佛世尊
 author_en: ""
-
-# --- classification ---
 category: 1. 經部
 category_code: "1"
 category_en: 1 Discourses
 category_bo: 1 མདོ་སྡེ།
 category_lzh: 1. 經部
-
-# --- segmentation ---
 segment_count: 52
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0212-bo: 52
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0212-bo]
+aligned_with:
+  - toh0212-bo
 work_group: kangyur-translations
 cluster_id: Toh0212
 toh_column_raw: Toh0212
-
-# --- provenance ---
-source_description: "https://buddha.now/toh0212/"
-source_url: "https://buddha.now/toh0212/"
-document_link: "https://docs.google.com/document/d/1Wi45wveRVdMHi6RrPNC6N9EeXe0jFozHdzhQe7dKBQY/edit?tab=t.0"
+source_description: https://buddha.now/toh0212/
+source_url: https://buddha.now/toh0212/
+document_link: https://docs.google.com/document/d/1Wi45wveRVdMHi6RrPNC6N9EeXe0jFozHdzhQe7dKBQY/edit?tab=t.0
 document_title: Toh0212《聖緣起大乘經》v.1_zh
 google_doc_id: 1Wi45wveRVdMHi6RrPNC6N9EeXe0jFozHdzhQe7dKBQY
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 221
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: fodian.org
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -60,7 +46,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # 聖緣起大乘經
@@ -88,27 +74,12 @@ status: draft
 如來大沙門，
 常作如是說。"
 
-「觀自在！
-此緣起者，
-即諸如來法身。何人見緣起，彼即見如來。
-觀自在！
-若善男子、善女人，信心具足，
-於未有[塔]處，
-而能造塔，小至如菴摩羅果許，
-塔剎則如針許、
-露盤如末俱羅華許，
-內置法界緣起偈，
-是人將生梵福。
-命終之後，
-當生梵世；
-於彼命終，
-當生淨居天，福分與彼諸天等無有異。」
-世尊說是語已，
-諸聲聞、
-菩薩、
-一切眷屬，
-及諸世間天、人、阿修羅、乾闥婆等，皆大歡喜，
-於世尊所說，稱揚讚嘆。
+「觀自在！此緣起者，即諸如來法身。何人見緣起，彼即見如來。
+
+觀自在！若善男子、善女人，信心具足，於未有[塔]處，而能造塔，小至如菴摩羅果許，塔剎則如針許、露盤如末俱羅華許，內置法界緣起偈，是人將生梵福。命終之後，當生梵世；於彼命終，當生淨居天，福分與彼諸天等無有異。」
+
+世尊說是語已，諸聲聞、菩薩、一切眷屬，及諸世間天、人、阿修羅、乾闥婆等，皆大歡喜，於世尊所說，稱揚讚嘆。
+
 聖緣起大乘經
-印度和尚天主覺、
-主校譯師佛僧耶謝德翻譯、抉擇。
+
+印度和尚天主覺、主校譯師佛僧耶謝德翻譯、抉擇。
