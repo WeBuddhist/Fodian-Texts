@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: འཕགས་པ་ལྷག་པའི་བསམ་པ་བརྟན་པའི་ལེའུ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
 title_short: འཕགས་པ་ལྷག་པའི་བསམ་པ་བརྟན་པའི་ལེའུ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
 title_long: འཕགས་པ་ལྷག་པའི་བསམ་པ་བརྟན་པའི་ལེའུ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
@@ -9,58 +8,45 @@ file_type: root-text
 language: Tibetan
 lang_tag: bo
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh0224
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: WA0RK0224
 pecha_id: IFA8AC23A
 pecha_no: IFA8AC23A - འཕགས་པ་ལྷག་པའི་བསམ་པ་བརྟན་པའི་ལེའུ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
-
-# --- authorship ---
 author: སངས་རྒྱས་བཅོམ་ལྡན་འདས།
 author_en: Buddha Bhagavan
-
-# --- classification ---
 category: 1. 經部
 category_code: "1"
 category_en: 1 Discourses
 category_bo: 1 མདོ་སྡེ།
 category_lzh: 1. 經部
-
-# --- segmentation ---
 segment_count: 572
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0224-zh: 572
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0224-zh]
+aligned_with:
+  - toh0224-zh
 work_group: kangyur-translations
 cluster_id: Toh0224
 toh_column_raw: Toh0224
-
-# --- provenance ---
 source_description: བཀའ་འགྱུར།
 source_url: ""
-document_link: "https://docs.google.com/document/d/1PceznXHMinzobQxjm53uSbLfO5wo6OAhP1-Osw1BBaw/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/1PceznXHMinzobQxjm53uSbLfO5wo6OAhP1-Osw1BBaw/edit?tab=t.0
 document_title: Toh0224《聖堅勝意樂品大乘經》v.1＿bo
 google_doc_id: 1PceznXHMinzobQxjm53uSbLfO5wo6OAhP1-Osw1BBaw
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 223
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: fodian.org
 alignment_status: Alignment Checking
-alignment_file: "https://docs.google.com/spreadsheets/d/1joGEPZcbe6Mo6JyTnJBywDwr6rTxuZ5X/edit?gid=6527252#gid=6527252"
-alignment_file_url: "https://docs.google.com/spreadsheets/d/1joGEPZcbe6Mo6JyTnJBywDwr6rTxuZ5X/edit?gid=6527252"
+alignment_file: https://docs.google.com/spreadsheets/d/1joGEPZcbe6Mo6JyTnJBywDwr6rTxuZ5X/edit?gid=6527252#gid=6527252
+alignment_file_url: https://docs.google.com/spreadsheets/d/1joGEPZcbe6Mo6JyTnJBywDwr6rTxuZ5X/edit?gid=6527252
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # འཕགས་པ་ལྷག་པའི་བསམ་པ་བརྟན་པའི་ལེའུ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
