@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4738b9c91c57e0c6",
+        "id": "c2a81f5ca7145b80",
         "type": "tabs",
         "children": [
           {
-            "id": "796cce705544b6ab",
+            "id": "397293e0b651d752",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          }
-        ]
-      },
-      {
-        "id": "adbfbdfae545e2c4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4bbeca162293c6ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/texts/chinese/toh0224-zh-hans.md",
+                "file": "toh0224-zh-hans.md",
                 "mode": "source",
                 "source": false
               },
@@ -44,21 +24,21 @@
         ]
       },
       {
-        "id": "c46915cc47da2160",
+        "id": "4d7ce6fc00541a3f",
         "type": "tabs",
         "children": [
           {
-            "id": "75097ade58457ce7",
+            "id": "58d59de233ca9cd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/tibetan/toh0224-bo.md",
+                "file": "0-INBOX/texts/chinese/toh0224-zh-hans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh0224-bo"
+              "title": "toh0224-zh-hans"
             }
           }
         ]
@@ -120,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -239,12 +218,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "796cce705544b6ab",
+  "active": "58d59de233ca9cd8",
   "lastOpenFiles": [
+    "toh0224-zh-hans.md",
     "0-INBOX/texts/chinese/toh0224-zh-hans.md",
+    "0-INBOX/texts/tibetan/toh0224-bo.md",
     "Untitled 1.md",
     "0-INBOX/texts/chinese/toh0224-zh.md",
-    "0-INBOX/texts/tibetan/toh0224-bo.md",
     "0-INBOX/texts/tibetan/toh0225-kp0021-bo.md",
     "0-INBOX/texts/tibetan/toh0249-bo.md",
     "0-INBOX/texts/tibetan/toh0247-kp0022-bo.md",
@@ -266,7 +246,6 @@
     "0-INBOX/texts/tibetan/toh0198-kp0016-bo.md",
     "0-INBOX/texts/tibetan/toh0158-kp0013-bo.md",
     "0-INBOX/texts/tibetan/toh0037-bo.md",
-    "0-INBOX/texts/chinese/toh0137-zh.md",
     "cjk-tibetan.css",
     "tibetan.css",
     "Untitled.canvas",
