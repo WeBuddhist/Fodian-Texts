@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/tibetan/toh0283-kp0025-bo.md",
+                "file": "0-INBOX/texts/tibetan/toh0312-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh0283-kp0025-bo"
+              "title": "toh0312-bo"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -198,7 +197,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "667e6a6e629c4a9f",
   "lastOpenFiles": [
     "0-INBOX/texts/tibetan/toh0283-kp0025-bo.md",
     "0-INBOX/texts/chinese/toh0283-kp0025-zh-hans.md",
