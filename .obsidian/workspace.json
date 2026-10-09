@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/chinese/toh0225-kp0021-zh-hans-with-footnote.md",
+                "file": "0-INBOX/texts/tibetan/toh0247-kp0022-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh0225-kp0021-zh-hans-with-footnote"
+              "title": "toh0247-kp0022-bo"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -183,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +198,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "6c403eea408f3c1e",
   "lastOpenFiles": [
-    "0-INBOX/texts/tibetan/toh0225-kp0021-bo.md",
+    "0-INBOX/texts/chinese/toh0247-kp0022-zh-hans-with-footnote.md",
+    "0-INBOX/texts/tibetan/toh0247-kp0022-bo.md",
     "0-INBOX/texts/chinese/toh0225-kp0021-zh-hans-with-footnote.md",
+    "0-INBOX/texts/tibetan/toh0225-kp0021-bo.md",
     "0-INBOX/texts/tibetan/toh0224-bo.md",
     "0-INBOX/texts/chinese/toh0215-kp0019-zh-hans.md",
     "0-INBOX/texts/tibetan/toh0215-kp0019-bo.md",
@@ -224,8 +226,6 @@
     "0-INBOX/texts/tibetan/toh56to57-tai310-002-bo.md",
     "0-INBOX/texts/chinese/toh56to57-tai310-002-zh-hans.md",
     "0-INBOX/texts/chinese/toh56to57-tai310-005-zh-hans.md",
-    "0-INBOX/texts/chinese/toh56to57-tai310-005-zh.md",
-    "0-INBOX/texts/chinese/toh56to57-tai310-003-zh-hans.md",
     "cjk-tibetan.css",
     "tibetan.css",
     "Untitled.canvas",
