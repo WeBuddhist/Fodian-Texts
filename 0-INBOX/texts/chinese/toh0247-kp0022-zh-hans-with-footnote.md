@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: toh0247-kp0022
 title_short: ""
 title_long: ""
@@ -9,52 +8,41 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh-hans
 edition_variant: with-footnote
-
-# --- catalogue ids ---
 toh: toh0247
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: ""
 pecha_no: ""
-
-# --- authorship ---
 author: ""
 author_en: ""
-
-# --- classification ---
 category: ""
 category_code: ""
 category_en: ""
 category_bo: ""
 category_lzh: ""
-
-# --- segmentation ---
 segment_count: 133
 segment_scheme: literal-numbering
 peer_segment_counts:
   toh0247-kp0022-bo: 132
-  toh0247-kp0022-zh-hans: null
+  toh0247-kp0022-zh-hans:
   toh0247-kp0022-zh-without-footnote: 133
 segments_aligned: false
-
-# --- relations ---
-aligned_with: [toh0247-kp0022-bo, toh0247-kp0022-zh-without-footnote, toh0247-kp0022-zh-hans]
+aligned_with:
+  - toh0247-kp0022-bo
+  - toh0247-kp0022-zh-without-footnote
+  - toh0247-kp0022-zh-hans
 work_group: kumarajiva
 cluster_id: Toh0247_kp0022
 toh_column_raw: ""
-
-# --- provenance ---
 source_description: ""
 source_url: ""
-document_link: "https://docs.google.com/document/d/1iTrhsGx-qn2cZemOA4XqfiuNJ8zuUHmrTyFgGn5SEGs/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/1iTrhsGx-qn2cZemOA4XqfiuNJ8zuUHmrTyFgGn5SEGs/edit?tab=t.0
 document_title: Toh0247_kp0022_聖辯法義大乘經_zh
 google_doc_id: 1iTrhsGx-qn2cZemOA4XqfiuNJ8zuUHmrTyFgGn5SEGs
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 135
 work_id_source: doc-title
-
-# --- workflow status ---
 pecha_status: ""
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -62,7 +50,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # toh0247-kp0022-zh-hans-with-footnote
@@ -78,22 +66,19 @@ status: draft
 
 
 
+
+
 圣辨法义大乘经
+
 敬礼一切佛菩萨。
-如是我闻：一时，
-世尊在舍卫国祇树给孤独园，与大比丘众及大菩萨众俱。
-尔时，世尊告胜喜菩萨摩诃萨曰：
-「善男子！乃往过去无量阿僧祇劫，有世界名曰『华源』。
-彼世界地平如掌，富乐炽盛，五谷丰熟，安隐欢喜，人民众多，具足充满。
-善男子！华源世界有佛，号曰『华生如来．应供．正遍知』，
-彼佛今现住世，为四众、天、龙、夜叉、乾闼婆、阿修罗、迦楼罗、紧那罗、摩睺罗伽、人非人等，现在说法。
-「善男子！华源世界有人王出世，为转轮王，统领三千大千世界，名曰『得胜』。
-善男子！得胜王世，人民安乐，
-具行十善，于己妻室喜足而住。
-国人纯修一乘，
-所谓：纯修于大乘，
-修于上乘，
-修于胜乘，修于妙乘，修于最胜尊上、无上无上上、无上乘，修于无等乘，修于无等等乘，修于不思议乘，修于无量乘。
+
+如是我闻：一时，世尊在舍卫国祇树给孤独园，与大比丘众及大菩萨众俱。
+
+尔时，世尊告胜喜菩萨摩诃萨曰：「善男子！乃往过去无量阿僧祇劫，有世界名曰『华源』。彼世界地平如掌，富乐炽盛，五谷丰熟，安隐欢喜，人民众多，具足充满。
+
+善男子！华源世界有佛，号曰『华生如来．应供．正遍知』，彼佛今现住世，为四众、天、龙、夜叉、乾闼婆、阿修罗、迦楼罗、紧那罗、摩睺罗伽、人非人等，现在说法。「善男子！华源世界有人王出世，为转轮王，统领三千大千世界，名曰『得胜』。
+
+善男子！得胜王世，人民安乐，具行十善，于己妻室喜足而住。国人纯修一乘，所谓：纯修于大乘，修于上乘，修于胜乘，修于妙乘，修于最胜尊上、无上无上上、无上乘，修于无等乘，修于无等等乘，修于不思议乘，修于无量乘。
 
 善男子！得胜王世，唯有大乘，尚不闻余乘之名。「善男子！得胜王有九万九千后妃眷属，众妃不修余乘，纯属大乘，昼夜一心希求于法、好乐于法。
 
