@@ -24,21 +24,21 @@
         ]
       },
       {
-        "id": "9a756a24bd50467b",
+        "id": "c46915cc47da2160",
         "type": "tabs",
         "children": [
           {
-            "id": "393235c01451a75d",
+            "id": "75097ade58457ce7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/tibetan/toh0247-kp0022-bo.md",
+                "file": "0-INBOX/texts/tibetan/toh0224-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh0247-kp0022-bo"
+              "title": "toh0224-bo"
             }
           }
         ]
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -219,15 +218,16 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "393235c01451a75d",
+  "active": "796cce705544b6ab",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "0-INBOX/texts/tibetan/toh0247-kp0022-bo.md",
     "0-INBOX/texts/tibetan/toh0224-bo.md",
+    "0-INBOX/texts/tibetan/toh0225-kp0021-bo.md",
+    "0-INBOX/texts/tibetan/toh0249-bo.md",
+    "0-INBOX/texts/tibetan/toh0247-kp0022-bo.md",
+    "0-INBOX/texts/chinese/toh0247-kp0022-zh-hans-with-footnote.md",
+    "Untitled 1.md",
     "0-INBOX/texts/chinese/toh0224-zh-hans.md",
     "0-INBOX/texts/chinese/toh0224-zh.md",
-    "0-INBOX/texts/tibetan/toh0225-kp0021-bo.md",
-    "0-INBOX/texts/chinese/toh0247-kp0022-zh-hans-with-footnote.md",
     "0-INBOX/texts/chinese/toh0225-kp0021-zh-hans-without-footnote.md",
     "0-INBOX/texts/chinese/toh0225-kp0021-zh-hans-with-footnote.md",
     "0-INBOX/texts/chinese/toh0215-kp0019-zh-hans.md",
@@ -246,7 +246,6 @@
     "0-INBOX/texts/tibetan/toh0158-kp0013-bo.md",
     "0-INBOX/texts/tibetan/toh0037-bo.md",
     "0-INBOX/texts/chinese/toh0137-zh.md",
-    "0-INBOX/texts/tibetan/toh0137-bo.md",
     "cjk-tibetan.css",
     "tibetan.css",
     "Untitled.canvas",
