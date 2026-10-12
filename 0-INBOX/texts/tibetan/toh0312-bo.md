@@ -48,7 +48,7 @@ ingest_status: with-body
 retrieved: 2026-09-21
 status: done
 ---
-
+ 
 # འཕགས་པ་ཡངས་པའི་གྲོང་ཁྱེར་དུ་འཇུག་པའི་མདོ་ཆེན་པོ།
 
 *The Noble Mahayana Sutra on the Sacred Entry into Vaiśālī*
