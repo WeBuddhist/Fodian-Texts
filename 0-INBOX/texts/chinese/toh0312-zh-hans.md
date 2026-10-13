@@ -48,8 +48,7 @@ ingest_status: with-body
 retrieved: 2026-09-21
 status: done
 ---
-
-  ### 聖入毘舍離城大經
+### 聖入毘舍離城大經
 
 顶礼一切佛菩萨。
 
