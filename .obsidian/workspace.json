@@ -11,10 +11,14 @@
             "id": "7c9abf08a0e085d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/new data/Chinese/toh0027-zh.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "toh0027-zh"
             }
           }
         ]
@@ -193,16 +197,16 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "7c9abf08a0e085d8",
   "lastOpenFiles": [
+    "0-INBOX/raw-data/pecha-sheet/toh0027-bo.md",
     "0-INBOX/new data/Tibetan/toh0040-bo.md",
     "0-INBOX/new data/Tibetan/toh0037-bo.md",
     "0-INBOX/new data/Tibetan/toh0030-bo.md",
     "0-INBOX/new data/Tibetan/toh0029-bo.md",
     "0-INBOX/new data/Tibetan/toh0028-bo.md",
-    "0-INBOX/raw-data/pecha-sheet/toh0027-bo.md",
     "0-INBOX/new data/Tibetan/toh0020-kp0001-bo.md",
-    "0-INBOX/texts/tibetan/toh0026-bo.md",
+    "0-INBOX/new data/Tibetan/toh0026-bo.md",
     "0-INBOX/new data/Tibetan/toh0021-bo.md",
     "0-INBOX/new data/Tibetan/toh0224-bo.md",
     "0-INBOX/new data/Chinese/toh0224-zh-hans.md",
