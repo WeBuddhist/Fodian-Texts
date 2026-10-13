@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: 圣坚胜意乐品大乘经
 title_short: 圣坚胜意乐品大乘经
 title_long: 圣坚胜意乐品大乘经
@@ -9,50 +8,37 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh-hans
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh0224
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: IB4BC59FE
 pecha_no: IB4BC59FE - 圣坚胜意乐品大乘经
-
-# --- authorship ---
 author: 佛世尊
 author_en: ""
-
-# --- classification ---
 category: 1. 经部
 category_code: "1"
 category_en: 1 Discourses
 category_bo: 1 མདོ་སྡེ།
 category_lzh: 1. 经部
-
-# --- segmentation ---
 segment_count: 572
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0224-bo: 572
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0224-bo]
+aligned_with:
+  - toh0224-bo
 work_group: kangyur-translations
 cluster_id: Toh0224
 toh_column_raw: Toh0224
-
-# --- provenance ---
-source_description: "https://buddha.now/toh0224/"
-source_url: "https://buddha.now/toh0224/"
-document_link: "https://docs.google.com/document/d/1v3pCf9d-PvUEOVHUvoit8LiKC-8-qCP5p9iK7jTGRkU/edit?tab=t.0"
+source_description: https://buddha.now/toh0224/
+source_url: https://buddha.now/toh0224/
+document_link: https://docs.google.com/document/d/1v3pCf9d-PvUEOVHUvoit8LiKC-8-qCP5p9iK7jTGRkU/edit?tab=t.0
 document_title: Toh0224《聖堅勝意樂品大乘經》v.1＿zh
 google_doc_id: 1v3pCf9d-PvUEOVHUvoit8LiKC-8-qCP5p9iK7jTGRkU
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 224
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: fodian.org
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -60,7 +46,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 ### 聖堅勝意樂品大乘經
 
