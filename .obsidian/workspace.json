@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "574dc29ec55fc26e",
+        "id": "3551247d380f2f3e",
         "type": "tabs",
         "children": [
           {
-            "id": "70430bf3550258b5",
+            "id": "7c9abf08a0e085d8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,6 +195,15 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "0-INBOX/new data/Tibetan/toh0040-bo.md",
+    "0-INBOX/new data/Tibetan/toh0037-bo.md",
+    "0-INBOX/new data/Tibetan/toh0030-bo.md",
+    "0-INBOX/new data/Tibetan/toh0029-bo.md",
+    "0-INBOX/new data/Tibetan/toh0028-bo.md",
+    "0-INBOX/raw-data/pecha-sheet/toh0027-bo.md",
+    "0-INBOX/new data/Tibetan/toh0020-kp0001-bo.md",
+    "0-INBOX/texts/tibetan/toh0026-bo.md",
+    "0-INBOX/new data/Tibetan/toh0021-bo.md",
     "0-INBOX/new data/Tibetan/toh0224-bo.md",
     "0-INBOX/new data/Chinese/toh0224-zh-hans.md",
     "0-INBOX/texts/chinese/toh0224-zh.md",
@@ -212,15 +221,6 @@
     "0-INBOX/new data/Chinese/toh0028-zh.md",
     "0-INBOX/texts/chinese/toh0028-zh-hans.md",
     "0-INBOX/new data/Chinese/toh0029-zh.md",
-    "0-INBOX/texts/chinese/toh0029-zh-hans.md",
-    "0-INBOX/new data/Chinese/toh0030-zh.md",
-    "0-INBOX/texts/chinese/toh0030-zh-hans.md",
-    "0-INBOX/new data/Chinese/toh0037-zh.md",
-    "0-INBOX/texts/chinese/toh0037-zh-hans.md",
-    "0-INBOX/new data/Chinese/toh0040-zh.md",
-    "0-INBOX/texts/chinese/toh0040-zh-hans.md",
-    "0-INBOX/new data/Chinese/toh44a-tai278-zh.md",
-    "0-INBOX/texts/chinese/toh44a-tai278-zh-hans.md",
     "0-INBOX/new data/Tibetan",
     "0-INBOX/new data/Chinese",
     "1-SOURCES/Translations",
