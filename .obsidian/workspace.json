@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "99d99e08d2938eef",
+        "id": "51ce61f496ba0a25",
         "type": "tabs",
         "children": [
           {
-            "id": "049aab4713fdae7e",
+            "id": "d93de5d82dd6a84c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,6 +195,10 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "0-INBOX/new data/Chinese",
+    "0-INBOX/texts/tibetan/toh16-bo.md",
+    "0-INBOX/texts/tibetan/toh0021-bo.md",
+    "0-INBOX/texts/tibetan/toh0020-kp0001-bo.md",
     "1-SOURCES/Translations/zh-modern-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md",
     "1-SOURCES/Translations/zh-hant-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md",
     "1-SOURCES/Translations/zh-hant-toh555-the-stra-of-the-sublime-golden-light.md",
@@ -217,10 +221,6 @@
     "1-SOURCES/Translations/zh-hant-toh0212-the-noble-mahayana-sutra-of-dependent-origination.md",
     "1-SOURCES/Translations/zh-hant-toh0198-the-rya-maitreya-initiates-the-great-vehicle-stra.md",
     "1-SOURCES/Translations/zh-hant-toh0158-the-sutra-requested-by-the-noble-brahma-on-the-great-vehicle.md",
-    "1-SOURCES/Translations/zh-hant-toh0150-the-noble-mahayana-sutra-of-the-seven-dharmas-requested-by-t.md",
-    "1-SOURCES/Translations/zh-hant-toh0137-the-holy-sutra-of-the-supreme-and-wondrous-samadhi.md",
-    "1-SOURCES/Translations/zh-hant-toh0040-the-sutra-of-mahakashyapa.md",
-    "1-SOURCES/Translations/zh-hant-toh0037-the-sutra-on-the-merits-of-the-five-precepts.md",
     "1-SOURCES/Translations",
     "1-SOURCES/Text",
     "0-INBOX/new data",
