@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: 圣入毘舍离城大经
 title_short: 圣入毘舍离城大经
 title_long: 圣入毘舍离城大经
@@ -9,50 +8,37 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh-hans
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh0312
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: I1949AA19
 pecha_no: I1949AA19 - 圣入毘舍离城大经
-
-# --- authorship ---
 author: 佛世尊
 author_en: ""
-
-# --- classification ---
 category: 1. 经部
 category_code: "1"
 category_en: 1 Discourses
 category_bo: 1 མདོ་སྡེ།
 category_lzh: 1. 经部
-
-# --- segmentation ---
 segment_count: 270
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0312-bo: 270
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0312-bo]
+aligned_with:
+  - toh0312-bo
 work_group: kangyur-translations
 cluster_id: Toh0312
 toh_column_raw: Toh0312
-
-# --- provenance ---
-source_description: "https://buddha.now/toh0312/"
-source_url: "https://buddha.now/toh0312/"
-document_link: "https://docs.google.com/document/d/1GH32dEKTIXgpggnBHzIU72NSh06xspc5rHlCuRoMbHU/edit?tab=t.0"
+source_description: https://buddha.now/toh0312/
+source_url: https://buddha.now/toh0312/
+document_link: https://docs.google.com/document/d/1GH32dEKTIXgpggnBHzIU72NSh06xspc5rHlCuRoMbHU/edit?tab=t.0
 document_title: Toh0312《聖入毘舍離城大經》v.1_zh
 google_doc_id: 1GH32dEKTIXgpggnBHzIU72NSh06xspc5rHlCuRoMbHU
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 233
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: fodian.org
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -60,11 +46,8 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
-
-  
-
 ### 聖入毘舍離城大經
 
 顶礼一切佛菩萨。
