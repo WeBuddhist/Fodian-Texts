@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "99d99e08d2938eef",
+        "id": "602d1da54da2ef9e",
         "type": "tabs",
         "children": [
           {
-            "id": "049aab4713fdae7e",
+            "id": "fb9e542047857066",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,12 +195,15 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "0-INBOX/texts/chinese/toh16-zh-hant.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "1-SOURCES/new data",
-    "Untitled 2.md",
     "0-INBOX/texts/chinese/toh0312-zh-hans.md",
     "0-INBOX/texts/tibetan/toh0312-bo.md",
     "0-INBOX/texts/tibetan/toh0283-kp0025-bo.md",
@@ -220,17 +223,14 @@
     "toh0224-zh-new.md",
     "0-INBOX/texts/chinese/toh0224-zh-hans.md",
     "0-INBOX/texts/tibetan/toh0224-bo.md",
-    "Untitled 1.md",
     "0-INBOX/texts/chinese/toh0224-zh.md",
     "0-INBOX/texts/chinese/toh0247-kp0022-zh-hans-with-footnote.md",
     "0-INBOX/texts/chinese/toh0225-kp0021-zh-hans-without-footnote.md",
-    "0-INBOX/texts/chinese/toh0225-kp0021-zh-hans-with-footnote.md",
     "cjk-tibetan.css",
     "tibetan.css",
     "Untitled.canvas",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__/inbox_to_sources.cpython-314.pyc",
     "4-SYSTEM/Skills/inbox-to-sources/__pycache__",
-    "0-INBOX/raw-data/pecha-sheet/sources-write-report.json",
-    "0-INBOX/raw-data/pecha-sheet/sources-plan.json"
+    "0-INBOX/raw-data/pecha-sheet/sources-write-report.json"
   ]
 }
