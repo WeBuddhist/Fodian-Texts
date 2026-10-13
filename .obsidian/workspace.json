@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "602d1da54da2ef9e",
+        "id": "95d3ade1ae2744a5",
         "type": "tabs",
         "children": [
           {
-            "id": "fb9e542047857066",
+            "id": "7f57b27cbe411216",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/texts/chinese/toh0215-kp0019-zh.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "toh0215-kp0019-zh"
             }
           }
         ]
@@ -193,44 +197,44 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "7f57b27cbe411216",
   "lastOpenFiles": [
+    "0-INBOX/texts/chinese/toh0225-kp0021-zh-hans-without-footnote.md",
+    "0-INBOX/texts/chinese/toh0224-zh.md",
+    "0-INBOX/texts/chinese/toh0224-zh-hans.md",
+    "0-INBOX/new data/Chinese/toh0225-kp0021-zh-hans-with-footnote.md",
+    "0-INBOX/new data/Chinese/toh0247-kp0022-zh-hans-with-footnote.md",
+    "0-INBOX/texts/chinese/toh0247-kp0022-zh-hans-without-footnote.md",
+    "0-INBOX/texts/chinese/toh0247-kp0022-zh-without-footnote.md",
+    "0-INBOX/texts/chinese/toh0249-zh.md",
+    "0-INBOX/texts/chinese/toh0282-zh.md",
+    "0-INBOX/new data/Chinese/toh0249-zh-hans.md",
+    "0-INBOX/new data/Chinese/toh0282-zh-hans.md",
+    "0-INBOX/new data/Chinese/toh0283-kp0025-zh-hans.md",
+    "0-INBOX/texts/chinese/toh0283-kp0025-zh-hans-with-footnote.md",
+    "0-INBOX/texts/chinese/toh0283-kp0025-zh-with-footnote.md",
+    "0-INBOX/new data/Chinese/toh0312-zh-hans.md",
+    "0-INBOX/texts/tibetan/toh0312-bo.md",
     "0-INBOX/new data/Tibetan/toh16-bo.md",
     "0-INBOX/new data/Tibetan",
+    "0-INBOX/new data/Chinese",
+    "0-INBOX/texts/tibetan/toh0021-bo.md",
+    "0-INBOX/texts/tibetan/toh0020-kp0001-bo.md",
+    "1-SOURCES/Translations/zh-modern-toh0021-the-heart-of-the-perfection-of-wisdom-the-blessed-mother.md",
+    "1-SOURCES/Translations/zh-hant-toh56-heap-of-jewels-bodhisattva-canon-assembly-xuanzang.md",
+    "1-SOURCES/Translations/zh-hant-toh555-the-stra-of-the-sublime-golden-light.md",
+    "1-SOURCES/Translations/zh-hant-toh46-heap-of-jewels-second-assembly-limitless-adornment-assembly.md",
+    "1-SOURCES/Translations/zh-hant-toh44-the-chapter-on-pure-conduct-of-the-ornaments-of-all-the-lord.md",
+    "1-SOURCES/Translations/zh-hant-toh4049-the-compendium-of-abhidharma.md",
+    "1-SOURCES/Translations/zh-hant-toh16-the-sutra-of-the-great-vehicle-called-the-diamond-cutter.md",
+    "1-SOURCES/Translations",
+    "1-SOURCES/Text",
     "0-INBOX/new data",
-    "0-INBOX/texts/chinese/toh16-zh-hant.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
-    "1-SOURCES/new data",
-    "0-INBOX/texts/chinese/toh0312-zh-hans.md",
-    "0-INBOX/texts/tibetan/toh0312-bo.md",
-    "0-INBOX/texts/tibetan/toh0283-kp0025-bo.md",
-    "0-INBOX/texts/chinese/toh0283-kp0025-zh-hans.md",
-    "0-INBOX/texts/chinese/toh0283-kp0025-zh.md",
-    "0-INBOX/texts/chinese/toh0282-zh-hans.md",
-    "0-INBOX/texts/tibetan/toh0282-bo.md",
-    "0-INBOX/texts/chinese/toh0282-zh.md",
-    "0-INBOX/texts/chinese/toh0249-zh-hans.md",
-    "0-INBOX/texts/tibetan/toh0249-bo.md",
-    "0-INBOX/texts/chinese/toh0249-zh.md",
-    "0-INBOX/texts/tibetan/toh0198-kp0016-bo.md",
-    "0-INBOX/texts/tibetan/toh0212-bo.md",
-    "0-INBOX/texts/tibetan/toh0215-kp0019-bo.md",
-    "0-INBOX/texts/tibetan/toh0247-kp0022-bo.md",
-    "0-INBOX/texts/tibetan/toh0225-kp0021-bo.md",
-    "toh0224-zh-new.md",
-    "0-INBOX/texts/chinese/toh0224-zh-hans.md",
-    "0-INBOX/texts/tibetan/toh0224-bo.md",
-    "0-INBOX/texts/chinese/toh0224-zh.md",
-    "0-INBOX/texts/chinese/toh0247-kp0022-zh-hans-with-footnote.md",
-    "cjk-tibetan.css",
-    "tibetan.css",
-    "Untitled.canvas",
-    "4-SYSTEM/Skills/inbox-to-sources/__pycache__/inbox_to_sources.cpython-314.pyc"
+    "1-SOURCES/Audio",
+    "1-SOURCES/References",
+    "1-SOURCES/Commentaries",
+    "0-INBOX/texts/unsorted",
+    "0-INBOX/texts/tibetan",
+    "Untitled.canvas"
   ]
 }
