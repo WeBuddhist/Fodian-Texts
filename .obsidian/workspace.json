@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1be1324d5e21da44",
+        "id": "a1485b979b048330",
         "type": "tabs",
         "children": [
           {
-            "id": "6db0dea80d733736",
+            "id": "001796ae2d1c4d21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/chinese/toh0283-kp0025-zh.md",
+                "file": "0-INBOX/texts/tibetan/toh0026-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh0283-kp0025-zh"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5aa3f4f8a821001c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d03e4137669f981e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/texts/tibetan/toh0283-kp0025-bo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "toh0283-kp0025-bo"
+              "title": "toh0026-bo"
             }
           }
         ]
@@ -217,12 +197,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "6db0dea80d733736",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
-    "0-INBOX/texts/tibetan/toh0283-kp0025-bo.md",
-    "0-INBOX/texts/chinese/toh0283-kp0025-zh.md",
     "0-INBOX/texts/chinese/toh0283-kp0025-zh-with-footnote.md",
     "0-INBOX/texts/chinese/toh0283-kp0025-zh-hans-with-footnote.md",
+    "0-INBOX/new data/Chinese/toh0283-kp0025-zh.md",
+    "0-INBOX/new data/Tibetan/toh0283-kp0025-bo.md",
     "0-INBOX/new data/Tibetan/toh0282-bo.md",
     "0-INBOX/new data/Tibetan/toh0225-kp0021-bo.md",
     "0-INBOX/new data/Tibetan/toh0249-bo.md",
