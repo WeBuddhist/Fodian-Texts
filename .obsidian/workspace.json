@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/tibetan/toh0328-bo.md",
+                "file": "0-INBOX/texts/chinese/toh0328-zh-hans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh0328-bo"
+              "title": "toh0328-zh-hans"
             }
           }
         ]
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +200,9 @@
   },
   "active": "001796ae2d1c4d21",
   "lastOpenFiles": [
+    "0-INBOX/texts/chinese/toh0328-zh.md",
+    "0-INBOX/texts/chinese/toh0328-zh-hans.md",
+    "0-INBOX/texts/tibetan/toh0328-bo.md",
     "0-INBOX/new data/Tibetan/toh0215-kp0019-bo.md",
     "0-INBOX/texts/chinese/toh0215-kp0019-zh.md",
     "0-INBOX/texts/tibetan/toh0115-bo.md",
@@ -211,7 +215,6 @@
     "0-INBOX/texts/tibetan/toh555-tai665-bo.md",
     "0-INBOX/texts/tibetan/toh0346-bo.md",
     "0-INBOX/texts/tibetan/toh341-tai202-bo.md",
-    "0-INBOX/texts/tibetan/toh0328-bo.md",
     "0-INBOX/new data/Tibetan/toh0312-bo.md",
     "0-INBOX/texts/tibetan/toh0198-kp0016-bo.md",
     "0-INBOX/texts/tibetan/toh0158-kp0013-bo.md",
@@ -223,8 +226,6 @@
     "0-INBOX/texts/chinese/toh0283-kp0025-zh-with-footnote.md",
     "0-INBOX/texts/chinese/toh0283-kp0025-zh-hans-with-footnote.md",
     "0-INBOX/new data/Chinese/toh0283-kp0025-zh.md",
-    "0-INBOX/new data/Tibetan/toh0283-kp0025-bo.md",
-    "0-INBOX/new data/Tibetan/toh0282-bo.md",
     "0-INBOX/new data/Tibetan",
     "0-INBOX/new data/Chinese",
     "1-SOURCES/Translations",
