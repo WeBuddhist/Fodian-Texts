@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: དགའ་བོ་རབ་ཏུ་བྱུང་བའི་མདོ།
 title_short: དགའ་བོ་རབ་ཏུ་བྱུང་བའི་མདོ།
 title_long: དགའ་བོ་རབ་ཏུ་བྱུང་བའི་མདོ།
@@ -9,58 +8,45 @@ file_type: root-text
 language: Tibetan
 lang_tag: bo
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh0328
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: WA0RK0328
 pecha_id: IB7350B76
 pecha_no: IB7350B76 - དགའ་བོ་རབ་ཏུ་བྱུང་བའི་མདོ།
-
-# --- authorship ---
 author: སངས་རྒྱས་བཅོམ་ལྡན་འདས།
 author_en: Buddha Bhagavan
-
-# --- classification ---
 category: 1. 經部
 category_code: "1"
 category_en: 1 Discourses
 category_bo: 1 མདོ་སྡེ།
 category_lzh: 1. 經部
-
-# --- segmentation ---
 segment_count: 188
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0328-zh: 188
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0328-zh]
+aligned_with:
+  - toh0328-zh
 work_group: kangyur-translations
 cluster_id: Toh0328
 toh_column_raw: Toh0328
-
-# --- provenance ---
 source_description: བཀའ་འགྱུར།
 source_url: ""
-document_link: "https://docs.google.com/document/d/1qAFPxAN6iAbXrJMoMggM4Cz5w5ra9vfnIJY9j_IXXrs/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/1qAFPxAN6iAbXrJMoMggM4Cz5w5ra9vfnIJY9j_IXXrs/edit?tab=t.0
 document_title: Toh0328《難陀出家經》v.1_bo
 google_doc_id: 1qAFPxAN6iAbXrJMoMggM4Cz5w5ra9vfnIJY9j_IXXrs
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 235
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: fodian.org
 alignment_status: Alignment Checking
-alignment_file: "https://docs.google.com/spreadsheets/d/1qIUO1Ivm0pamusYmE-st1gE3p7a5TsEd/edit?gid=701347073#gid=701347073"
-alignment_file_url: "https://docs.google.com/spreadsheets/d/1qIUO1Ivm0pamusYmE-st1gE3p7a5TsEd/edit?gid=701347073"
+alignment_file: https://docs.google.com/spreadsheets/d/1qIUO1Ivm0pamusYmE-st1gE3p7a5TsEd/edit?gid=701347073#gid=701347073
+alignment_file_url: https://docs.google.com/spreadsheets/d/1qIUO1Ivm0pamusYmE-st1gE3p7a5TsEd/edit?gid=701347073
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # དགའ་བོ་རབ་ཏུ་བྱུང་བའི་མདོ།
@@ -90,6 +76,7 @@ status: draft
 སངས་རྒྱས་ཐམས་ཅད་ཀྱི་མ་འདྲེས་པ་ཡིན་ནོ། །སེམས་ཅན་ཐམས་ཅད་ཀྱིས་མཆོད་པར་བྱ་བ་ཡིན་ནོ། །མཁས་པ་རྣམས་ཀྱིས་བསྔགས་པ་ཡིན་ནོ། །ཐར་པར་འགྲོ་བ་རྣམས་ཀྱི་ལམ་ཡིན་ནོ། །སེམས་ཅན་དག་པ་རྣམས་ཀྱི་བསྙེན་པར་བྱ་བ་ཡིན་ནོ། །སྣོད་དུ་གྱུར་པ་རྣམས་ཀྱིས་བསྟེན་པར་བྱ་བ་ཡིན་ནོ། །ངན་སོང་གི་སྒོ་གཅོད་པ་ཡིན་ནོ། །མཐོ་རིས་དང་ཐར་པའི་སྒོ་འབྱེད་པ་ཡིན་ནོ། །ལྷའི་འགྲོ་བ་རྣམས་ཀུན་དུ་འགེངས་པ་ཡིན་ནོ། །སྡུག་བསྔལ་ཐམས་ཅད་ཀུན་དུ་གཅོད་པ་ཡིན་ནོ། །
 
 སྲེད་པའི་འཆིང་བས་བཅིངས་པ་རྣམས་རྣམ་པར་གྲོལ་བར་བྱེད་པ་ཡིན་ཏེ། དགའ་བོ་དེ་ནི་རབ་ཏུ་བྱུང་བ་ཞེས་བྱའོ། །ཡང་དག་པའི་ལྟ་བའི་ཁྱིམ་ཡིན་ནོ། །ཐར་པའི་ཡང་དག་པར་སྡོམ་པ་ཡིན་ནོ། །མྱ་ངན་ལས་འདས་པ་ལ་བསྙེན་པ་ཡིན་ནོ། །རྒྱུན་ཉེ་བར་གཅོད་པ་ཡིན་ནོ། །ཉོན་མོངས་པ་རྣམས་སྲེག་པ་ཡིན་ནོ། །ཕྲ་རྒྱས་རྣམས་འབྱིན་པ་ཡིན་ནོ། །ལྟ་བ་ངན་པའི་དྲ་བ་རྣམས་འཇིག་པར་བྱེད་པ་ཡིན་ནོ། །
+
 བདུད་ཀྱི་རྒྱལ་མཚན་སྙོལ་བ་ཡིན་ནོ། །བཟོད་པ་སྨྲ་བ་སྒྲེང་བ་ཡིན་ནོ། །འཁོར་བའི་འཁོར་ལོ་ལྡོག་པར་བྱེད་པ་ཡིན་ནོ། །ཆོས་ཀྱི་འཁོར་ལོ་སྐོར་བར་བྱེད་པ་ཡིན་ནོ། །ནུ་ཞོའི་རྒྱ་མཚོ་སྐེམས་པ་ཡིན་ནོ། །རུས་པའི་རི་འཇིག་པར་བྱེད་པ་ཡིན་ནོ། །
 
 སྐྱེ་བ་དང་། རྒ་བ་དང་། ན་བ་དང་། འཆི་བའི་མཐའ་ཡིན་ནོ། །ཕུང་པོའི་ཁུར་འཇོག་པ་ཡིན་ནོ། །ཉོན་མོངས་པའི་འདམ་དུ་བྱིང་བ་རྣམས་འབྱིན་པ་ཡིན་ནོ། །ཁྱིམ་གྱི་གཟེབ་ཏུ་བཅིངས་པ་རྣམས་རྣམ་པར་གྲོལ་བར་བྱེད་པ་ཡིན་ནོ། །གནོད་པའི་ཚོར་བ་རྣམས་ཟད་པར་བྱེད་པ་ཡིན་ནོ། །ཐེ་ཚོམ་རྣམས་དང་ཉོན་མོངས་པའི་དྲི་མ་བརྟན་པོར་གྱུར་པ་རྣམས་གཅོད་པ་ཡིན་ནོ། །རྒ་ཤིས་འཇིགས་པ་རྣམས་དབུགས་འབྱིན་པ་ཡིན་ནོ། །སྡུག་པ་དང་བྲལ་བ་ཟད་པར་བྱེད་པ་ཡིན་ནོ། །འཁོར་བའི་སྡུག་བསྔལ་གྱིས་གཙེས་པ་རྣམས་ཀྱི་བདེ་བ་དང་མི་འཇིགས་པའི་འགྲམ་ཡིན་ནོ། །

@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: 难陀出家经
 title_short: 难陀出家经
 title_long: 难陀出家经
@@ -9,50 +8,37 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh-hans
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh0328
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: I25CC3DDE
 pecha_no: I25CC3DDE - 难陀出家经
-
-# --- authorship ---
 author: 佛世尊
 author_en: ""
-
-# --- classification ---
 category: 1. 经部
 category_code: "1"
 category_en: 1 Discourses
 category_bo: 1 མདོ་སྡེ།
 category_lzh: 1. 经部
-
-# --- segmentation ---
 segment_count: 188
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh0328-bo: 188
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0328-bo]
+aligned_with:
+  - toh0328-bo
 work_group: kangyur-translations
 cluster_id: Toh0328
 toh_column_raw: Toh0328
-
-# --- provenance ---
-source_description: "https://buddha.now/toh0328/"
-source_url: "https://buddha.now/toh0328/"
-document_link: "https://docs.google.com/document/d/19oMcrHWbfPi0PDUUoblDX1CGSFVk2taa-SitnjlozA8/edit?tab=t.0"
+source_description: https://buddha.now/toh0328/
+source_url: https://buddha.now/toh0328/
+document_link: https://docs.google.com/document/d/19oMcrHWbfPi0PDUUoblDX1CGSFVk2taa-SitnjlozA8/edit?tab=t.0
 document_title: Toh0328《難陀出家經》v.1_zh
 google_doc_id: 19oMcrHWbfPi0PDUUoblDX1CGSFVk2taa-SitnjlozA8
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 236
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: fodian.org
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -60,7 +46,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 
