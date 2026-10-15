@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: toh1164-kp0031
 title_short: ""
 title_long: ""
@@ -9,51 +8,39 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh
 edition_variant: with-footnote
-
-# --- catalogue ids ---
 toh: toh1164
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: ""
 pecha_no: ""
-
-# --- authorship ---
 author: ""
 author_en: ""
-
-# --- classification ---
 category: ""
 category_code: ""
 category_en: ""
 category_bo: ""
 category_lzh: ""
-
-# --- segmentation ---
 segment_count: 28
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh1164-kp0031-bo: 28
   toh1164-kp0031-zh-without-footnote: 28
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh1164-kp0031-bo, toh1164-kp0031-zh-without-footnote]
+aligned_with:
+  - toh1164-kp0031-bo
+  - toh1164-kp0031-zh-without-footnote
 work_group: kumarajiva
 cluster_id: Toh1164_kp0031_
 toh_column_raw: ""
-
-# --- provenance ---
 source_description: ""
 source_url: ""
-document_link: "https://docs.google.com/document/d/1UChJM9f3wd5T8QpOGGAVjKQtIeL02L5mL7JuykFuT5w/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/1UChJM9f3wd5T8QpOGGAVjKQtIeL02L5mL7JuykFuT5w/edit?tab=t.0
 document_title: Toh1164_kp0031_五如來讚_zh_ with Footnote
 google_doc_id: 1UChJM9f3wd5T8QpOGGAVjKQtIeL02L5mL7JuykFuT5w
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 164
 work_id_source: doc-title
-
-# --- workflow status ---
 pecha_status: ""
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -61,7 +48,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 五如来赞。
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/tibetan/toh1164-kp0031-bo.md",
+                "file": "0-INBOX/new data/Chinese/toh1164-kp0031-zh-with-footnote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh1164-kp0031-bo"
+              "title": "toh1164-kp0031-zh-with-footnote"
             }
           }
         ]
@@ -197,10 +197,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "f8981a028660c6e9",
   "lastOpenFiles": [
+    "0-INBOX/new data/Tibetan/toh1164-kp0031-bo.md",
     "0-INBOX/new data/Chinese/toh1164-kp0031-zh-with-footnote.md",
-    "0-INBOX/texts/tibetan/toh1164-kp0031-bo.md",
     "0-INBOX/texts/chinese/toh1164-kp0031-zh-hans-with-footnote.md",
     "0-INBOX/texts/tibetan/toh1124-bo.md",
     "0-INBOX/new data/Tibetan/toh1123-bo.md",
