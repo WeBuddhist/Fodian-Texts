@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/tibetan/toh3822-kp0032-bo.md",
+                "file": "0-INBOX/texts/tibetan/toh3877-kp0034-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh3822-kp0032-bo"
+              "title": "toh3877-kp0034-bo"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -182,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +199,14 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "3cd50493e06fc392",
   "lastOpenFiles": [
+    "0-INBOX/texts/tibetan/toh4054-tai1606-2-bo.md",
+    "0-INBOX/texts/tibetan/toh4054-tai1606-4-bo.md",
+    "0-INBOX/texts/tibetan/toh4049-tai1605-1-bo.md",
+    "0-INBOX/texts/tibetan/toh3877-kp0034-bo.md",
+    "0-INBOX/new data/Tibetan/toh3822-kp0032-bo.md",
     "0-INBOX/new data/Chinese/toh3822-kp0032-zh-hans-with-footnote.md",
-    "0-INBOX/texts/tibetan/toh3822-kp0032-bo.md",
     "0-INBOX/texts/chinese/toh3822-kp0032-zh-hans-without-footnote.md",
     "0-INBOX/new data/Chinese/toh1124-zh-hans-without-footnote.md",
     "0-INBOX/new data/Tibetan/toh1124-bo.md",
@@ -221,10 +227,6 @@
     "0-INBOX/new data/Tibetan/toh44a-tai278-bo.md",
     "0-INBOX/new data/Chinese/toh44a-tai278-zh.md",
     "0-INBOX/texts/tibetan/toh44a-tai279-bo.md",
-    "0-INBOX/texts/tibetan/toh0026-bo.md",
-    "0-INBOX/texts/chinese/toh0040-zh-hans.md",
-    "0-INBOX/texts/chinese/toh0029-zh-hans.md",
-    "0-INBOX/new data/Chinese/toh0328-zh-hans.md",
     "0-INBOX/new data/Tibetan",
     "0-INBOX/new data/Chinese",
     "1-SOURCES/Translations",
