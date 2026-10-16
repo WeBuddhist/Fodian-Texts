@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: 三身赞注释
 title_short: 三身赞注释
 title_long: 三身赞注释
@@ -9,51 +8,39 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh-hans
 edition_variant: without-footnote
-
-# --- catalogue ids ---
 toh: toh1124
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: I75733F93
 pecha_no: I75733F93 - 三身赞注释
-
-# --- authorship ---
 author: 龙树菩萨
 author_en: ""
-
-# --- classification ---
 category: 14. 其他
 category_code: "14"
 category_en: 14 Miscenaleous
 category_bo: 14 སྣ་ཚོགས།
 category_lzh: 14. 其他
-
-# --- segmentation ---
 segment_count: 257
 segment_scheme: literal-numbering
 peer_segment_counts:
   toh1124-bo: 257
   toh1124-zh-with-footnote: 257
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh1124-bo, toh1124-zh-with-footnote]
+aligned_with:
+  - toh1124-bo
+  - toh1124-zh-with-footnote
 work_group: kumarajiva
 cluster_id: Toh1124
 toh_column_raw: Toh1124
-
-# --- provenance ---
-source_description: "https://buddha.now/toh1123-1124/"
-source_url: "https://buddha.now/toh1123-1124/"
-document_link: "https://docs.google.com/document/d/1qBhA8tE14js5qh9ADByHLpHeZn2BjtWTOx8sUAvm5Dg/edit?tab=t.0"
+source_description: https://buddha.now/toh1123-1124/
+source_url: https://buddha.now/toh1123-1124/
+document_link: https://docs.google.com/document/d/1qBhA8tE14js5qh9ADByHLpHeZn2BjtWTOx8sUAvm5Dg/edit?tab=t.0
 document_title: Toh1124_三身讚註釋_zh_without footnote
 google_doc_id: 1qBhA8tE14js5qh9ADByHLpHeZn2BjtWTOx8sUAvm5Dg
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 170
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: Staging
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -61,7 +48,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 三身赞注释
 
@@ -119,7 +106,9 @@ status: draft
 离分别基者，
 敬礼无等师。
 
-「我今恭敬礼」如此的「法身」──即法之体。若问：对谁、如何［顶礼］？〔答：顶礼］「诸佛」──无余通达一切所知故而心意能摄者；也就是「我以身、意『恭敬礼』」之义。「彼自圆满」，表示［其为］一切三界众生之大自在。若问：〔彼］有何殊胜？〔答：］「出过世间」，即越过世间。「不可思议」，即已超越心之境。「百善行妙果」，即于长时积集布施等诸波罗蜜多所生〔之果］。若问：为何人〔说法］？〔答：］「诸具慧」，即弥勒［菩萨〕、不空见［菩萨〕、能断一切恶趣［菩萨〕、能摧一切忧苦慧［菩萨〕等。
+「我今恭敬礼」如此的「法身」──即法之体。若问：对谁、如何［顶礼］？〔答：顶礼］「诸佛」──无余通达一切所知故而心意能摄者；也就是「我以身、意『恭敬礼』」之义。「彼自圆满」，表示［其为］一切三界众生之大自在。若问：〔彼］有何殊胜？〔答：］「出过世间」，即越过世间。
+
+「不可思议」，即已超越心之境。「百善行妙果」，即于长时积集布施等诸波罗蜜多所生〔之果］。若问：为何人〔说法］？〔答：］「诸具慧」，即弥勒［菩萨〕、不空见［菩萨〕、能断一切恶趣［菩萨〕、能摧一切忧苦慧［菩萨〕等。
 
 若问：为何〔说法］？〔答：］「令〔诸具慧］生欢喜故」，［使之］极为喜悦。「众会」，即菩萨众，「于」彼等之「中」。「种种」，即众多种类。所谓「广作宣说」，即随种种信解之诸众生意乐差别，而作众多分别宣说。「于此世间 常令正法 微妙音声 普遍流布者」，意指极广妙法之语；能入一切，是为广大。
 
