@@ -22,26 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "7ec7fbc611968c80",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3c99d40da240bdff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/texts/chinese/toh3822-kp0032-zh-hans-without-footnote.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "toh3822-kp0032-zh-hans-without-footnote"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -219,8 +199,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "3c99d40da240bdff",
+  "active": "f8981a028660c6e9",
   "lastOpenFiles": [
+    "0-INBOX/texts/chinese/toh3822-kp0032-zh-hans-without-footnote.md",
     "0-INBOX/texts/tibetan/toh3822-kp0032-bo.md",
     "0-INBOX/new data/Chinese/toh1124-zh-hans-without-footnote.md",
     "0-INBOX/new data/Tibetan/toh1124-bo.md",
@@ -246,7 +227,6 @@
     "0-INBOX/texts/chinese/toh0029-zh-hans.md",
     "0-INBOX/new data/Chinese/toh0328-zh-hans.md",
     "0-INBOX/texts/chinese/toh0328-zh.md",
-    "0-INBOX/new data/Tibetan/toh0328-bo.md",
     "0-INBOX/new data/Tibetan",
     "0-INBOX/new data/Chinese",
     "1-SOURCES/Translations",
