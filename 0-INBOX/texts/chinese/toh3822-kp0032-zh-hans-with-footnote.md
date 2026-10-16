@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: toh3822-kp0032
 title_short: ""
 title_long: ""
@@ -9,51 +8,39 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh-hans
 edition_variant: with-footnote
-
-# --- catalogue ids ---
 toh: toh3822
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: ""
 pecha_no: ""
-
-# --- authorship ---
 author: ""
 author_en: ""
-
-# --- classification ---
 category: ""
 category_code: ""
 category_en: ""
 category_bo: ""
 category_lzh: ""
-
-# --- segmentation ---
 segment_count: 417
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh3822-kp0032-bo: 382
   toh3822-kp0032-zh-without-footnote: 382
 segments_aligned: false
-
-# --- relations ---
-aligned_with: [toh3822-kp0032-bo, toh3822-kp0032-zh-without-footnote]
+aligned_with:
+  - toh3822-kp0032-bo
+  - toh3822-kp0032-zh-without-footnote
 work_group: kumarajiva
 cluster_id: Toh3822_kp0032
 toh_column_raw: ""
-
-# --- provenance ---
 source_description: ""
 source_url: ""
-document_link: "https://docs.google.com/document/d/1ikwiT6mfWV-25fmh8Xja1hpL6qfVJq_udL_BDv7_p3k/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/1ikwiT6mfWV-25fmh8Xja1hpL6qfVJq_udL_BDv7_p3k/edit?tab=t.0
 document_title: Toh3822_kp0032_遍知般若波羅蜜多心經之義_zh_with footnote
 google_doc_id: 1ikwiT6mfWV-25fmh8Xja1hpL6qfVJq_udL_BDv7_p3k
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 183
 work_id_source: doc-title
-
-# --- workflow status ---
 pecha_status: ""
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -61,7 +48,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 遍知般若波罗蜜多心经之义
 
