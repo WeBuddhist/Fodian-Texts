@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: སྐུ་གསུམ་ལ་བསྟོད་པ་ཞེས་བྱ་བའི་རྣམ་པར་འགྲེལ་པ།
 title_short: སྐུ་གསུམ་ལ་བསྟོད་པའི་རྣམ་པར་འགྲེལ་པ།
 title_long: སྐུ་གསུམ་ལ་བསྟོད་པ་ཞེས་བྱ་བའི་རྣམ་པར་འགྲེལ་པ།
@@ -9,59 +8,47 @@ file_type: root-text
 language: Tibetan
 lang_tag: bo
 edition_variant: ""
-
-# --- catalogue ids ---
 toh: toh1124
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: WA0RT0016
 pecha_id: I2A369182
 pecha_no: I2A369182 - སྐུ་གསུམ་ལ་བསྟོད་པའི་རྣམ་པར་འགྲེལ་པ།
-
-# --- authorship ---
 author: མགོན་པོ་ཀླུ་སྒྲུབ།
 author_en: Shraddhākaravarma and Rinchen Zangpo
-
-# --- classification ---
 category: 14. 其他
 category_code: "14"
 category_en: 14 Miscenaleous
 category_bo: 14 སྣ་ཚོགས།
 category_lzh: 14. 其他
-
-# --- segmentation ---
 segment_count: 257
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh1124-zh-with-footnote: 257
   toh1124-zh-without-footnote: 257
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh1124-zh-without-footnote, toh1124-zh-with-footnote]
+aligned_with:
+  - toh1124-zh-without-footnote
+  - toh1124-zh-with-footnote
 work_group: kumarajiva
 cluster_id: Toh1124
 toh_column_raw: Toh1124
-
-# --- provenance ---
-source_description: "https://library.bdrc.io/show/bdr:MW23703_1124"
-source_url: "https://library.bdrc.io/show/bdr:MW23703_1124"
-document_link: "https://docs.google.com/document/d/1bzk0UspOdvv2621A7aChQO73mPo8nyJbMSjGZp-z5PU/edit?tab=t.0"
+source_description: https://library.bdrc.io/show/bdr:MW23703_1124
+source_url: https://library.bdrc.io/show/bdr:MW23703_1124
+document_link: https://docs.google.com/document/d/1bzk0UspOdvv2621A7aChQO73mPo8nyJbMSjGZp-z5PU/edit?tab=t.0
 document_title: Toh1124_三身讚註釋_bo
 google_doc_id: 1bzk0UspOdvv2621A7aChQO73mPo8nyJbMSjGZp-z5PU
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 169
 work_id_source: column-a
-
-# --- workflow status ---
 pecha_status: Staging
 alignment_status: Alignment Checking
 alignment_file: Toh1124_三身讚暨註釋三身讚註釋
-alignment_file_url: "https://drive.google.com/open?id=1eVqclYlogQsFUzpwh2NNtL-hrw-LQyho&usp=drive_copy"
+alignment_file_url: https://drive.google.com/open?id=1eVqclYlogQsFUzpwh2NNtL-hrw-LQyho&usp=drive_copy
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 # སྐུ་གསུམ་ལ་བསྟོད་པ་ཞེས་བྱ་བའི་རྣམ་པར་འགྲེལ་པ།
