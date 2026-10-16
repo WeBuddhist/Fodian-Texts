@@ -22,26 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "5c1ff359c271b7e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f43050df33be974e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/texts/chinese/toh3822-kp0032-zh-hans-with-footnote.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "toh3822-kp0032-zh-hans-with-footnote"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -218,10 +197,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "f43050df33be974e",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
     "0-INBOX/texts/tibetan/toh3822-kp0032-bo.md",
-    "0-INBOX/texts/chinese/toh3822-kp0032-zh-hans-with-footnote.md",
+    "0-INBOX/new data/Chinese/toh3822-kp0032-zh-hans-with-footnote.md",
     "0-INBOX/texts/chinese/toh3822-kp0032-zh-hans-without-footnote.md",
     "0-INBOX/new data/Chinese/toh1124-zh-hans-without-footnote.md",
     "0-INBOX/new data/Tibetan/toh1124-bo.md",
