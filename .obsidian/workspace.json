@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/tibetan/toh1124-bo.md",
+                "file": "0-INBOX/texts/chinese/toh1124-zh-hans-without-footnote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh1124-bo"
+              "title": "toh1124-zh-hans-without-footnote"
             }
           }
         ]
@@ -199,10 +199,10 @@
   },
   "active": "f8981a028660c6e9",
   "lastOpenFiles": [
+    "0-INBOX/texts/tibetan/toh1124-bo.md",
     "0-INBOX/new data/Chinese/toh1164-kp0031-zh-with-footnote.md",
     "0-INBOX/new data/Tibetan/toh1164-kp0031-bo.md",
     "0-INBOX/texts/chinese/toh1164-kp0031-zh-hans-with-footnote.md",
-    "0-INBOX/texts/tibetan/toh1124-bo.md",
     "0-INBOX/new data/Tibetan/toh1123-bo.md",
     "0-INBOX/new data/Chinese/toh1123-zh-hans-without-footnote.md",
     "0-INBOX/texts/chinese/toh1123-zh-without-footnote.md",
