@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: toh4045-kp0040
 title_short: ""
 title_long: ""
@@ -9,51 +8,39 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh-hans
 edition_variant: with-footnote
-
-# --- catalogue ids ---
 toh: toh4045
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: ""
 pecha_no: ""
-
-# --- authorship ---
 author: ""
 author_en: ""
-
-# --- classification ---
 category: ""
 category_code: ""
 category_en: ""
 category_bo: ""
 category_lzh: ""
-
-# --- segmentation ---
 segment_count: 334
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh4045-kp0040-bo: 334
   toh4045-kp0040-zh-without-footnote: 334
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh4045-kp0040-bo, toh4045-kp0040-zh-without-footnote]
+aligned_with:
+  - toh4045-kp0040-bo
+  - toh4045-kp0040-zh-without-footnote
 work_group: kumarajiva
 cluster_id: Toh4045_kp0040
 toh_column_raw: ""
-
-# --- provenance ---
 source_description: ""
 source_url: ""
-document_link: "https://docs.google.com/document/d/1K3flTZtT019b8517fMH4O58uTHMOoKrlYP6jHSugNjs/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/1K3flTZtT019b8517fMH4O58uTHMOoKrlYP6jHSugNjs/edit?tab=t.0
 document_title: Toh4045_kp0040_菩薩戒品釋_zh_with footnote
 google_doc_id: 1K3flTZtT019b8517fMH4O58uTHMOoKrlYP6jHSugNjs
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 175
 work_id_source: doc-title
-
-# --- workflow status ---
 pecha_status: ""
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -61,7 +48,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 菩萨戒品释           功德光[1]论师造
 
@@ -81,9 +68,7 @@ status: draft
 
 其中，诸事欲是所欲之事[6]故。诸烦恼欲，由欲求故说名为欲[7]。此处是指诸事欲。彼等亦有二相：交合事欲、非彼之事欲。于诸非彼之事欲，譬如腐草。于诸（交合）事欲，譬如粪秽。所说「诸下劣」，如外物般有二相。人之一切欲中，最胜为转轮王之欲，于此诸欲不顾者，是（不顾）今生。
 
-不喜乐者是于未来诸欲。未来是后世。于未来世天魔王宫所有诸妙欲。问：「何故不愿求彼诸妙欲而修行梵行？」 答言「广大种种（恐畏稠林）」等文[8]。
-
-所说「正慧审观，尚如变吐」[9]，食物变吐与欲尘二者同于先前已遍断除故。所说「住律仪戒」，说明住于别解脱律仪。若如是，则是已护戒者。
+不喜乐者是于未来诸欲。未来是后世。于未来世天魔王宫所有诸妙欲。问：「何故不愿求彼诸妙欲而修行梵行？」 答言「广大种种（恐畏稠林）」等文[8]。所说「正慧审观，尚如变吐」[9]，食物变吐与欲尘二者同于先前已遍断除故。所说「住律仪戒」，说明住于别解脱律仪。若如是，则是已护戒者。
 
 问：「云何彼是已善护戒者？」虽已防护，然以六种因非善加防护：一、唯以少许，便生喜足。二、具等起[10]之语，未全清净。三、自行轻蔑。四、不摄眷属。五、于已生罪过，不完全如法悔改。六、未能清净轨则、正命。
 
@@ -185,6 +170,9 @@ status: draft
 知量善士法，
 具聪慧者相，
 忍柔和贤善。」[27]
+
+
+
 
 其中有多少行相？行相有二：自性分类；果分类。其中，自性分类者，谓止息戒、转作戒、防护戒。
 
