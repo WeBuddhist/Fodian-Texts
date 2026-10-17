@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: toh3877-kp0034
 title_short: ""
 title_long: ""
@@ -9,53 +8,43 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh
 edition_variant: with-footnote
-
-# --- catalogue ids ---
 toh: toh3877
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: ""
 pecha_no: ""
-
-# --- authorship ---
 author: ""
 author_en: ""
-
-# --- classification ---
 category: ""
 category_code: ""
 category_en: ""
 category_bo: ""
 category_lzh: ""
-
-# --- segmentation ---
 segment_count: 520
 segment_scheme: word-auto-numbering
 peer_segment_counts:
   toh3877-kp0034-bo: 520
-  toh3877-kp0034-bo-2: null
-  toh3877-kp0034-zh: null
+  toh3877-kp0034-bo-2:
+  toh3877-kp0034-zh:
   toh3877-kp0034-zh-without-footnote: 520
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh3877-kp0034-bo, toh3877-kp0034-zh-without-footnote, toh3877-kp0034-bo-2, toh3877-kp0034-zh]
+aligned_with:
+  - toh3877-kp0034-bo
+  - toh3877-kp0034-zh-without-footnote
+  - toh3877-kp0034-bo-2
+  - toh3877-kp0034-zh
 work_group: kumarajiva
 cluster_id: Toh3877_kp0034
 toh_column_raw: ""
-
-# --- provenance ---
 source_description: ""
 source_url: ""
-document_link: "https://docs.google.com/document/d/16yoUR-a4HKf1JwuJ9meAI7XphP1dw8nv8krCLB3H83I/edit?tab=t.0"
+document_link: https://docs.google.com/document/d/16yoUR-a4HKf1JwuJ9meAI7XphP1dw8nv8krCLB3H83I/edit?tab=t.0
 document_title: Toh3877_kp0034_入菩薩行智慧品和迴向品難語釋_zh_with footnote
 google_doc_id: 16yoUR-a4HKf1JwuJ9meAI7XphP1dw8nv8krCLB3H83I
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 179
 work_id_source: doc-title
-
-# --- workflow status ---
 pecha_status: ""
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -63,7 +52,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 
 
