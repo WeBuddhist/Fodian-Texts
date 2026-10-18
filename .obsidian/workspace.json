@@ -203,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,6 +221,16 @@
   },
   "active": "eba21ef500bf000d",
   "lastOpenFiles": [
+    "0-INBOX/texts/chinese/toh4049-tai1605-5-zh-hans.md",
+    "0-INBOX/texts/chinese/toh4049-tai1605-5-zh.md",
+    "0-INBOX/texts/chinese/toh4049-tai1605-4-zh-hans.md",
+    "0-INBOX/texts/chinese/toh4049-tai1605-4-zh.md",
+    "0-INBOX/texts/chinese/toh4049-tai1605-3-zh-hans.md",
+    "0-INBOX/texts/chinese/toh4049-tai1605-3-zh.md",
+    "0-INBOX/texts/chinese/toh4049-tai1605-2-zh-hans.md",
+    "0-INBOX/texts/chinese/toh4049-tai1605-2-zh.md",
+    "0-INBOX/texts/chinese/toh4049-tai1605-1-zh-hans.md",
+    "0-INBOX/texts/chinese/toh4049-tai1605-1-zh.md",
     "0-INBOX/texts/tibetan/toh4049-tai1605-1-bo.md",
     "0-INBOX/new data/Tibetan/toh4045-kp0040-bo.md",
     "0-INBOX/new data/Chinese/toh4045-kp0040-zh-hans-with-footnote.md",
@@ -236,16 +247,6 @@
     "0-INBOX/new data/Tibetan/toh1124-bo.md",
     "0-INBOX/new data/Chinese/toh1164-kp0031-zh-with-footnote.md",
     "0-INBOX/new data/Tibetan/toh1164-kp0031-bo.md",
-    "0-INBOX/texts/chinese/toh1164-kp0031-zh-hans-with-footnote.md",
-    "0-INBOX/new data/Tibetan/toh1123-bo.md",
-    "0-INBOX/new data/Chinese/toh1123-zh-hans-without-footnote.md",
-    "0-INBOX/texts/chinese/toh1123-zh-without-footnote.md",
-    "0-INBOX/new data/Chinese/toh0346-zh-hans.md",
-    "0-INBOX/new data/Tibetan/toh0346-bo.md",
-    "0-INBOX/texts/tibetan/toh555-tai665-bo.md",
-    "0-INBOX/texts/tibetan/toh341-tai202-bo.md",
-    "0-INBOX/texts/tibetan/toh56to57-tai310-002-bo.md",
-    "0-INBOX/texts/chinese/toh46-tai310-02-zh-hans.md",
     "0-INBOX/new data/Tibetan",
     "0-INBOX/new data/Chinese",
     "1-SOURCES/Translations",
