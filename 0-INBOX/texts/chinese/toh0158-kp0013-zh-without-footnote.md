@@ -1,5 +1,4 @@
 ---
-# --- identity ---
 title: 聖梵天所問大乘經
 title_short: 聖梵天所問大乘經
 title_long: 聖梵天所問大乘經
@@ -9,52 +8,41 @@ file_type: root-text
 language: Classical Chinese
 lang_tag: zh
 edition_variant: without-footnote
-
-# --- catalogue ids ---
 toh: toh0158
 taisho: ""
 bdrc_work_id: ""
 root_bdrc_work_id: ""
 pecha_id: I19A76A68
 pecha_no: I19A76A68 - 聖梵天所問大乘經
-
-# --- authorship ---
 author: 佛世尊
 author_en: ""
-
-# --- classification ---
 category: 1. 經部
 category_code: "1"
 category_en: 1 Discourses
 category_bo: 1 མདོ་སྡེ།
 category_lzh: 1. 經部
-
-# --- segmentation ---
 segment_count: 301
 segment_scheme: literal-numbering
 peer_segment_counts:
   toh0158-kp0013-bo: 301
-  toh0158-kp0013-zh-hans: null
+  toh0158-kp0013-zh-hans:
   toh0158-kp0013-zh-with-footnote: 301
 segments_aligned: true
-
-# --- relations ---
-aligned_with: [toh0158-kp0013-bo, toh0158-kp0013-zh-with-footnote, toh0158-kp0013-zh-hans]
+aligned_with:
+  - toh0158-kp0013-bo
+  - toh0158-kp0013-zh-with-footnote
+  - toh0158-kp0013-zh-hans
 work_group: kumarajiva
 cluster_id: Toh0158_kp0013
 toh_column_raw: Toh0158
-
-# --- provenance ---
-source_description: "https://buddha.now/toh0158/"
-source_url: "https://buddha.now/toh0158/"
-document_link: "https://docs.google.com/document/d/1rYG46jjbxJRIWTtyJSHnfYd7fxFSwLcUwlf_95cAlSw/edit?tab=t.0"
+source_description: https://buddha.now/toh0158/
+source_url: https://buddha.now/toh0158/
+document_link: https://docs.google.com/document/d/1rYG46jjbxJRIWTtyJSHnfYd7fxFSwLcUwlf_95cAlSw/edit?tab=t.0
 document_title: Toh0158_kp0013_聖梵天所問大乘經_zh_without footnote
 google_doc_id: 1rYG46jjbxJRIWTtyJSHnfYd7fxFSwLcUwlf_95cAlSw
 sheet_id: 1qXWMyWun6t2Nqya6SWPcHKVwk9AwYCtz5VUjYQOlAhU
 sheet_row: 153
 work_id_source: doc-title
-
-# --- workflow status ---
 pecha_status: fodian.org
 alignment_status: Alignment Checking
 alignment_file: ""
@@ -62,7 +50,7 @@ alignment_file_url: ""
 data_prep: ""
 ingest_status: with-body
 retrieved: 2026-09-21
-status: draft
+status: done
 ---
 聖梵天所問大乘經
 
