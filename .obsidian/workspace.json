@@ -11,10 +11,14 @@
             "id": "48b2e103f68a2e87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/texts/tibetan/toh4054-tai1606-1-bo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "toh4054-tai1606-1-bo"
             }
           }
         ]
