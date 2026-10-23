@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -202,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,13 +220,13 @@
   },
   "active": "ff57d647f8680081",
   "lastOpenFiles": [
+    "0-INBOX/texts/tibetan/toh4054-tai1606-1-bo.md",
+    "0-INBOX/texts/chinese/toh4054-tai1606-1-zh.md",
     "0-INBOX/texts/chinese/toh4054-tai1606-4-zh-hans.md",
     "0-INBOX/texts/chinese/toh4054-tai1606-5-zh.md",
     "0-INBOX/texts/chinese/toh4054-tai1606-5-zh-hans.md",
     "0-INBOX/texts/chinese/toh4054-tai1606-2-zh.md",
     "0-INBOX/texts/chinese/toh4054-tai1606-1-zh-hans.md",
-    "0-INBOX/texts/chinese/toh4054-tai1606-1-zh.md",
-    "0-INBOX/texts/tibetan/toh4054-tai1606-1-bo.md",
     "0-INBOX/new data/Chinese/toh0158-kp0013-zh-without-footnote.md",
     "0-INBOX/new data/Tibetan/toh0158-kp0013-bo.md",
     "0-INBOX/texts/chinese/toh0158-kp0013-zh-with-footnote.md",
