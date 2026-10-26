@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "dbd84338ac8e2aaa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d6e56ac96ce830eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/texts/tibetan/toh555-tai665-bo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "toh555-tai665-bo"
-            }
-          }
-        ]
-      },
-      {
         "id": "cc2f1d47b2e29cac",
         "type": "tabs",
         "children": [
@@ -33,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/chinese/toh555-tai665-zh-hans.md",
+                "file": "0-INBOX/texts/tibetan/toh56to57-tai310-003-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh555-tai665-zh-hans"
+              "title": "toh56to57-tai310-003-bo"
             }
           }
         ]
@@ -100,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -221,8 +200,13 @@
   },
   "active": "85222314ed847793",
   "lastOpenFiles": [
-    "0-INBOX/texts/tibetan/toh555-tai665-bo.md",
+    "0-INBOX/texts/tibetan/toh56to57-tai310-002-bo.md",
+    "0-INBOX/texts/tibetan/toh46-tai310-02-bo.md",
+    "0-INBOX/texts/tibetan/toh44a-tai279-bo.md",
+    "0-INBOX/new data/Tibetan/toh44a-tai278-bo.md",
+    "0-INBOX/texts/tibetan/toh0026-bo.md",
     "0-INBOX/texts/chinese/toh555-tai665-zh-hans.md",
+    "0-INBOX/texts/tibetan/toh555-tai665-bo.md",
     "0-INBOX/texts/chinese/toh555-tai665-zh.md",
     "0-INBOX/new data/Chinese/toh16-zh-hant.md",
     "0-INBOX/texts/tibetan/toh0115-bo.md",
@@ -242,11 +226,6 @@
     "0-INBOX/texts/tibetan/toh341-tai202-bo.md",
     "0-INBOX/new data/Tibetan/toh4049-tai1605-1-bo.md",
     "0-INBOX/new data/Chinese/toh4049-tai1605-1-zh.md",
-    "0-INBOX/texts/chinese/toh4049-tai1605-5-zh-hans.md",
-    "0-INBOX/texts/chinese/toh4049-tai1605-5-zh.md",
-    "0-INBOX/texts/chinese/toh4049-tai1605-4-zh-hans.md",
-    "0-INBOX/texts/chinese/toh4049-tai1605-4-zh.md",
-    "0-INBOX/texts/chinese/toh4049-tai1605-3-zh-hans.md",
     "0-INBOX/new data/Tibetan",
     "0-INBOX/new data/Chinese",
     "1-SOURCES/Translations",
