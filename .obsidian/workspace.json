@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/chinese/toh555-tai665-zh-hans.md",
+                "file": "0-INBOX/texts/tibetan/toh0026-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh555-tai665-zh-hans"
+              "title": "toh0026-bo"
             }
           }
         ]
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -221,17 +220,18 @@
   },
   "active": "653eeb42875a7845",
   "lastOpenFiles": [
-    "0-INBOX/texts/tibetan/toh555-tai665-bo.md",
+    "0-INBOX/texts/chinese/toh0026-zh-hans-without-footnote.md",
+    "0-INBOX/texts/tibetan/toh0026-bo.md",
+    "0-INBOX/texts/tibetan/toh46-tai310-02-bo.md",
+    "0-INBOX/texts/tibetan/toh44a-tai279-bo.md",
     "0-INBOX/texts/chinese/toh555-tai665-zh-hans.md",
+    "0-INBOX/texts/tibetan/toh555-tai665-bo.md",
     "0-INBOX/new data/Tibetan/toh0115-bo.md",
     "0-INBOX/texts/tibetan/toh56to57-tai310-008-bo.md",
     "0-INBOX/texts/tibetan/toh56to57-tai310-005-bo.md",
     "0-INBOX/texts/tibetan/toh56to57-tai310-003-bo.md",
     "0-INBOX/texts/tibetan/toh56to57-tai310-002-bo.md",
-    "0-INBOX/texts/tibetan/toh46-tai310-02-bo.md",
-    "0-INBOX/texts/tibetan/toh44a-tai279-bo.md",
     "0-INBOX/new data/Tibetan/toh44a-tai278-bo.md",
-    "0-INBOX/texts/tibetan/toh0026-bo.md",
     "0-INBOX/texts/chinese/toh555-tai665-zh.md",
     "0-INBOX/new data/Chinese/toh16-zh-hant.md",
     "0-INBOX/new data/Tibetan/toh4054-tai1606-1-bo.md",
@@ -246,7 +246,6 @@
     "0-INBOX/texts/chinese/toh0158-kp0013-zh-with-footnote.md",
     "0-INBOX/texts/chinese/toh0158-kp0013-zh-hans-with-footnote.md",
     "0-INBOX/texts/chinese/toh0158-kp0013-zh-hans-without-footnote.md",
-    "0-INBOX/texts/tibetan/toh0198-kp0016-bo.md",
     "0-INBOX/new data/Tibetan",
     "0-INBOX/new data/Chinese",
     "1-SOURCES/Translations",
